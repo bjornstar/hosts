@@ -68,7 +68,6 @@ fe80::1%lo0		localhost
 
 #This one fixes nbc videos
 0.0.0.0	adm.fwmrm.net
-
 0.0.0.0	stats.g.doubleclick.net
 
 #Google's Opt-Out Servers, thanks for the handy list!
@@ -414,9 +413,7 @@ fe80::1%lo0		localhost
 0.0.0.0	beta.adyea.com
 0.0.0.0	c1.zxxds.net
 0.0.0.0	www.amateurmatch.com
-0.0.0.0	eas.apm.emediate.eu
 0.0.0.0	openx.ventivmedia.com
-0.0.0.0	rts.sparkstudios.com
 0.0.0.0	adson.awempire.com
 0.0.0.0	tags.adcde.com
 0.0.0.0	banner.addlvr.com
@@ -574,7 +571,6 @@ fe80::1%lo0		localhost
 0.0.0.0	bdv.bidvertiser.com
 0.0.0.0	feedjit.com
 0.0.0.0	banners.getiton.com
-0.0.0.0	graphics.pop6.com
 0.0.0.0	getiton.com
 0.0.0.0	s3.buysellads.com
 0.0.0.0	quizcreator.heroku.com
@@ -588,7 +584,6 @@ fe80::1%lo0		localhost
 0.0.0.0	s09.flagcounter.com
 0.0.0.0	flagcounter.com
 0.0.0.0	creatives.cdn.commindo.de.lg1.simplecdn.net
-0.0.0.0	admaster.com.cn
 0.0.0.0	a.alimama.cn
 0.0.0.0	effectivemeasure.net
 0.0.0.0	facebook.youtubevideobox.com
@@ -671,7 +666,6 @@ fe80::1%lo0		localhost
 0.0.0.0	sm.hardsextube.com
 0.0.0.0	adserver.hardsextube.com
 0.0.0.0	media.adxpansion.com
-0.0.0.0	getiton.com
 0.0.0.0	glean.pop6.com
 0.0.0.0	img2.depositfiles.net
 0.0.0.0	advprotraffic.com
@@ -763,14 +757,12 @@ fe80::1%lo0		localhost
 0.0.0.0	free-license.imgpop.com
 0.0.0.0	free-license.top-3d.com
 0.0.0.0	www.onestopdownloads.com
-0.0.0.0	www.eatmyshorts.net
 0.0.0.0	mediadome.ru
 0.0.0.0	click.mediadome.ru
 0.0.0.0	payments.mediadome.ru
 0.0.0.0	www.nowfreedownloads.com
 0.0.0.0	ddl.furk.net
 0.0.0.0	www.p2ptrace.com
-0.0.0.0	a.kerg.net
 0.0.0.0	cbanners.virtuagirlhd.com
 0.0.0.0	www.fastdownloadarchive.com
 0.0.0.0	www.deluxe-downloads.com
@@ -888,7 +880,6 @@ fe80::1%lo0		localhost
 0.0.0.0	qq829.com
 0.0.0.0	helios.gamerdna.com
 0.0.0.0	server.cpmstar.com
-0.0.0.0	cdn.cpmstar.com
 0.0.0.0	www.game-advertising-online.com
 0.0.0.0	playstation.innovyx.net
 0.0.0.0	innovyx.net
@@ -1062,7 +1053,6 @@ fe80::1%lo0		localhost
 0.0.0.0	b.collective-media.net
 0.0.0.0	www.collective.com
 0.0.0.0	idcs.interclick.com
-0.0.0.0	www.interclick.com
 0.0.0.0	at1.opentracker.net
 0.0.0.0	pixel.reddit.com
 0.0.0.0	i.psa-ads.openx.com
@@ -1199,7 +1189,6 @@ fe80::1%lo0		localhost
 0.0.0.0	kert9qw2.com
 0.0.0.0	www.ladenas938.com
 0.0.0.0	ladenas938.com
-0.0.0.0	www.cnzz.com
 0.0.0.0	zs13.cnzz.com
 0.0.0.0	icon.cnzz.com
 0.0.0.0	ocp.cbsnews.com
@@ -1220,7 +1209,6 @@ fe80::1%lo0		localhost
 0.0.0.0	112.2o7.net
 0.0.0.0	acpmagazines.112.2o7.net
 0.0.0.0	canadapost.112.2o7.net
-0.0.0.0	cbsdigitalmedia.112.2o7.net
 0.0.0.0	cmp.112.2o7.net
 0.0.0.0	eaeacom.112.2o7.net
 0.0.0.0	f2network.112.2o7.net
@@ -1250,7 +1238,6 @@ fe80::1%lo0		localhost
 0.0.0.0	kddi.122.2o7.net
 0.0.0.0	marriottinternational.122.2o7.net
 0.0.0.0	netgear.122.2o7.net
-0.0.0.0	popcapgames.122.2o7.net
 0.0.0.0	surveymonkey.122.2o7.net
 0.0.0.0	tribuneinteractive.122.2o7.net
 0.0.0.0	adsyndication.yelldirect.com
@@ -1265,7 +1252,6 @@ fe80::1%lo0		localhost
 0.0.0.0	ad3.liverail.com
 0.0.0.0	adse-2.liverail.com
 0.0.0.0	video.od.visiblemeasures.com
-0.0.0.0	cdn.visiblemeasures.com
 0.0.0.0	cdn.visiblemeasures.com
 0.0.0.0	vox-static.liverail.com
 0.0.0.0	t3.liverail.com
@@ -1456,7 +1442,6 @@ fe80::1%lo0		localhost
 0.0.0.0	ip.nuggad.net
 0.0.0.0	rc.rtl.btt.betarget.de
 0.0.0.0	cdn.adrolays.de
-0.0.0.0	jlinks.industrybrains.com
 0.0.0.0	e2.cdn.qnsr.com
 0.0.0.0	e1.cdn.qnsr.com
 0.0.0.0	o1.qnsr.com
@@ -1732,9 +1717,7 @@ fe80::1%lo0		localhost
 0.0.0.0	d1pr3sk5xr0dce.cloudfront.net
 0.0.0.0	app.icontact.com
 0.0.0.0	ssl.clickbank.net
-0.0.0.0	images.scanalert.com
 0.0.0.0	ssl.kaptcha.com
-0.0.0.0	seal.verisign.com
 0.0.0.0	9.spaid.pay.clickbank.net
 0.0.0.0	www.clickbank.com
 0.0.0.0	cbmetrics.clickbank.com
@@ -1742,8 +1725,6 @@ fe80::1%lo0		localhost
 0.0.0.0	kumpulblogger.com
 0.0.0.0	blogergadgets.googlecode.com
 0.0.0.0	scr.kliksaya.com
-0.0.0.0	img2.blogblog.com
-0.0.0.0	img1.blogblog.com
 0.0.0.0	nwidget.networkedblogs.com
 0.0.0.0	ads.sittiad.com
 0.0.0.0	www.vemmabuilder.com
@@ -1830,7 +1811,6 @@ fe80::1%lo0		localhost
 0.0.0.0	affiliates.hookup.com
 0.0.0.0	hyperobot.com
 0.0.0.0	br.rk.com
-0.0.0.0	widget.plugrush.com
 0.0.0.0	adservices.picadmedia.com
 0.0.0.0	services.picadmedia.com
 0.0.0.0	cdn3.picadmedia.com
@@ -1916,7 +1896,6 @@ fe80::1%lo0		localhost
 0.0.0.0	pglb.buzzfed.com
 0.0.0.0	embed.5min.com
 0.0.0.0	thebflix.com
-0.0.0.0	admaster.com.cn
 0.0.0.0	i.adsame.com
 0.0.0.0	sammix.adsame.com
 0.0.0.0	chinadaily.allyes.com
@@ -1958,7 +1937,6 @@ fe80::1%lo0		localhost
 0.0.0.0	geoloc13.geovisite.com
 0.0.0.0	www.lunarpages.com
 0.0.0.0	js.tongji.linezing.com
-0.0.0.0	dt.tongji.linezing.com
 0.0.0.0	tongji.linezing.com
 0.0.0.0	vip.book.sina.com.cn
 0.0.0.0	www.edensite.net
@@ -2015,7 +1993,6 @@ fe80::1%lo0		localhost
 0.0.0.0	cpd8.net
 0.0.0.0	wmedia.rotator.hadj7.adjuggler.net
 0.0.0.0	t3.trackalyzer.com
-0.0.0.0	trackalyzer.com
 0.0.0.0	hl.megashares.com
 0.0.0.0	1link.mail.ru
 0.0.0.0	www.directadvert.ru
@@ -2073,7 +2050,6 @@ fe80::1%lo0		localhost
 0.0.0.0	link.email.dynect.net
 0.0.0.0	r.qiyou.com
 0.0.0.0	img.qiyou.com
-0.0.0.0	s.qiyou.com
 0.0.0.0	count10.51yes.com
 0.0.0.0	count44.51yes.com
 0.0.0.0	twfb.ips.onegot.com
@@ -2124,13 +2100,11 @@ fe80::1%lo0		localhost
 0.0.0.0	facefunn.com
 0.0.0.0	cpalead.com
 0.0.0.0	adultaccessnow.com
-0.0.0.0	adscendmedia.com
 0.0.0.0	oocee.com
 0.0.0.0	perfecttracking.com
 0.0.0.0	cpalock.com
 0.0.0.0	dollarade.com
 0.0.0.0	blackhatcodebreaker.com
-0.0.0.0	instantdollarz.com
 0.0.0.0	leadbolt.net
 0.0.0.0	pointclicktrack.com
 0.0.0.0	syndik8ed.com
@@ -2148,7 +2122,6 @@ fe80::1%lo0		localhost
 0.0.0.0	impressionaffiliate.com
 0.0.0.0	impressionvalue.mobi
 0.0.0.0	impressionwidget.net
-0.0.0.0	impressionperformance.biz
 0.0.0.0	leadad.mobi
 0.0.0.0	leadadvert.info
 0.0.0.0	junglefriendtracker.info
@@ -2390,8 +2363,6 @@ fe80::1%lo0		localhost
 0.0.0.0	www.halloheimur.is
 0.0.0.0	www.franzharrislive.com
 0.0.0.0	www.pindiscount.com
-0.0.0.0	cdn.doubleverify.com
-0.0.0.0	ar.voicefive.com
 0.0.0.0	view.atdmt.com
 0.0.0.0	ec.atdmt.com
 0.0.0.0	pr.prchecker.info
@@ -2519,7 +2490,6 @@ fe80::1%lo0		localhost
 0.0.0.0	www.100sexgames.com
 0.0.0.0	www.amy.gs
 0.0.0.0	cams.com
-0.0.0.0	graphics.cams.com
 0.0.0.0	secure.cams.com
 0.0.0.0	graphics.streamray.com
 0.0.0.0	www.movieworldsite.com
@@ -2677,7 +2647,6 @@ fe80::1%lo0		localhost
 0.0.0.0	apiservices.krxd.net
 0.0.0.0	a1.vdna-assets.com
 0.0.0.0	f.domdex.com
-0.0.0.0	apiservices.krxd.net
 0.0.0.0	segs.btrll.com
 0.0.0.0	cdn.krxd.net
 0.0.0.0	load.s3.amazonaws.com
@@ -2721,7 +2690,6 @@ fe80::1%lo0		localhost
 0.0.0.0	rt.legolas-media.com
 0.0.0.0	rd.meebo.com
 0.0.0.0	comments.us1.gigya.com
-0.0.0.0	cdn.gigya.com
 0.0.0.0	pp-serve.newsinc.com
 0.0.0.0	survey.g.doubleclick.net
 0.0.0.0	p.visualrevenue.com
@@ -2777,7 +2745,6 @@ fe80::1%lo0		localhost
 0.0.0.0	p.49ko.com
 0.0.0.0	p.144gg.com
 0.0.0.0	www.a135.net
-0.0.0.0	jump.yeeunion.com
 0.0.0.0	cs.twcczhu.com
 0.0.0.0	www.37cs.com
 0.0.0.0	analytics-union.xunlei.com
@@ -2981,7 +2948,6 @@ fe80::1%lo0		localhost
 0.0.0.0	smartcj.com
 0.0.0.0	click.trafficholder.com
 0.0.0.0	c4tracking01.com
-0.0.0.0	one.cam4ads.com
 0.0.0.0	redirect.ero-advertising.com
 0.0.0.0	empowernetwork-info.nl
 0.0.0.0	gogvo.com
@@ -3090,7 +3056,6 @@ fe80::1%lo0		localhost
 0.0.0.0	support.imesh.com
 0.0.0.0	lp.ilivid.com
 0.0.0.0	download.ilivid.com
-0.0.0.0	www.ilivid.com
 0.0.0.0	vube.com
 0.0.0.0	frame.thestaticvube.com
 0.0.0.0	m2.thestaticvube.com
@@ -3111,8 +3076,6 @@ fe80::1%lo0		localhost
 0.0.0.0	www.blog-hits.com
 0.0.0.0	www.cpmtree.com
 0.0.0.0	mediadvo.com
-0.0.0.0	ad.media-servers.net
-0.0.0.0	ad2.adnetwork.net
 0.0.0.0	sportzone.do.am
 0.0.0.0	pautaspr.com
 0.0.0.0	c1.popads.net
@@ -3190,7 +3153,6 @@ fe80::1%lo0		localhost
 0.0.0.0	www.bcclear.ru
 0.0.0.0	sergej1010.popunder.ru
 0.0.0.0	www.bcggo.ru
-0.0.0.0	sergej1010.popunder.ru
 0.0.0.0	xaogi.com
 0.0.0.0	cashtube.ru
 0.0.0.0	tubedot.ru
@@ -3254,7 +3216,6 @@ fe80::1%lo0		localhost
 0.0.0.0	api.140proof.com
 0.0.0.0	js.nrcdn.com
 0.0.0.0	cdn.buysellads.com
-0.0.0.0	srv.buysellads.com
 0.0.0.0	dealsandjobs.com
 0.0.0.0	twitter-deals.net
 0.0.0.0	p2.adhitzads.com
@@ -3275,12 +3236,10 @@ fe80::1%lo0		localhost
 0.0.0.0	tags.bkrtx.com
 0.0.0.0	windowslive.tt.omtrdc.net
 0.0.0.0	stags.bluekai.com
-0.0.0.0	tags.bluekai.com
 0.0.0.0	s.imp.microsoft.com
 0.0.0.0	swiftype.com
 0.0.0.0	c.aol.com
 0.0.0.0	o.aolcdn.com
-0.0.0.0	b.techcrunch.com
 0.0.0.0	www.myvoicenation.com
 0.0.0.0	stream1.myvoicenation.fyre.co
 0.0.0.0	www.tiqiq.com
@@ -3362,7 +3321,6 @@ fe80::1%lo0		localhost
 0.0.0.0	adrotator.se
 0.0.0.0	xp2.zedo.com
 0.0.0.0	cdn1.clkrev.com
-0.0.0.0	clkrev.com
 0.0.0.0	aad73c550c.se
 0.0.0.0	i.isohunt.to
 0.0.0.0	0llii0g6.com
@@ -3410,7 +3368,6 @@ fe80::1%lo0		localhost
 0.0.0.0	c.mobpartner.mobi
 0.0.0.0	app-adforce.jp
 0.0.0.0	ad.smaad.jp
-0.0.0.0	bs.serving-sys.com
 0.0.0.0	ttcdn.info
 0.0.0.0	www.kunbux.com
 0.0.0.0	www.88bux.com
@@ -3532,7 +3489,6 @@ fe80::1%lo0		localhost
 0.0.0.0	analytics.twitter.com
 0.0.0.0	ssegs.btrll.com
 0.0.0.0	10.xg4ken.com
-0.0.0.0	api.nanigans.com
 0.0.0.0	c126280.conv.btrll.com
 0.0.0.0	www.our-hurricane-file.net
 0.0.0.0	www.your-tsunami-file.net
@@ -3580,8 +3536,6 @@ fe80::1%lo0		localhost
 0.0.0.0	novadune.com
 0.0.0.0	ad.theequalground.info
 0.0.0.0	creative.ad121m.com
-0.0.0.0	t.cqq5id8n.com
-0.0.0.0	kmylvwo5.com
 0.0.0.0	wwv4ez0n.com
 0.0.0.0	u1hw38x0.com
 0.0.0.0	creative.wwwpromoter.com
@@ -3637,8 +3591,6 @@ fe80::1%lo0		localhost
 0.0.0.0	www.globalcompanions.com
 0.0.0.0	tr.asiandate.com
 0.0.0.0	tags.rtbidder.net
-0.0.0.0	www.asiandate.com
-0.0.0.0	api.asiandate.com
 0.0.0.0	asiandate.com
 0.0.0.0	chat.amolatina.com
 0.0.0.0	chat.asiandate.com
@@ -3750,3 +3702,53 @@ fe80::1%lo0		localhost
 0.0.0.0	assets.adobedtm.com
 0.0.0.0	c.amazon-adsystem.com
 0.0.0.0	segment-data.zqtk.net
+0.0.0.0	40xbfzk8.com
+0.0.0.0	i2.bongacams.com
+0.0.0.0	tools.bongacams.com
+0.0.0.0	3b9cc85dcf732d5.se
+0.0.0.0	xch.directrev.com
+0.0.0.0	a.matrixallapp.info
+0.0.0.0	magiciary.com
+0.0.0.0	www.allanalpass.com
+0.0.0.0	www.divorce-advice.org
+0.0.0.0	divorce-advice.org
+0.0.0.0	loadsanook.com
+0.0.0.0	a.pomf.se
+0.0.0.0	bigkilo.biz
+0.0.0.0	mymediadownloadsnine.com
+0.0.0.0	a.appbluebar.info
+0.0.0.0	a.allstatepro.info
+0.0.0.0	global.click.taobao.com
+0.0.0.0	9nvzz.wincentral.cribcamp.science
+0.0.0.0	com-reward.in
+0.0.0.0	statsmobi.com
+0.0.0.0	noyapps.com
+0.0.0.0	en.playpw.com
+0.0.0.0	thefreecamsecret.com
+0.0.0.0	gamefuse.com
+0.0.0.0	searchfreecodecs.mediasearch-vv.com
+0.0.0.0	mediasearch-vv.com
+0.0.0.0	ip.ilivid.com
+0.0.0.0	oneclick.net
+0.0.0.0	www.thefreecamsecret.com
+0.0.0.0	software-updates.co
+0.0.0.0	adc.flashproplayer.com
+0.0.0.0	www.binaryoptionsnewbies.com
+0.0.0.0	adrotor.se
+0.0.0.0	binary-machine.com
+0.0.0.0	thetraderinpajamas.com
+0.0.0.0	5j7zz.reward-zone.surveryquicker.com
+0.0.0.0	trafficfactory.biz
+0.0.0.0	adsupplyads.com
+0.0.0.0	www.adsupplyads.com
+0.0.0.0	www.lpcloudbox402.com
+0.0.0.0	mplayerdownloader.24trk.com
+0.0.0.0	warthunder.com
+0.0.0.0	totaldomination.com
+0.0.0.0	gameinvite.24trk.com
+0.0.0.0	ageofwushu.com
+0.0.0.0	hidefinstall.com
+0.0.0.0	tradingfornewbies.com
+0.0.0.0	themediafilegroups.com
+0.0.0.0	release.theplatform.com
+0.0.0.0	btguard.com
