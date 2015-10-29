@@ -15,7 +15,7 @@ fs.readFile('hosts', function (e, hosts) {
 		seen[line] = true
 	}
 
-	var output = Object.keys(seen).join('\n');
+	var output = Object.keys(seen).join('\n') + '\n';
 
 	fs.writeFile('hosts-dedupe', output, function (e) {
 		if (e) {
