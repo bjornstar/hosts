@@ -4001,3 +4001,10 @@ fe80::1%lo0		localhost
 0.0.0.0	images-na.ssl-images-amazon.com
 0.0.0.0	g-ecx.images-amazon.com
 0.0.0.0	s.amazon-adsystem.com
+0.0.0.0	play.spotify.com
+0.0.0.0	vuadrmyfts.spotilocal.com
+0.0.0.0	open.spotify.com
+0.0.0.0	play.spotify.edgekey.net
+0.0.0.0	api.m30w.net
+0.0.0.0	srv.carbonads.net
+0.0.0.0	cdn.carbonads.net
