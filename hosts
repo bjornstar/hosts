@@ -3214,7 +3214,7 @@ fe80::1%lo0		localhost
 0.0.0.0	skypewebexperience.live.com
 0.0.0.0	smetrics.skype.com
 0.0.0.0	a.trouter.io
-0.0.0.0	go.trouter.io
+#0.0.0.0	go.trouter.io
 0.0.0.0	c.live.com
 0.0.0.0	az351254.vo.msecnd.net
 0.0.0.0	c.microsoft.com
@@ -3994,7 +3994,6 @@ fe80::1%lo0		localhost
 0.0.0.0	apapi.dc121677.com
 0.0.0.0	d.dc121677.com
 0.0.0.0	6e2bd3848d2b73.se
-0.0.0.0	damimage.com
 0.0.0.0	pl2780.puhtml.com
 0.0.0.0	api.rtvrapi.com
 0.0.0.0	tewla.com
@@ -4496,9 +4495,6 @@ fe80::1%lo0		localhost
 0.0.0.0	ck.jp.ap.valuecommerce.com
 0.0.0.0	vcentry2.valuecommerce.ne.jp
 0.0.0.0	secure.bidvertiser.com
-0.0.0.0	optadsorg.com
-0.0.0.0	rpt.cedexis.com
-0.0.0.0	t.umblr.com
 0.0.0.0	cdn.bidvertiser.com
 0.0.0.0	a5r.firmprotectedlinked.com
 0.0.0.0	m4lzz.superpromo.0707.pics
@@ -4695,10 +4691,8 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.7simage.com
 0.0.0.0	www.nianluen.cn
 0.0.0.0	p2.hyz86.com
-0.0.0.0	p2.hyz86.com
 0.0.0.0	kt.kt220.com
 0.0.0.0	kl.hfdforging.com
-0.0.0.0	www.ggba.pw
 0.0.0.0	www.yinooo10.com
 0.0.0.0	mctqz.com
 0.0.0.0	www.zuizhou.net
@@ -4719,3 +4713,6 @@ fe80::1%lo0		localhost
 0.0.0.0	xml.pdn-3.com
 0.0.0.0	click.alibaba.com
 0.0.0.0	offer.alibaba.com
+0.0.0.0	kaczz.prize-o-rama.529880.xyz
+0.0.0.0	mediafire-d.openx.net
+0.0.0.0	xmaswrite.com
