@@ -4727,3 +4727,8 @@ fe80::1%lo0		localhost
 0.0.0.0 o.advg.jp
 0.0.0.0 jp-tags.mediaforge.com
 0.0.0.0 a.mobify.com
+0.0.0.0 echo.intergient.com
+0.0.0.0 cdn.video.playwire.com
+0.0.0.0 config.playwire.com
+0.0.0.0 cdn.playwire.com
+0.0.0.0 go.bistroapi.com
