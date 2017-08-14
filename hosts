@@ -5142,3 +5142,8 @@ fe80::1%lo0		localhost
 0.0.0.0	ganalytics.win
 0.0.0.0	partner-net.men
 0.0.0.0	searchtab.win
+0.0.0.0 go.bebi.com
+0.0.0.0 c.bebi.com
+0.0.0.0 trck.bebi.com
+0.0.0.0 st.bebi.com
+0.0.0.0 redir.bebi.com
