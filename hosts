@@ -5214,9 +5214,10 @@ fe80::1%lo0		localhost
 0.0.0.0	fullstory.com
 0.0.0.0	r.fullstory.com
 0.0.0.0	www.fullstory.com
-0.0.0.0	stats.pusher.com
-0.0.0.0	ws.pusherapp.com
-0.0.0.0	js.pusher.com
+# CircleCI uses pusher for actual functionality in their app
+#0.0.0.0	stats.pusher.com
+#0.0.0.0	ws.pusherapp.com
+#0.0.0.0	js.pusher.com
 0.0.0.0	api.branch.io
 0.0.0.0	cdn.branch.io
 0.0.0.0	app.link
