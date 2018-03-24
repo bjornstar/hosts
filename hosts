@@ -51,6 +51,11 @@ fe80::1%lo0		localhost
 #0.0.0.0	cdn.gotraffic.net
 #0.0.0.0	go.trouter.io
 #0.0.0.0	release.theplatform.com
+#0.0.0.0	openload.co
+#0.0.0.0	openload.io
+# Google Drive
+#0.0.0.0	www.googleapis.com
+#0.0.0.0	imasdk.googleapis.com
 # CircleCI uses pusher for actual functionality in their app
 #0.0.0.0	stats.pusher.com
 #0.0.0.0	ws.pusherapp.com
@@ -3332,7 +3337,6 @@ fe80::1%lo0		localhost
 0.0.0.0	pubads.g.doubleclick.net
 0.0.0.0	om.cbsi.com
 0.0.0.0	flv.sales.cbs.com
-0.0.0.0	imasdk.googleapis.com
 0.0.0.0	ad4.live.liverail.com
 0.0.0.0	apex.gamespot.com
 0.0.0.0	analytics.soup.io
@@ -3961,9 +3965,7 @@ fe80::1%lo0		localhost
 0.0.0.0	perf.mmstat.com
 0.0.0.0	cdn.shorte.st
 0.0.0.0	js.juicyads.com
-0.0.0.0	openload.co
 0.0.0.0	bitcro.com
-0.0.0.0	openload.io
 0.0.0.0	blampspot.x10.mx
 0.0.0.0	www.g2a.com
 0.0.0.0	d16b4.8ox.cn
@@ -5598,7 +5600,6 @@ fe80::1%lo0		localhost
 0.0.0.0	bestcontentcompany.top
 0.0.0.0	rriqwzgmaazsp.com
 0.0.0.0	www.xlbosrttvas.bid
-0.0.0.0	www.googleapis.com
 0.0.0.0	www.rriqwzgmaazsp.com
 0.0.0.0	nfzaustkhtkd.com
 0.0.0.0	www.nfzaustkhtkd.com
@@ -5787,7 +5788,6 @@ fe80::1%lo0		localhost
 0.0.0.0	mg-p.alcmpn.com
 0.0.0.0	onclickmega.com
 0.0.0.0	b.adexchangemachine.com
-0.0.0.0	clk.verblife-2.com
 0.0.0.0	frog.wix.com
 0.0.0.0	cnn.sdk.beemray.com
 0.0.0.0	cdn.adsafeprotected.com
@@ -5865,3 +5865,27 @@ fe80::1%lo0		localhost
 0.0.0.0	live.rezync.com
 0.0.0.0	qklnk.co
 0.0.0.0	cdn.sendpulse.com
+0.0.0.0	jp.bnr.co
+0.0.0.0	www.topsellers100.com
+0.0.0.0	jiycfyytg.com
+0.0.0.0	www.jiycfyytg.com
+0.0.0.0	cf04.kanade-ad.net
+0.0.0.0	xdevice.trafficgate.net
+0.0.0.0	ad.caprofitx.adtdp.com
+0.0.0.0	click.linksynergy.com
+0.0.0.0	vbtrax.com
+0.0.0.0	zbqblhqlrm.com
+0.0.0.0	www.zbqblhqlrm.com
+0.0.0.0	swahobrjdddri.com
+0.0.0.0	www.swahobrjdddri.com
+0.0.0.0	www.ujrfwuzv.com
+0.0.0.0	ujrfwuzv.com
+0.0.0.0	sexygirls.download
+0.0.0.0	lffyoomtjjhvc.com
+0.0.0.0	www.lffyoomtjjhvc.com
+0.0.0.0	gyhujxbptum.com
+0.0.0.0	www.gyhujxbptum.com
+0.0.0.0	sax.trckonspot.com
+0.0.0.0	goto.peak-serving.com
+0.0.0.0	clk.verblife-2.co
+0.0.0.0	christmasvideos333.com
