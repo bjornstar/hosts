@@ -41,7 +41,7 @@ fs.readFile('hosts', function (e, hosts) {
 
 	domains.sort(domainSort);
 
-	const output = special.join('\n') + '\n' + domains.map(function (domain) {
+	const output = special.join('\n') + domains.map(function (domain) {
 		return blackholeIP + domainIPSeparator + domain.reverse().join('.');
 	}).join('\n') + '\n';
 

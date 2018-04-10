@@ -38,6 +38,7 @@ fe80::1%lo0		localhost
 #0.0.0.0	cdn.gotraffic.net
 #0.0.0.0	go.trouter.io
 #0.0.0.0	release.theplatform.com
+#0.0.0.0	z.cdn.turner.com
 # Facebook's pixel is required for clicking on notifications
 #0.0.0.0	pixel.facebook.com
 # Twitch Chat
@@ -49,7 +50,6 @@ fe80::1%lo0		localhost
 #0.0.0.0	stats.pusher.com
 #0.0.0.0	ws.pusherapp.com
 #0.0.0.0	js.pusher.com
-
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -2357,6 +2357,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pic8.keyrun.com
 0.0.0.0	kfdqqqmorlt.com
 0.0.0.0	www.kfdqqqmorlt.com
+0.0.0.0	khzbeucrltin.com
 0.0.0.0	click.kink.com
 0.0.0.0	cdn.kinley.com
 0.0.0.0	scripts.kiosked.com
@@ -3873,7 +3874,6 @@ fe80::1%lo0		localhost
 0.0.0.0	r.turn.com
 0.0.0.0	cvp1.cdn.turner.com
 0.0.0.0	ssl.cdn.turner.com
-0.0.0.0	z.cdn.turner.com
 0.0.0.0	tutvp.com
 0.0.0.0	tvplusnewtab.com
 0.0.0.0	cs.twcczhu.com
