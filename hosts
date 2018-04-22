@@ -51,6 +51,8 @@ fe80::1%lo0		localhost
 #0.0.0.0	ws.pusherapp.com
 #0.0.0.0	js.pusher.com
 
+#0.0.0.0	mpsnare.iesnare.com
+
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
 0.0.0.0	sportzone.do.am
@@ -157,6 +159,7 @@ fe80::1%lo0		localhost
 0.0.0.0	rum-collector.wpm.neustar.biz
 0.0.0.0	offeradvertising.biz
 0.0.0.0	optimizeadvert.biz
+0.0.0.0	poplink-f.probo.biz
 0.0.0.0	ro2.biz
 0.0.0.0	js.spacenine.biz
 0.0.0.0	surveywidget.biz
@@ -193,6 +196,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ck.cpcv.cc
 0.0.0.0	ck.cpms.cc
 0.0.0.0	vpn.cpva.cc
+0.0.0.0	kitchen.juicer.cc
 0.0.0.0	hints.netflame.cc
 0.0.0.0	ssl-hints.netflame.cc
 0.0.0.0	c1.ulink.cc
@@ -723,6 +727,7 @@ fe80::1%lo0		localhost
 0.0.0.0	traffic.adxprtz.com
 0.0.0.0	beta.adyea.com
 0.0.0.0	delivery.adyea.com
+0.0.0.0	static.adziff.com
 0.0.0.0	adzoos.com
 0.0.0.0	www.af-market.com
 0.0.0.0	cdn.afdads.com
@@ -902,6 +907,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tr.asiandate.com
 0.0.0.0	www.asiandate.com
 0.0.0.0	www.asiappc.com
+0.0.0.0	easypdfcombine.dl.tb.ask.com
 0.0.0.0	gamingwonderland.dl.tb.ask.com
 0.0.0.0	asocials.com
 0.0.0.0	www.assoc-amazon.com
@@ -1107,6 +1113,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.boomtrain.com
 0.0.0.0	events.boomtrain.com
 0.0.0.0	boudja.com
+0.0.0.0	bounceexchange.com
 0.0.0.0	api.bounceexchange.com
 0.0.0.0	assets.bounceexchange.com
 0.0.0.0	tag.bounceexchange.com
@@ -1617,6 +1624,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.easy-chicks.com
 0.0.0.0	www.easy-paisa.com
 0.0.0.0	www.easycounter.com
+0.0.0.0	www.easypdfcombine.com
 0.0.0.0	eclkmpbn.com
 0.0.0.0	eclkmpsa.com
 0.0.0.0	eclkspsa.com
@@ -1667,7 +1675,9 @@ fe80::1%lo0		localhost
 0.0.0.0	cacheserve.eurogrand.com
 0.0.0.0	serve.eurogrand.com
 0.0.0.0	www.eurogrand.com
+0.0.0.0	c.evidon.com
 0.0.0.0	marketing.evidon.com
+0.0.0.0	www.evimfftxa.com
 0.0.0.0	api.evri.com
 0.0.0.0	www.evri.com
 0.0.0.0	mediaserver.ewellerinteractive.com
@@ -1709,6 +1719,9 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.eyewonder.com
 0.0.0.0	cdn1.eyewonder.com
 0.0.0.0	eyinwxkojgkfgs.com
+0.0.0.0	asset.f-tra.com
+0.0.0.0	conf.f-tra.com
+0.0.0.0	log.f-tra.com
 0.0.0.0	f283ab792c8113.com
 0.0.0.0	aa.static.facdn.com
 0.0.0.0	ads.ak.facebook.com
@@ -1758,6 +1771,7 @@ fe80::1%lo0		localhost
 0.0.0.0	witlee-main.firebaseapp.com
 0.0.0.0	kinja-debug.firebaseio.com
 0.0.0.0	a5r.firmprotectedlinked.com
+0.0.0.0	fixerinst.com
 0.0.0.0	flagcounter.com
 0.0.0.0	s01.flagcounter.com
 0.0.0.0	s02.flagcounter.com
@@ -1881,6 +1895,7 @@ fe80::1%lo0		localhost
 0.0.0.0	gebadu.com
 0.0.0.0	ads.genericlink.com
 0.0.0.0	static.genericlink.com
+0.0.0.0	genieedmp.com
 0.0.0.0	static.genieo.com
 0.0.0.0	www.genieo.com
 0.0.0.0	www.geniusdisplay.com
@@ -1947,6 +1962,7 @@ fe80::1%lo0		localhost
 0.0.0.0	log.go.com
 0.0.0.0	abc.vad.go.com
 0.0.0.0	w88.go.com
+0.0.0.0	aditmedia.go2affise.com
 0.0.0.0	affiliate.godaddy.com
 0.0.0.0	seal.godaddy.com
 0.0.0.0	gogvo.com
@@ -1978,6 +1994,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pl116609.gortags.com
 0.0.0.0	gostats.com
 0.0.0.0	c3.gostats.com
+0.0.0.0	gozfsvoqn.com
 0.0.0.0	ads.gplusmedia.com
 0.0.0.0	ds.gplusmedia.com
 0.0.0.0	api.gravity.com
@@ -2030,6 +2047,7 @@ fe80::1%lo0		localhost
 0.0.0.0	statichtmlapp.heroku.com
 0.0.0.0	hexagon-analytics.com
 0.0.0.0	kl.hfdforging.com
+0.0.0.0	www.hibids10.com
 0.0.0.0	www.hicpm10.com
 0.0.0.0	www.hicpm5.com
 0.0.0.0	hidefinstall.com
@@ -2108,7 +2126,6 @@ fe80::1%lo0		localhost
 0.0.0.0	www.ieaddons.com
 0.0.0.0	ieeawxjool.com
 0.0.0.0	www.ieeawxjool.com
-0.0.0.0	mpsnare.iesnare.com
 0.0.0.0	ifrype.com
 0.0.0.0	ads.ign.com
 0.0.0.0	atax.ign.com
@@ -2147,6 +2164,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ak2.imgaft.com
 0.0.0.0	cdn.imgbabes.com
 0.0.0.0	ak.imgfarm.com
+0.0.0.0	akz.imgfarm.com
 0.0.0.0	cdn.imgflare.com
 0.0.0.0	www.imglt.com
 0.0.0.0	free-license.imgpop.com
@@ -2736,7 +2754,9 @@ fe80::1%lo0		localhost
 0.0.0.0	bidi-geo.mythings.com
 0.0.0.0	assets.myvoicenation.com
 0.0.0.0	www.myvoicenation.com
+0.0.0.0	easypdfcombine.dl.myway.com
 0.0.0.0	gamingwonderland.dl.myway.com
+0.0.0.0	anx.mywebsearch.com
 0.0.0.0	n152adserv.com
 0.0.0.0	n190adserv.com
 0.0.0.0	n99adshostnet.com
@@ -2846,6 +2866,7 @@ fe80::1%lo0		localhost
 0.0.0.0	go.onclasrv.com
 0.0.0.0	www.onclickmax.com
 0.0.0.0	onclickmega.com
+0.0.0.0	www.onclickprediction.com
 0.0.0.0	onclicksuper.com
 0.0.0.0	onclkds.com
 0.0.0.0	c1.onedmp.com
@@ -2946,6 +2967,8 @@ fe80::1%lo0		localhost
 0.0.0.0	pbyqy.com
 0.0.0.0	scan.pc-antispyware-scanner.com
 0.0.0.0	www.pcgamesupply.com
+0.0.0.0	a.pcmag.com
+0.0.0.0	zdbb.pcmag.com
 0.0.0.0	pcnetwizard.com
 0.0.0.0	sp.pcnetwizard.com
 0.0.0.0	pcnotify.com
@@ -3226,6 +3249,7 @@ fe80::1%lo0		localhost
 0.0.0.0	rcemsoiyil.com
 0.0.0.0	rdmntry.com
 0.0.0.0	ssp-2922-imps.rdrcti.com
+0.0.0.0	reacherinst.com
 0.0.0.0	ib.reachjunction.com
 0.0.0.0	www.readrboard.com
 0.0.0.0	br.realitykings.com
@@ -3308,6 +3332,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.roulettebotplus.com
 0.0.0.0	imagecache.roxwel.com
 0.0.0.0	static.1.rp-api.com
+0.0.0.0	rpxnow.com
 0.0.0.0	widget-cdn.rpxnow.com
 0.0.0.0	dnssearch.rr.com
 0.0.0.0	rriqwzgmaazsp.com
@@ -3422,6 +3447,7 @@ fe80::1%lo0		localhost
 0.0.0.0	bsch.serving-sys.com
 0.0.0.0	ds.serving-sys.com
 0.0.0.0	ds-cc.serving-sys.com
+0.0.0.0	secure-ds.serving-sys.com
 0.0.0.0	www.sexblogsdir.com
 0.0.0.0	landcdn.sexgangsters.com
 0.0.0.0	media.sexinyourcity.com
@@ -3586,6 +3612,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.statcounter.com
 0.0.0.0	www.stathat.com
 0.0.0.0	psn.staticcache.com
+0.0.0.0	ak.staticimgfarm.com
+0.0.0.0	ttdetect.staticimgfarm.com
 0.0.0.0	lb.statsevent.com
 0.0.0.0	statsmobi.com
 0.0.0.0	stealthlockers.com
@@ -3624,6 +3652,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.superrewards-offers.com
 0.0.0.0	www.superrewards-offers.com
 0.0.0.0	c.superrewardz.com
+0.0.0.0	supprene.com
 0.0.0.0	supremeadsonline.com
 0.0.0.0	5j7zz.reward-zone.surveryquicker.com
 0.0.0.0	www.surveyspaid.com
@@ -3835,6 +3864,7 @@ fe80::1%lo0		localhost
 0.0.0.0	choices.truste.com
 0.0.0.0	consent.truste.com
 0.0.0.0	preferences.truste.com
+0.0.0.0	privacy-policy.truste.com
 0.0.0.0	www.trustedsite.com
 0.0.0.0	seals.trustedverified.com
 0.0.0.0	www.trustedverified.com
@@ -4151,6 +4181,7 @@ fe80::1%lo0		localhost
 0.0.0.0	wwv4ez0n.com
 0.0.0.0	creative.wwwpromoter.com
 0.0.0.0	bid.las01.wwwpromoter.com
+0.0.0.0	experiences.wyng.com
 0.0.0.0	7.wzlim.com
 0.0.0.0	x3v66zlz.com
 0.0.0.0	cpd.x7y24z365.com
@@ -4345,6 +4376,7 @@ fe80::1%lo0		localhost
 0.0.0.0	zr1.zeroredirect12.com
 0.0.0.0	ads.zeusclicks.com
 0.0.0.0	cdn.zeusclicks.com
+0.0.0.0	www.zhqbimjc.com
 0.0.0.0	xml.zipzipsearch.com
 0.0.0.0	www1.zjbdt.com
 0.0.0.0	www4.zjbdt.com
@@ -4479,6 +4511,7 @@ fe80::1%lo0		localhost
 0.0.0.0	dailydls.info
 0.0.0.0	dewsburg.info
 0.0.0.0	2yhap4d.dfhdf6.info
+0.0.0.0	ditement.info
 0.0.0.0	downlloadfiles.info
 0.0.0.0	educing.info
 0.0.0.0	elanatality.info
@@ -4560,6 +4593,7 @@ fe80::1%lo0		localhost
 0.0.0.0	phalata.info
 0.0.0.0	ad.philipstreehouse.info
 0.0.0.0	pilottere.info
+0.0.0.0	pindered.info
 0.0.0.0	plaqueousi.info
 0.0.0.0	pr.prchecker.info
 0.0.0.0	profilecreeper.info
@@ -4572,6 +4606,7 @@ fe80::1%lo0		localhost
 0.0.0.0	6.9.redshell.info
 0.0.0.0	rivermind.info
 0.0.0.0	roletaryk.info
+0.0.0.0	securityportal.info
 0.0.0.0	sellously.info
 0.0.0.0	seness.info
 0.0.0.0	latest-449833.shemirta.info
@@ -4653,6 +4688,8 @@ fe80::1%lo0		localhost
 0.0.0.0	a.trouter.io
 0.0.0.0	api.userback.io
 0.0.0.0	static.userback.io
+0.0.0.0	horusii.vemba.io
+0.0.0.0	videos-by.vemba.io
 0.0.0.0	wurfl.io
 0.0.0.0	www.halloheimur.is
 0.0.0.0	bnrs.it
@@ -4923,6 +4960,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.a135.net
 0.0.0.0	js.a3p4.net
 0.0.0.0	px.a8.net
+0.0.0.0	statics.a8.net
 0.0.0.0	abmr.net
 0.0.0.0	adadvisor.net
 0.0.0.0	adbard.net
@@ -5353,6 +5391,7 @@ fe80::1%lo0		localhost
 0.0.0.0	us-ads.openx.net
 0.0.0.0	us-u.openx.net
 0.0.0.0	wikia-d.openx.net
+0.0.0.0	ziffdavis-d.openx.net
 0.0.0.0	ads7.orbitads.net
 0.0.0.0	www.our-hurricane-file.net
 0.0.0.0	owneriq.net
@@ -5529,6 +5568,10 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.ywxi.net
 0.0.0.0	ad.z5x.net
 0.0.0.0	piwik.zample.net
+0.0.0.0	a.zdbb.net
+0.0.0.0	gurgle.zdbb.net
+0.0.0.0	walker.zdbb.net
+0.0.0.0	ziffsite.net
 0.0.0.0	clicktrack4.ziyu.net
 0.0.0.0	ctfile.ziyu.net
 0.0.0.0	file.ziyu.net

@@ -1,6 +1,8 @@
 const fs = require('fs');
 
-const blackholeIP = '0.0.0.0';
+const PATH_TO_HOSTS = '/mnt/c/Windows/System32/drivers/etc/hosts';
+
+const BLACKHOLE_IP = '0.0.0.0';
 const domainIPSeparator = '\t';
 
 function domainSort(a, b) {
@@ -15,19 +17,19 @@ function domainSort(a, b) {
 	return 0;
 }
 
-fs.readFile('hosts', function (e, hosts) {
+fs.readFile(PATH_TO_HOSTS, function (e, hosts) {
 	if (e) {
 		console.error(e);
 		return process.exit(1);
 	}
 
-	const lines = hosts.toString().split('\n')
+	const lines = hosts.toString().split('\r\n')
 
 	const seen = {};
 	const special = [];
 
 	for (let i = 0; i < lines.length; i += 1) {
-		if (lines[i].substring(0, 7) === blackholeIP) {
+		if (lines[i].substring(0, 7) === BLACKHOLE_IP) {
 			seen[lines[i]] = true
 		} else {
 			special.push(lines[i]);
@@ -42,10 +44,10 @@ fs.readFile('hosts', function (e, hosts) {
 	domains.sort(domainSort);
 
 	const output = special.join('\n') + domains.map(function (domain) {
-		return blackholeIP + domainIPSeparator + domain.reverse().join('.');
+		return BLACKHOLE_IP + domainIPSeparator + domain.reverse().join('.');
 	}).join('\n') + '\n';
 
-	fs.writeFile('hosts-dedupe', output, function (e) {
+	fs.writeFile('hosts', output, function (e) {
 		if (e) {
 			console.error(e);
 			return process.exit(1);
