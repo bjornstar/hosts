@@ -53,6 +53,7 @@ fe80::1%lo0		localhost
 
 #0.0.0.0	mpsnare.iesnare.com
 
+
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
 0.0.0.0	sportzone.do.am
@@ -64,6 +65,7 @@ fe80::1%lo0		localhost
 0.0.0.0	bshare.optimix.asia
 0.0.0.0	bx.optimix.asia
 0.0.0.0	goreal.at
+0.0.0.0	waust.at
 0.0.0.0	js.sportsbetaffiliates.com.au
 0.0.0.0	media.sportsbetaffiliates.com.au
 0.0.0.0	record.sportsbetaffiliates.com.au
@@ -436,6 +438,8 @@ fe80::1%lo0		localhost
 0.0.0.0	abourselfi.com
 0.0.0.0	park.above.com
 0.0.0.0	track.absoluteclickscom.com
+0.0.0.0	dcinfos.abtasty.com
+0.0.0.0	try.abtasty.com
 0.0.0.0	reg.accelacomm.com
 0.0.0.0	acknowing.com
 0.0.0.0	aclickads.com
@@ -757,6 +761,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.aiwit.com
 0.0.0.0	f.ajhdf.com
 0.0.0.0	ak-facebook.com
+0.0.0.0	usd.aladdin-iulius.com
 0.0.0.0	mg-p.alcmpn.com
 0.0.0.0	mpnv2-prod-c.alcmpn.com
 0.0.0.0	d.alcvid.com
@@ -1312,6 +1317,7 @@ fe80::1%lo0		localhost
 0.0.0.0	clkrev.com
 0.0.0.0	cdn1.clkrev.com
 0.0.0.0	p216157.clksite.com
+0.0.0.0	p255082.clksite.com
 0.0.0.0	clktag.com
 0.0.0.0	res.cloudinary.com
 0.0.0.0	api.cloudsponge.com
@@ -1602,6 +1608,8 @@ fe80::1%lo0		localhost
 0.0.0.0	xxx.dtiblog.com
 0.0.0.0	affiliate.dtiserv.com
 0.0.0.0	click.dtiserv2.com
+0.0.0.0	t.dtscout.com
+0.0.0.0	dtsedge.com
 0.0.0.0	80bc1.dubshub.com
 0.0.0.0	dumage.com
 0.0.0.0	www.duniavirtual.com
@@ -2169,6 +2177,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.imglt.com
 0.0.0.0	free-license.imgpop.com
 0.0.0.0	imgsay.com
+0.0.0.0	p.imgur.com
 0.0.0.0	imiclk.com
 0.0.0.0	imlive.com
 0.0.0.0	images.imlive.com
@@ -2388,6 +2397,7 @@ fe80::1%lo0		localhost
 0.0.0.0	content2.kitnmedia.com
 0.0.0.0	super.kitnmedia.com
 0.0.0.0	scr.kliksaya.com
+0.0.0.0	www.kmtyyvemtscac.com
 0.0.0.0	kmylvwo5.com
 0.0.0.0	kofeereb.com
 0.0.0.0	www.kofeereb.com
@@ -2413,6 +2423,7 @@ fe80::1%lo0		localhost
 0.0.0.0	a.lakequincy.com
 0.0.0.0	oascentral.laptopmag.com
 0.0.0.0	ldgateway.com
+0.0.0.0	play.leadzu.com
 0.0.0.0	play.leadzupc.com
 0.0.0.0	rt.legolas-media.com
 0.0.0.0	letsadvertisetogether.com
@@ -2443,6 +2454,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tongji.linezing.com
 0.0.0.0	dt.tongji.linezing.com
 0.0.0.0	js.tongji.linezing.com
+0.0.0.0	track.link-w3b5.com
 0.0.0.0	ad3.linkbucks.com
 0.0.0.0	www.linkbucks.com
 0.0.0.0	www.linkbucksmedia.com
@@ -2485,6 +2497,8 @@ fe80::1%lo0		localhost
 0.0.0.0	t3.liverail.com
 0.0.0.0	t4.liverail.com
 0.0.0.0	vox-static.liverail.com
+0.0.0.0	livestream.com
+0.0.0.0	analytics.livestream.com
 0.0.0.0	content.liveuniverse.com
 0.0.0.0	admediacdn.liveuniversenetwork.com
 0.0.0.0	asrvr.liveuniversenetwork.com
@@ -2537,6 +2551,7 @@ fe80::1%lo0		localhost
 0.0.0.0	static.luminate.com
 0.0.0.0	www.luminate.com
 0.0.0.0	www.lunarpages.com
+0.0.0.0	www.lyuoaxruaqdo.com
 0.0.0.0	ads.lzjl.com
 0.0.0.0	creative.m2pub.com
 0.0.0.0	d.101.m3.com
@@ -2648,6 +2663,7 @@ fe80::1%lo0		localhost
 0.0.0.0	misslk.com
 0.0.0.0	b.misslk.com
 0.0.0.0	api.mixpanel.com
+0.0.0.0	ml314.com
 0.0.0.0	media.mlgpro.com
 0.0.0.0	www.mlstat.com
 0.0.0.0	mega.mlt01.com
@@ -2726,6 +2742,7 @@ fe80::1%lo0		localhost
 0.0.0.0	track.mvhop.com
 0.0.0.0	jk.mx500.com
 0.0.0.0	cdn.mxpnl.com
+0.0.0.0	mybestmv.com
 0.0.0.0	track2.mybloglog.com
 0.0.0.0	track3.mybloglog.com
 0.0.0.0	mybrandprizes.com
@@ -2775,6 +2792,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mirror.nbjmp.com
 0.0.0.0	rotator.nbjmp.com
 0.0.0.0	mirror.nbstatic.com
+0.0.0.0	geoip.nekudo.com
 0.0.0.0	vom.sitescout.netdna-cdn.com
 0.0.0.0	fullcache-neodevlda.netdna-ssl.com
 0.0.0.0	chico.netmng.com
@@ -3065,6 +3083,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ox-labs.popcap.com
 0.0.0.0	popcpm.com
 0.0.0.0	ads.popcpm.com
+0.0.0.0	popmajor.com
 0.0.0.0	popmonetize.com
 0.0.0.0	popmyad.com
 0.0.0.0	popmyads.com
@@ -3297,6 +3316,7 @@ fe80::1%lo0		localhost
 0.0.0.0	servedby.revcontent.com
 0.0.0.0	trending.revcontent.com
 0.0.0.0	trends.revcontent.com
+0.0.0.0	cdn1.revdepo.com
 0.0.0.0	cache.reverbnation.com
 0.0.0.0	jc.revolvermaps.com
 0.0.0.0	je.revolvermaps.com
@@ -3463,6 +3483,7 @@ fe80::1%lo0		localhost
 0.0.0.0	shapara.com
 0.0.0.0	ad.shapara.com
 0.0.0.0	analytics.shareaholic.com
+0.0.0.0	partner.shareaholic.com
 0.0.0.0	www.shareasale.com
 0.0.0.0	sharefoco.com
 0.0.0.0	files.sharereactor.com
@@ -3905,6 +3926,8 @@ fe80::1%lo0		localhost
 0.0.0.0	cvp1.cdn.turner.com
 0.0.0.0	ssl.cdn.turner.com
 0.0.0.0	tutvp.com
+0.0.0.0	api.tvpage.com
+0.0.0.0	videos-bleepingcomputers-com.tvpagecdn.com
 0.0.0.0	tvplusnewtab.com
 0.0.0.0	cs.twcczhu.com
 0.0.0.0	s1.twcount.com
@@ -3973,6 +3996,7 @@ fe80::1%lo0		localhost
 0.0.0.0	urgent-computer-warning.com
 0.0.0.0	www.urldelivery.com
 0.0.0.0	w.usabilla.com
+0.0.0.0	sp.usatoday.com
 0.0.0.0	www.usenetjunction.com
 0.0.0.0	cdn.user-api.com
 0.0.0.0	log.user-clicks.com
@@ -4087,6 +4111,7 @@ fe80::1%lo0		localhost
 0.0.0.0	secure.vxsbill.com
 0.0.0.0	wafmedia3.com
 0.0.0.0	ads.waframedia1.com
+0.0.0.0	waframedia20.com
 0.0.0.0	wahoha.com
 0.0.0.0	walternsa.com
 0.0.0.0	warthunder.com
@@ -4104,6 +4129,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.website-hit-counters.com
 0.0.0.0	seals.websiteprotection.com
 0.0.0.0	websites091.com
+0.0.0.0	www.webspeedlink.com
 0.0.0.0	www.webtrackerplus.com
 0.0.0.0	m.webtrends.com
 0.0.0.0	s.webtrends.com
@@ -4664,6 +4690,8 @@ fe80::1%lo0		localhost
 0.0.0.0	as.ebz.io
 0.0.0.0	www.erq.io
 0.0.0.0	ethn.io
+0.0.0.0	cdn.firstimpression.io
+0.0.0.0	ecdn.firstimpression.io
 0.0.0.0	hashflare.io
 0.0.0.0	icotop.io
 0.0.0.0	api-ping.intercom.io
@@ -5211,6 +5239,7 @@ fe80::1%lo0		localhost
 0.0.0.0	incapsula.evyy.net
 0.0.0.0	cl.s4.exct.net
 0.0.0.0	ps.eyeota.net
+0.0.0.0	cdn.fancybar.net
 0.0.0.0	cm.fastapi.net
 0.0.0.0	fastclick.net
 0.0.0.0	cdn.fastclick.net
@@ -5363,6 +5392,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.nsimg.net
 0.0.0.0	m1.nsimg.net
 0.0.0.0	m2.nsimg.net
+0.0.0.0	cdn.nsstatic.net
 0.0.0.0	d.nster.net
 0.0.0.0	js.nster.net
 0.0.0.0	ip.nuggad.net
@@ -5431,6 +5461,7 @@ fe80::1%lo0		localhost
 0.0.0.0	promo-awardzline.net
 0.0.0.0	static.promo-awardzline.net
 0.0.0.0	protect-your-privacy.net
+0.0.0.0	statsweb.proxad.net
 0.0.0.0	pushtraffic.net
 0.0.0.0	qtdml.net
 0.0.0.0	d.quadrinhoseroticos.net
@@ -5568,8 +5599,11 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.ywxi.net
 0.0.0.0	ad.z5x.net
 0.0.0.0	piwik.zample.net
+0.0.0.0	zdbb.net
 0.0.0.0	a.zdbb.net
 0.0.0.0	gurgle.zdbb.net
+0.0.0.0	ns.zdbb.net
+0.0.0.0	cdn.static.zdbb.net
 0.0.0.0	walker.zdbb.net
 0.0.0.0	ziffsite.net
 0.0.0.0	clicktrack4.ziyu.net
@@ -5834,6 +5868,7 @@ fe80::1%lo0		localhost
 0.0.0.0	1wzfew7a.site
 0.0.0.0	www.accede.site
 0.0.0.0	rss.adsx.site
+0.0.0.0	bcvcrdr1.site
 0.0.0.0	big-wave.site
 0.0.0.0	v.checkinglinks.site
 0.0.0.0	filadmir.site
@@ -5870,6 +5905,7 @@ fe80::1%lo0		localhost
 0.0.0.0	bestcontentsoftware.top
 0.0.0.0	www.monoo.top
 0.0.0.0	redirect2.top
+0.0.0.0	smrtrdrct.top
 0.0.0.0	ads.adap.tv
 0.0.0.0	redir.adap.tv
 0.0.0.0	segments.adap.tv
