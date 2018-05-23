@@ -50,7 +50,7 @@ fe80::1%lo0		localhost
 #0.0.0.0	stats.pusher.com
 #0.0.0.0	ws.pusherapp.com
 #0.0.0.0	js.pusher.com
-
+# NCSoft uses this
 #0.0.0.0	mpsnare.iesnare.com
 
 
@@ -291,6 +291,7 @@ fe80::1%lo0		localhost
 0.0.0.0	randomvideo.co
 0.0.0.0	www.rqq.co
 0.0.0.0	satgitsin.co
+0.0.0.0	smitionsory.co
 0.0.0.0	software-updates.co
 0.0.0.0	ad.tagtoo.co
 0.0.0.0	news.tagtoo.co
@@ -300,6 +301,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.upload2.co
 0.0.0.0	clk.verblife-2.co
 0.0.0.0	xpop.co
+0.0.0.0	www.z-gbtlfibnw.co
 0.0.0.0	www.zff.co
 0.0.0.0	track.007cpa.com
 0.0.0.0	dd.010teacher.com
@@ -433,6 +435,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.a-ads.com
 0.0.0.0	s.a-ads.com
 0.0.0.0	a2pub.com
+0.0.0.0	aaucwbe.com
 0.0.0.0	www.abcjmp.com
 0.0.0.0	abourself.com
 0.0.0.0	abourselfi.com
@@ -446,6 +449,8 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn15.acloudimages.com
 0.0.0.0	cpx.acloudweb.com
 0.0.0.0	mam.acloudweb.com
+0.0.0.0	cdn.lift.acquia.com
+0.0.0.0	us-east-1-capture.lift.acquia.com
 0.0.0.0	st.acstnst.com
 0.0.0.0	c.actiondesk.com
 0.0.0.0	xml.active8ads.com
@@ -985,6 +990,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.bauffnmtou.com
 0.0.0.0	baypops.com
 0.0.0.0	www.foxnews.com.happyhcgultracustomers.new.bcn-story.com
+0.0.0.0	xml.bcnmonetize.com
 0.0.0.0	click.be3a.com
 0.0.0.0	player-cdn.beachfrontmedia.com
 0.0.0.0	thehousenews.bearhugapp.com
@@ -1927,6 +1933,8 @@ fe80::1%lo0		localhost
 0.0.0.0	banners.getiton.com
 0.0.0.0	geobanner.getiton.com
 0.0.0.0	widgets.getpocket.com
+0.0.0.0	smetrics.gettyimages.com
+0.0.0.0	spectrum.gettyimages.com
 0.0.0.0	dsp.gewinnsteigern.com
 0.0.0.0	cache.gfrevenge.com
 0.0.0.0	gallys.gfrevenge.com
@@ -2561,6 +2569,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pixel.madadsmedia.com
 0.0.0.0	sync.madnetx.com
 0.0.0.0	maebtjn.com
+0.0.0.0	www.maebtjn.com
 0.0.0.0	facebook.mafiawars.com
 0.0.0.0	3.magical-sky.com
 0.0.0.0	magiciary.com
@@ -4266,6 +4275,7 @@ fe80::1%lo0		localhost
 0.0.0.0	a.analytics.yahoo.com
 0.0.0.0	cms.analytics.yahoo.com
 0.0.0.0	o.analytics.yahoo.com
+0.0.0.0	sp.analytics.yahoo.com
 0.0.0.0	y.analytics.yahoo.com
 0.0.0.0	y3.analytics.yahoo.com
 0.0.0.0	z.analytics.yahoo.com
@@ -4277,6 +4287,7 @@ fe80::1%lo0		localhost
 0.0.0.0	row.bc.yahoo.com
 0.0.0.0	us.bc.yahoo.com
 0.0.0.0	beap-bc.yahoo.com
+0.0.0.0	csp.yahoo.com
 0.0.0.0	fc.yahoo.com
 0.0.0.0	beap.gemini.yahoo.com
 0.0.0.0	tp2.beap.gemini.yahoo.com
@@ -4290,6 +4301,7 @@ fe80::1%lo0		localhost
 0.0.0.0	lh.secure.yahoo.com
 0.0.0.0	syndication.streamads.yahoo.com
 0.0.0.0	tw.rc.webmaster.yahoo.com
+0.0.0.0	ads.yap.yahoo.com
 0.0.0.0	pr.ybp.yahoo.com
 0.0.0.0	pr-bh.ybp.yahoo.com
 0.0.0.0	admd.yam.com
@@ -4478,6 +4490,7 @@ fe80::1%lo0		localhost
 0.0.0.0	i1.hk
 0.0.0.0	audit.median.hu
 0.0.0.0	ad.parom.hu
+0.0.0.0	sidecar.gitter.im
 0.0.0.0	sccden.spot.im
 0.0.0.0	www.spot.im
 0.0.0.0	1.5se.in
@@ -4532,6 +4545,7 @@ fe80::1%lo0		localhost
 0.0.0.0	chequent.info
 0.0.0.0	choolslot.info
 0.0.0.0	clicktorrent.info
+0.0.0.0	colleduny.info
 0.0.0.0	croissed.info
 0.0.0.0	cutecute.info
 0.0.0.0	dailydls.info
@@ -4981,6 +4995,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tribuneinteractive.122.2o7.net
 0.0.0.0	oascentral.blogher.org.12468.9030.302br.net
 0.0.0.0	audit.303br.net
+0.0.0.0	g.3gl.net
 0.0.0.0	4-you.net
 0.0.0.0	www.5221.net
 0.0.0.0	image.52bt.net
@@ -5428,6 +5443,7 @@ fe80::1%lo0		localhost
 0.0.0.0	px.owneriq.net
 0.0.0.0	asset.pagefair.net
 0.0.0.0	www.paid-to-promote.net
+0.0.0.0	js.parkingcrew.net
 0.0.0.0	www.parkingcrew.net
 0.0.0.0	catrg.peer39.net
 0.0.0.0	stags.peer39.net
@@ -5622,6 +5638,7 @@ fe80::1%lo0		localhost
 0.0.0.0	promotools.sexdatingcash.nl
 0.0.0.0	www.usenet.nl
 0.0.0.0	nmwnmewjk.blogspot.co.nz
+0.0.0.0	appared.online
 0.0.0.0	meetthegame.online
 0.0.0.0	mmofreegames.online
 0.0.0.0	servicepilot.online
