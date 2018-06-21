@@ -200,6 +200,12 @@ fe80::1%lo0		localhost
 0.0.0.0	kitchen.juicer.cc
 0.0.0.0	hints.netflame.cc
 0.0.0.0	ssl-hints.netflame.cc
+0.0.0.0	api.popin.cc
+0.0.0.0	inrecsys.popin.cc
+0.0.0.0	jp.popin.cc
+0.0.0.0	r.popin.cc
+0.0.0.0	rlog.popin.cc
+0.0.0.0	www.popin.cc
 0.0.0.0	c1.ulink.cc
 0.0.0.0	pic.ulink.cc
 0.0.0.0	t11.ulink.cc
@@ -270,6 +276,7 @@ fe80::1%lo0		localhost
 0.0.0.0	admtpmp127.adsk2.co
 0.0.0.0	affiliategateways.co
 0.0.0.0	www.anlclqrvbsk.co
+0.0.0.0	biggi.co
 0.0.0.0	jp.bnr.co
 0.0.0.0	now.bt.co
 0.0.0.0	btcpop.co
@@ -852,6 +859,7 @@ fe80::1%lo0		localhost
 0.0.0.0	rtb.amgdgt.com
 0.0.0.0	banners.amigos.com
 0.0.0.0	ae.amikay.com
+0.0.0.0	j.amoad.com
 0.0.0.0	p.amoad.com
 0.0.0.0	chat.amolatina.com
 0.0.0.0	api.amplitude.com
@@ -967,6 +975,7 @@ fe80::1%lo0		localhost
 0.0.0.0	static.awempire.com
 0.0.0.0	awentw.com
 0.0.0.0	www.awin1.com
+0.0.0.0	cluster.awmserve.com
 0.0.0.0	www.axill.com
 0.0.0.0	i.azjmp.com
 0.0.0.0	images-cdn.azoogleads.com
@@ -1418,12 +1427,14 @@ fe80::1%lo0		localhost
 0.0.0.0	usage.apps.conduit-services.com
 0.0.0.0	download.chrome.conduit-services.com
 0.0.0.0	vcore.connatix.com
+0.0.0.0	constintptr.com
 0.0.0.0	ads.contentabc.com
 0.0.0.0	cdn1.ads.contentabc.com
 0.0.0.0	ads2.contentabc.com
 0.0.0.0	contextlysitescripts.contextly.com
 0.0.0.0	ads.contextweb.com
 0.0.0.0	bh.contextweb.com
+0.0.0.0	bid.contextweb.com
 0.0.0.0	cdslog.contextweb.com
 0.0.0.0	media.contextweb.com
 0.0.0.0	tag.contextweb.com
@@ -1544,6 +1555,7 @@ fe80::1%lo0		localhost
 0.0.0.0	assets.devx.com
 0.0.0.0	c.dfgyw.com
 0.0.0.0	diamongs.com
+0.0.0.0	www.dianomi.com
 0.0.0.0	a.digg.com
 0.0.0.0	widgets.digg.com
 0.0.0.0	digginst.com
@@ -1607,6 +1619,9 @@ fe80::1%lo0		localhost
 0.0.0.0	cm.dpclk.com
 0.0.0.0	drdoms.com
 0.0.0.0	ads.drf-global.com
+0.0.0.0	customer.api.drift.com
+0.0.0.0	event.api.drift.com
+0.0.0.0	js.driftt.com
 0.0.0.0	driverutilities.com
 0.0.0.0	cdn.drnxs.com
 0.0.0.0	drowle.com
@@ -1648,6 +1663,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.easypdfcombine.com
 0.0.0.0	epnt.ebay.com
 0.0.0.0	rover.ebay.com
+0.0.0.0	t.ec-concier.com
 0.0.0.0	eclkmpbn.com
 0.0.0.0	eclkmpsa.com
 0.0.0.0	eclkspsa.com
@@ -1797,6 +1813,7 @@ fe80::1%lo0		localhost
 0.0.0.0	witlee-main.firebaseapp.com
 0.0.0.0	kinja-debug.firebaseio.com
 0.0.0.0	a5r.firmprotectedlinked.com
+0.0.0.0	events.fivetran.com
 0.0.0.0	fixerinst.com
 0.0.0.0	flagcounter.com
 0.0.0.0	s01.flagcounter.com
@@ -1935,6 +1952,7 @@ fe80::1%lo0		localhost
 0.0.0.0	s.get-msn-chats.com
 0.0.0.0	in.getclicky.com
 0.0.0.0	static.getclicky.com
+0.0.0.0	tag.getdrip.com
 0.0.0.0	assets.cdn.getfeedback.com
 0.0.0.0	uploads.cdn.getfeedback.com
 0.0.0.0	websites.cdn.getfeedback.com
@@ -2075,6 +2093,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.herdailyvideos.com
 0.0.0.0	quizcreator.heroku.com
 0.0.0.0	statichtmlapp.heroku.com
+0.0.0.0	wootric-eligibility.herokuapp.com
 0.0.0.0	hexagon-analytics.com
 0.0.0.0	kl.hfdforging.com
 0.0.0.0	www.hibids10.com
@@ -2293,6 +2312,8 @@ fe80::1%lo0		localhost
 0.0.0.0	images.intellitxt.com
 0.0.0.0	rojakpot.us.intellitxt.com
 0.0.0.0	wikia.us.intellitxt.com
+0.0.0.0	inter1ads.com
+0.0.0.0	static.inter1ads.com
 0.0.0.0	interclick.com
 0.0.0.0	a1.interclick.com
 0.0.0.0	campaigns.interclick.com
@@ -2338,6 +2359,7 @@ fe80::1%lo0		localhost
 0.0.0.0	sst.jaaotest.com
 0.0.0.0	www.jam-hsiao.com
 0.0.0.0	ad.jamster.com
+0.0.0.0	cdn-social.janrain.com
 0.0.0.0	cdn.quilt.janrain.com
 0.0.0.0	click.jasmin.com
 0.0.0.0	www.javapic.com
@@ -2404,6 +2426,10 @@ fe80::1%lo0		localhost
 0.0.0.0	media.kaizentraffic.com
 0.0.0.0	a.kalmloda.com
 0.0.0.0	xhr.kalmloda.com
+0.0.0.0	analytics.kaltura.com
+0.0.0.0	cdnapisec.kaltura.com
+0.0.0.0	cdnsecakmi.kaltura.com
+0.0.0.0	cfvod.kaltura.com
 0.0.0.0	stats.kaltura.com
 0.0.0.0	ssl.kaptcha.com
 0.0.0.0	ilivid.kayako.com
@@ -2424,6 +2450,8 @@ fe80::1%lo0		localhost
 0.0.0.0	network.kitaramarketplace.com
 0.0.0.0	content2.kitnmedia.com
 0.0.0.0	super.kitnmedia.com
+0.0.0.0	kjkwrmwdyhi.com
+0.0.0.0	www.kjkwrmwdyhi.com
 0.0.0.0	scr.kliksaya.com
 0.0.0.0	www.kmtyyvemtscac.com
 0.0.0.0	kmylvwo5.com
@@ -2464,6 +2492,7 @@ fe80::1%lo0		localhost
 0.0.0.0	i.liadm.com
 0.0.0.0	media-akam.licdn.com
 0.0.0.0	media-llnw.licdn.com
+0.0.0.0	snap.licdn.com
 0.0.0.0	tracking.lifestylejournal.com
 0.0.0.0	rt.liftdna.com
 0.0.0.0	delivery.liftium.com
@@ -2488,6 +2517,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.linkbucksmedia.com
 0.0.0.0	www.linkconnector.com
 0.0.0.0	dc.ads.linkedin.com
+0.0.0.0	px.ads.linkedin.com
 0.0.0.0	www.linkhaitao.com
 0.0.0.0	click.linksynergy.com
 0.0.0.0	widget2.linkwithin.com
@@ -2719,6 +2749,8 @@ fe80::1%lo0		localhost
 0.0.0.0	mobileandinternetadvertising.com
 0.0.0.0	www.mobilejmp.com
 0.0.0.0	go.mobisla.com
+0.0.0.0	mobpushup.com
+0.0.0.0	go.mobtrks.com
 0.0.0.0	go.mobytrks.com
 0.0.0.0	mochiads.com
 0.0.0.0	mochibot.com
@@ -2893,6 +2925,7 @@ fe80::1%lo0		localhost
 0.0.0.0	up.nytimes.com
 0.0.0.0	www.nzbmovieseeker.com
 0.0.0.0	a.o333o.com
+0.0.0.0	consent.cmp.oath.com
 0.0.0.0	go.oclaserver.com
 0.0.0.0	go.oclasrv.com
 0.0.0.0	mbox12.offermatica.com
@@ -2921,6 +2954,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.onclickprediction.com
 0.0.0.0	onclicksuper.com
 0.0.0.0	onclkds.com
+0.0.0.0	onclklnd.com
 0.0.0.0	c1.onedmp.com
 0.0.0.0	cdn.onegot.com
 0.0.0.0	hall.gopoker.onegot.com
@@ -3061,6 +3095,7 @@ fe80::1%lo0		localhost
 0.0.0.0	services.picadmedia.com
 0.0.0.0	piguiqproxy.com
 0.0.0.0	pics.pikchi.com
+0.0.0.0	pimmuter.com
 0.0.0.0	www.pindiscount.com
 0.0.0.0	www.pinnacle.com
 0.0.0.0	ct.pinterest.com
@@ -3082,7 +3117,9 @@ fe80::1%lo0		localhost
 0.0.0.0	st.plenomedia.com
 0.0.0.0	secure.plimus.com
 0.0.0.0	www.plimus.com
+0.0.0.0	farm-tw.plista.com
 0.0.0.0	static.plista.com
+0.0.0.0	static-tw.plista.com
 0.0.0.0	d.plugrush.com
 0.0.0.0	m1.plugrush.com
 0.0.0.0	mobile.plugrush.com
@@ -3117,6 +3154,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ox-labs.popcap.com
 0.0.0.0	popcpm.com
 0.0.0.0	ads.popcpm.com
+0.0.0.0	i.popincdn.com
 0.0.0.0	popmajor.com
 0.0.0.0	popmonetize.com
 0.0.0.0	popmyad.com
@@ -3454,6 +3492,9 @@ fe80::1%lo0		localhost
 0.0.0.0	scribol.com
 0.0.0.0	adsense.scupio.com
 0.0.0.0	adyhk.scupio.com
+0.0.0.0	bw.scupio.com
+0.0.0.0	img.scupio.com
+0.0.0.0	rec.scupio.com
 0.0.0.0	aa.scw0.com
 0.0.0.0	sc.sczxy.com
 0.0.0.0	egf.sdljhb.com
@@ -3568,6 +3609,8 @@ fe80::1%lo0		localhost
 0.0.0.0	social3.skylikes.com
 0.0.0.0	social4.skylikes.com
 0.0.0.0	smetrics.skype.com
+0.0.0.0	a.slashdotmedia.com
+0.0.0.0	analytics.slashdotmedia.com
 0.0.0.0	dtrk.slimcdn.com
 0.0.0.0	spaces.slimspots.com
 0.0.0.0	s1.slimtrade.com
@@ -3577,6 +3620,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ww57.smartadserver.com
 0.0.0.0	www3.smartadserver.com
 0.0.0.0	smartcj.com
+0.0.0.0	d.smopy.com
 0.0.0.0	ad.smowtion.com
 0.0.0.0	ads.smowtion.com
 0.0.0.0	sms-mmm.com
@@ -3699,6 +3743,9 @@ fe80::1%lo0		localhost
 0.0.0.0	as1.suitesmart.com
 0.0.0.0	www.suitesmart.com
 0.0.0.0	www.summerhamster.com
+0.0.0.0	sumo.com
+0.0.0.0	load.sumo.com
+0.0.0.0	media.sumo.com
 0.0.0.0	sumome.com
 0.0.0.0	load.sumome.com
 0.0.0.0	ads.sumotorrent.com
@@ -4138,6 +4185,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.vrewpywootyu.com
 0.0.0.0	banner.vrtzads.com
 0.0.0.0	imp.vrtzads.com
+0.0.0.0	xml.vrtzcontextualads.com
 0.0.0.0	ads.vs.com
 0.0.0.0	lvlt.vs3.com
 0.0.0.0	secure.vs3.com
@@ -4205,6 +4253,7 @@ fe80::1%lo0		localhost
 0.0.0.0	liftium.wikia.com
 0.0.0.0	a.wikia-beacon.com
 0.0.0.0	beacon.wikia-services.com
+0.0.0.0	www.wikplayer.com
 0.0.0.0	iframes.wildfireapp.com
 0.0.0.0	win-right-now.com
 0.0.0.0	dnld.winsecuritydl.com
@@ -4578,6 +4627,7 @@ fe80::1%lo0		localhost
 0.0.0.0	croissed.info
 0.0.0.0	cutecute.info
 0.0.0.0	dailydls.info
+0.0.0.0	detailsay.info
 0.0.0.0	dewsburg.info
 0.0.0.0	2yhap4d.dfhdf6.info
 0.0.0.0	ditement.info
@@ -4708,6 +4758,7 @@ fe80::1%lo0		localhost
 0.0.0.0	sea.waveview.info
 0.0.0.0	tr.webantenna.info
 0.0.0.0	westmente.info
+0.0.0.0	wheelches.info
 0.0.0.0	whonami.info
 0.0.0.0	windgetbook.info
 0.0.0.0	wrink.info
@@ -4743,6 +4794,7 @@ fe80::1%lo0		localhost
 0.0.0.0	assets.lateral.io
 0.0.0.0	api.lytics.io
 0.0.0.0	c.lytics.io
+0.0.0.0	myidm.io
 0.0.0.0	io.narrative.io
 0.0.0.0	cdn.ndg.io
 0.0.0.0	fallsm.ndg.io
@@ -4768,6 +4820,9 @@ fe80::1%lo0		localhost
 0.0.0.0	adserver.j
 0.0.0.0	t.adclr.jp
 0.0.0.0	cs.adingo.jp
+0.0.0.0	i.adingo.jp
+0.0.0.0	sh.adingo.jp
+0.0.0.0	cdn-fluct.sh.adingo.jp
 0.0.0.0	ads.adjust-net.jp
 0.0.0.0	cou.adjust-net.jp
 0.0.0.0	cre.adjust-net.jp
@@ -4792,6 +4847,13 @@ fe80::1%lo0		localhost
 0.0.0.0	spdmg-backend2.i-mobile.co.jp
 0.0.0.0	ssp-sync.i-mobile.co.jp
 0.0.0.0	com99.web.infoseek.co.jp
+0.0.0.0	abc.logly.co.jp
+0.0.0.0	b.logly.co.jp
+0.0.0.0	cdn.logly.co.jp
+0.0.0.0	dsp.logly.co.jp
+0.0.0.0	l.logly.co.jp
+0.0.0.0	sync.logly.co.jp
+0.0.0.0	vbc.logly.co.jp
 0.0.0.0	hb.afl.rakuten.co.jp
 0.0.0.0	pt.afl.rakuten.co.jp
 0.0.0.0	www.realestate.co.jp
@@ -4860,6 +4922,7 @@ fe80::1%lo0		localhost
 0.0.0.0	asp03.ssimg.jp
 0.0.0.0	main-adssystem.ssl-lolipop.jp
 0.0.0.0	techsave.jp
+0.0.0.0	ds.uncn.jp
 0.0.0.0	pulsar.xlisting.jp
 0.0.0.0	log.yaplog.jp
 0.0.0.0	ai.yimg.jp
@@ -5102,6 +5165,7 @@ fe80::1%lo0		localhost
 0.0.0.0	awesomevitamin.net
 0.0.0.0	247590.r.axf8.net
 0.0.0.0	000001.azureedge.net
+0.0.0.0	sumo.b-cdn.net
 0.0.0.0	ad.bannerconnect.net
 0.0.0.0	bannerperformance.net
 0.0.0.0	foxnews-news.baynote.net
@@ -5389,6 +5453,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tealium.hs.llnwd.net
 0.0.0.0	taunk.vo.llnwd.net
 0.0.0.0	ytaahg.vo.llnwd.net
+0.0.0.0	jp-axia-fluct.m0mentum.net
 0.0.0.0	api.m30w.net
 0.0.0.0	munchkin.marketo.net
 0.0.0.0	service.maxymiser.net
@@ -5423,6 +5488,7 @@ fe80::1%lo0		localhost
 0.0.0.0	az416426.vo.msecnd.net
 0.0.0.0	az708531.vo.msecnd.net
 0.0.0.0	www.mydownloader.net
+0.0.0.0	hello.myfonts.net
 0.0.0.0	www.mypagerank.net
 0.0.0.0	nefroto.net
 0.0.0.0	js1.nend.net
@@ -5434,6 +5500,7 @@ fe80::1%lo0		localhost
 0.0.0.0	adv.netshelter.net
 0.0.0.0	files.netshelter.net
 0.0.0.0	track.netshelter.net
+0.0.0.0	cs.nex8.net
 0.0.0.0	rt.nex8.net
 0.0.0.0	st.nex8.net
 0.0.0.0	mirs-st.cdn.ngenix.net
@@ -5505,6 +5572,7 @@ fe80::1%lo0		localhost
 0.0.0.0	popunder.net
 0.0.0.0	my.popxxx.net
 0.0.0.0	www.poweradcash.net
+0.0.0.0	api.primecaster.net
 0.0.0.0	t8.prnx.net
 0.0.0.0	pro-market.net
 0.0.0.0	pbid.pro-market.net
@@ -5951,6 +6019,9 @@ fe80::1%lo0		localhost
 0.0.0.0	onerror.tk
 0.0.0.0	replase.tk
 0.0.0.0	tristanjavier092.tk
+0.0.0.0	play.play.estream.to
+0.0.0.0	s2.play.estream.to
+0.0.0.0	s3.play.estream.to
 0.0.0.0	i.isohunt.to
 0.0.0.0	a.kickass.to
 0.0.0.0	okt.to
