@@ -53,6 +53,7 @@ fe80::1%lo0		localhost
 # NCSoft uses this
 #0.0.0.0	mpsnare.iesnare.com
 
+
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
 0.0.0.0	sportzone.do.am
@@ -206,6 +207,7 @@ fe80::1%lo0		localhost
 0.0.0.0	r.popin.cc
 0.0.0.0	rlog.popin.cc
 0.0.0.0	www.popin.cc
+0.0.0.0	tagbucket.cc
 0.0.0.0	c1.ulink.cc
 0.0.0.0	pic.ulink.cc
 0.0.0.0	t11.ulink.cc
@@ -218,7 +220,9 @@ fe80::1%lo0		localhost
 0.0.0.0	wct.click
 0.0.0.0	log.analytics-logs.club
 0.0.0.0	www.analytics-logs.club
+0.0.0.0	anothere.club
 0.0.0.0	xml.balancer.club
+0.0.0.0	bing0sl0t.club
 0.0.0.0	mokiloka.club
 0.0.0.0	llkvv.one-night-stand.club
 0.0.0.0	randomfaster.club
@@ -660,6 +664,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads.espn.adsonar.com
 0.0.0.0	js.adsonar.com
 0.0.0.0	roi.adsonar.com
+0.0.0.0	adsrv4k.com
 0.0.0.0	adsrvn.com
 0.0.0.0	vip.adstatic.com
 0.0.0.0	cdn.adstract.com
@@ -759,6 +764,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tech.affiliation-int.com
 0.0.0.0	join11.affiliationconnection.com
 0.0.0.0	www.afftrck.com
+0.0.0.0	afgr4.com
 0.0.0.0	afterdownload.com
 0.0.0.0	admin.afterdownload.com
 0.0.0.0	www.afterdownload.com
@@ -887,6 +893,7 @@ fe80::1%lo0		localhost
 0.0.0.0	2mdn.aolcdn.com
 0.0.0.0	o.aolcdn.com
 0.0.0.0	s.aolcdn.com
+0.0.0.0	aoredi.com
 0.0.0.0	mp.apmebf.com
 0.0.0.0	www.apmebf.com
 0.0.0.0	analytics.apnewsregistry.com
@@ -1117,6 +1124,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.bnhtml.com
 0.0.0.0	video.bnmla.com
 0.0.0.0	video.bnqt.com
+0.0.0.0	bnrdom.com
 0.0.0.0	www.bnserving.com
 0.0.0.0	click.bokecc.com
 0.0.0.0	flare.bokecc.com
@@ -1238,6 +1246,8 @@ fe80::1%lo0		localhost
 0.0.0.0	cbproads.com
 0.0.0.0	mads.cbs.com
 0.0.0.0	flv.sales.cbs.com
+0.0.0.0	cbsfcpciitwcky.com
+0.0.0.0	www.cbsfcpciitwcky.com
 0.0.0.0	dw.cbsi.com
 0.0.0.0	i.i.cbsi.com
 0.0.0.0	om.cbsi.com
@@ -1535,6 +1545,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.dealcent.com
 0.0.0.0	dealsandjobs.com
 0.0.0.0	www.decenthat.com
+0.0.0.0	echo.defoge.com
 0.0.0.0	defpush.com
 0.0.0.0	deloton.com
 0.0.0.0	static.deluxe-downloads.com
@@ -1922,6 +1933,7 @@ fe80::1%lo0		localhost
 0.0.0.0	t.gameyule.com
 0.0.0.0	free.gamingwonderland.com
 0.0.0.0	my.gamtrck.com
+0.0.0.0	gamutely.com
 0.0.0.0	gate-ru.com
 0.0.0.0	g0.gatewayinterface.com
 0.0.0.0	g1.gatewayinterface.com
@@ -2173,6 +2185,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads.identads.com
 0.0.0.0	b.idolbucks.com
 0.0.0.0	www.idownloadfast.com
+0.0.0.0	ie8eamus.com
 0.0.0.0	www.ieaddons.com
 0.0.0.0	ieeawxjool.com
 0.0.0.0	www.ieeawxjool.com
@@ -2216,6 +2229,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ak.imgfarm.com
 0.0.0.0	akz.imgfarm.com
 0.0.0.0	cdn.imgflare.com
+0.0.0.0	www.imglnkb.com
 0.0.0.0	www.imglt.com
 0.0.0.0	free-license.imgpop.com
 0.0.0.0	imgsay.com
@@ -2345,6 +2359,7 @@ fe80::1%lo0		localhost
 0.0.0.0	affiliate.iqoption.com
 0.0.0.0	irleti.com
 0.0.0.0	h.irs01.com
+0.0.0.0	t.irtya.com
 0.0.0.0	www.isanalyze.com
 0.0.0.0	statica.istripper.com
 0.0.0.0	bs.itopnetworks.com
@@ -2438,6 +2453,8 @@ fe80::1%lo0		localhost
 0.0.0.0	pic8.keyrun.com
 0.0.0.0	kfdqqqmorlt.com
 0.0.0.0	www.kfdqqqmorlt.com
+0.0.0.0	khlgdlarmqnp.com
+0.0.0.0	www.khlgdlarmqnp.com
 0.0.0.0	khzbeucrltin.com
 0.0.0.0	click.kink.com
 0.0.0.0	cdn.kinley.com
@@ -2555,6 +2572,7 @@ fe80::1%lo0		localhost
 0.0.0.0	t3.liverail.com
 0.0.0.0	t4.liverail.com
 0.0.0.0	vox-static.liverail.com
+0.0.0.0	livestatisc.com
 0.0.0.0	livestream.com
 0.0.0.0	analytics.livestream.com
 0.0.0.0	content.liveuniverse.com
@@ -2909,6 +2927,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.nowfreedownloads.com
 0.0.0.0	ad1.nownews.com
 0.0.0.0	noyapps.com
+0.0.0.0	www.npttech.com
 0.0.0.0	js.nrcdn.com
 0.0.0.0	api.nrelate.com
 0.0.0.0	hcg-ultra.cbsnews.archives.bcac.nsbcb.com
@@ -3203,6 +3222,7 @@ fe80::1%lo0		localhost
 0.0.0.0	lead.program3.com
 0.0.0.0	media.b.lead.program3.com
 0.0.0.0	ads.media.program3.com
+0.0.0.0	projectapiscall.com
 0.0.0.0	www.projectwonderful.com
 0.0.0.0	banners.promocionesweb.com
 0.0.0.0	promolnk.com
@@ -3533,6 +3553,7 @@ fe80::1%lo0		localhost
 0.0.0.0	seoparts.com
 0.0.0.0	escape-u2.seoparts.com
 0.0.0.0	creatives.serve-banners.com
+0.0.0.0	m.servedby-buysellads.com
 0.0.0.0	servedbyadbutler.com
 0.0.0.0	ox-d.allmedia.servedbyopenx.com
 0.0.0.0	ox-d.curse.servedbyopenx.com
@@ -3614,6 +3635,7 @@ fe80::1%lo0		localhost
 0.0.0.0	dtrk.slimcdn.com
 0.0.0.0	spaces.slimspots.com
 0.0.0.0	s1.slimtrade.com
+0.0.0.0	slotv.com
 0.0.0.0	slurolen.com
 0.0.0.0	www.slurolen.com
 0.0.0.0	ww38.smartadserver.com
@@ -3811,6 +3833,7 @@ fe80::1%lo0		localhost
 0.0.0.0	widgets.tcimg.com
 0.0.0.0	st-n.tckn-code.com
 0.0.0.0	www.td553.com
+0.0.0.0	interyield.td573.com
 0.0.0.0	tdsjsext.com
 0.0.0.0	uconnect.tealiumiq.com
 0.0.0.0	banner.techarp.com
@@ -4124,6 +4147,7 @@ fe80::1%lo0		localhost
 0.0.0.0	xml.vesteddigital.com
 0.0.0.0	b.vghd.com
 0.0.0.0	br.vghd.com
+0.0.0.0	vhldwuv6om.com
 0.0.0.0	www.vidcpm.com
 0.0.0.0	pp.vidcr.com
 0.0.0.0	sda.vidcr.com
@@ -4720,6 +4744,7 @@ fe80::1%lo0		localhost
 0.0.0.0	profilethemer.info
 0.0.0.0	provalist.info
 0.0.0.0	direct.quasir.info
+0.0.0.0	rapistory.info
 0.0.0.0	reachested.info
 0.0.0.0	recallen.info
 0.0.0.0	6.9.redshell.info
@@ -4775,6 +4800,7 @@ fe80::1%lo0		localhost
 0.0.0.0	api.branch.io
 0.0.0.0	cdn.branch.io
 0.0.0.0	stats.cloudwp.io
+0.0.0.0	codefund.io
 0.0.0.0	apps3.cointraffic.io
 0.0.0.0	appsha1.cointraffic.io
 0.0.0.0	coinzilla.io
@@ -5018,9 +5044,11 @@ fe80::1%lo0		localhost
 0.0.0.0	adpath.mobi
 0.0.0.0	clicksurvey.mobi
 0.0.0.0	ads.clubfun.mobi
+0.0.0.0	exercially.mobi
 0.0.0.0	impressionaffiliate.mobi
 0.0.0.0	impressionvalue.mobi
 0.0.0.0	leadad.mobi
+0.0.0.0	masture.mobi
 0.0.0.0	c.mobpartner.mobi
 0.0.0.0	promotionoffer.mobi
 0.0.0.0	promotiontrack.mobi
@@ -5220,6 +5248,7 @@ fe80::1%lo0		localhost
 0.0.0.0	d2ghscazvn398x.cloudfront.net
 0.0.0.0	d2lo2tipcl3aii.cloudfront.net
 0.0.0.0	d31qbv1cthcecs.cloudfront.net
+0.0.0.0	d3al52d8cojds7.cloudfront.net
 0.0.0.0	d3alijertxiv6b.cloudfront.net
 0.0.0.0	d3cesrg5igdcgt.cloudfront.net
 0.0.0.0	d3iz6lralvg77g.cloudfront.net
@@ -5232,6 +5261,7 @@ fe80::1%lo0		localhost
 0.0.0.0	dbn3wu0k6poiv.cloudfront.net
 0.0.0.0	dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0	djoupjf0kjdox.cloudfront.net
+0.0.0.0	djv99sxoqpv11.cloudfront.net
 0.0.0.0	dnn506yrbagrg.cloudfront.net
 0.0.0.0	doug1izaerwt3.cloudfront.net
 0.0.0.0	dr3k6qonw2kee.cloudfront.net
@@ -5354,6 +5384,7 @@ fe80::1%lo0		localhost
 0.0.0.0	incapsula.evyy.net
 0.0.0.0	cl.s4.exct.net
 0.0.0.0	ps.eyeota.net
+0.0.0.0	api.facetz.net
 0.0.0.0	cdn.fancybar.net
 0.0.0.0	cm.fastapi.net
 0.0.0.0	fastclick.net
@@ -5405,6 +5436,7 @@ fe80::1%lo0		localhost
 0.0.0.0	meme104.homeip.net
 0.0.0.0	rss.hotidols.net
 0.0.0.0	js.hs-analytics.net
+0.0.0.0	metric-agent.i10c.net
 0.0.0.0	ccimages.ifriends.net
 0.0.0.0	images.ifriends.net
 0.0.0.0	www.ifriends.net
@@ -5413,6 +5445,7 @@ fe80::1%lo0		localhost
 0.0.0.0	imgaaa.net
 0.0.0.0	imgddd.net
 0.0.0.0	imgeee.net
+0.0.0.0	impressionsme.net
 0.0.0.0	impressionwidget.net
 0.0.0.0	innovyx.net
 0.0.0.0	playstation.innovyx.net
@@ -5841,6 +5874,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fileplace.pro
 0.0.0.0	findbox.pro
 0.0.0.0	rasius.pro
+0.0.0.0	unlomblam.pro
 0.0.0.0	www.viralvideos.pro
 0.0.0.0	www.offline.pt
 0.0.0.0	pegodoaltar.com.sapo.pt
@@ -5896,6 +5930,7 @@ fe80::1%lo0		localhost
 0.0.0.0	imamby.ru
 0.0.0.0	incomeprofitsystem.ru
 0.0.0.0	iwester.ru
+0.0.0.0	iznami.ru
 0.0.0.0	kolort.ru
 0.0.0.0	kremaga.ru
 0.0.0.0	www.liveinternet.ru
