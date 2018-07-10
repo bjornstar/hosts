@@ -1,0 +1,25 @@
+{
+  "name": "@bjornstar/hosts",
+  "version": "1.0.0",
+  "description": "My hosts file, filled with advertisers and other purveyors of worthless content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjornstar/hosts.git"
+  },
+  "keywords": [
+    "hosts"
+  ],
+  "author": "Bjorn Stromberg <bjorn@bjornstar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjornstar/hosts/issues"
+  },
+  "homepage": "https://github.com/bjornstar/hosts#readme",
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  }
+}

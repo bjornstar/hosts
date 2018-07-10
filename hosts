@@ -53,7 +53,6 @@ fe80::1%lo0		localhost
 # NCSoft uses this
 #0.0.0.0	mpsnare.iesnare.com
 
-
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
 0.0.0.0	sportzone.do.am
@@ -156,6 +155,7 @@ fe80::1%lo0		localhost
 0.0.0.0	impressionperformance.biz
 0.0.0.0	www.impressionperformance.biz
 0.0.0.0	www.impressionsmedia.biz
+0.0.0.0	geacugl.jwmyba.biz
 0.0.0.0	ad.mozzi.biz
 0.0.0.0	www.mozzi.biz
 0.0.0.0	rum-collector.wpm.neustar.biz
@@ -364,6 +364,7 @@ fe80::1%lo0		localhost
 0.0.0.0	kf.265g.com
 0.0.0.0	2leep.com
 0.0.0.0	media.2leep.com
+0.0.0.0	ads.2mdnsys.com
 0.0.0.0	xml.2x2click.com
 0.0.0.0	u.3393.com
 0.0.0.0	33across.com
@@ -667,6 +668,7 @@ fe80::1%lo0		localhost
 0.0.0.0	adsrv4k.com
 0.0.0.0	adsrvn.com
 0.0.0.0	vip.adstatic.com
+0.0.0.0	adsterra.com
 0.0.0.0	cdn.adstract.com
 0.0.0.0	www.adsue.com
 0.0.0.0	engine.adsupply.com
@@ -730,6 +732,8 @@ fe80::1%lo0		localhost
 0.0.0.0	pixel.advertising.com
 0.0.0.0	servedby.advertising.com
 0.0.0.0	uac.advertising.com
+0.0.0.0	cdn.advertserve.com
+0.0.0.0	dotcomconsultancy.advertserve.com
 0.0.0.0	imagevenue.advertserve.com
 0.0.0.0	tradefx.advertserve.com
 0.0.0.0	banners.advidi.com
@@ -842,6 +846,7 @@ fe80::1%lo0		localhost
 0.0.0.0	s.amazon-adsystem.com
 0.0.0.0	wms-na.amazon-adsystem.com
 0.0.0.0	ws-na.amazon-adsystem.com
+0.0.0.0	z-fe.amazon-adsystem.com
 0.0.0.0	z-na.amazon-adsystem.com
 0.0.0.0	newbuzz-collection-1925855828.us-east-1.elb.amazonaws.com
 0.0.0.0	cd-ladsp-com.s3.amazonaws.com
@@ -1186,6 +1191,7 @@ fe80::1%lo0		localhost
 0.0.0.0	budurl.com
 0.0.0.0	metaapi.bulletproofserving.com
 0.0.0.0	ws.bulletproofserving.com
+0.0.0.0	www.bundletagshare.com
 0.0.0.0	burstnet.com
 0.0.0.0	www.burstnet.com
 0.0.0.0	www-s.butterscotch.com
@@ -1225,6 +1231,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.candidvoyeurism.com
 0.0.0.0	files.candofinance.com
 0.0.0.0	www.candofinance.com
+0.0.0.0	js.capitalsafebody.com
 0.0.0.0	engine.carbonads.com
 0.0.0.0	static.carbonads.com
 0.0.0.0	dingo.care2.com
@@ -1307,6 +1314,7 @@ fe80::1%lo0		localhost
 0.0.0.0	a.ciridola.com
 0.0.0.0	xhr.ciridola.com
 0.0.0.0	q.cjdqy.com
+0.0.0.0	clckads.com
 0.0.0.0	www.clclckck.com
 0.0.0.0	static.cleanadulthost.com
 0.0.0.0	clearspring.com
@@ -1423,6 +1431,7 @@ fe80::1%lo0		localhost
 0.0.0.0	stats.complex.com
 0.0.0.0	cdn.complexmedianetwork.com
 0.0.0.0	siterecruit.comscore.com
+0.0.0.0	www.comwgi.com
 0.0.0.0	4d.condenastdigital.com
 0.0.0.0	capture.condenastdigital.com
 0.0.0.0	event.condenastdigital.com
@@ -1511,6 +1520,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.crowdgravity.com
 0.0.0.0	static.crowdscience.com
 0.0.0.0	ping.westley.crowdscience.com
+0.0.0.0	crptentry.com
 0.0.0.0	tag.crsspxl.com
 0.0.0.0	geo.crtracklink.com
 0.0.0.0	trk.cryptoinchain.com
@@ -1575,6 +1585,7 @@ fe80::1%lo0		localhost
 0.0.0.0	delivery8.digitalhealthcare.com
 0.0.0.0	display.digitalriver.com
 0.0.0.0	pto.digitalriver.com
+0.0.0.0	jsoon.digitiminimi.com
 0.0.0.0	counter.digits.com
 0.0.0.0	api.dimestore.com
 0.0.0.0	www.dingit.com
@@ -1805,6 +1816,7 @@ fe80::1%lo0		localhost
 0.0.0.0	feedjit.com
 0.0.0.0	ad47.feeldmc.com
 0.0.0.0	www.feisearch.com
+0.0.0.0	www.ferrolad.com
 0.0.0.0	fetchback.com
 0.0.0.0	pixel.fetchback.com
 0.0.0.0	ffhwzaenzoue.com
@@ -2135,6 +2147,7 @@ fe80::1%lo0		localhost
 0.0.0.0	91701.hittail.com
 0.0.0.0	hitwebcounter.com
 0.0.0.0	hjlas.com
+0.0.0.0	www.hkoxlirf.com
 0.0.0.0	affiliates.hookup.com
 0.0.0.0	ibcliff.hopfeed.com
 0.0.0.0	www.hopfeed.com
@@ -2357,6 +2370,7 @@ fe80::1%lo0		localhost
 0.0.0.0	iproblet.com
 0.0.0.0	ckm.iqiyi.com
 0.0.0.0	affiliate.iqoption.com
+0.0.0.0	images01.iqoption.com
 0.0.0.0	irleti.com
 0.0.0.0	h.irs01.com
 0.0.0.0	t.irtya.com
@@ -2388,6 +2402,8 @@ fe80::1%lo0		localhost
 0.0.0.0	jeyuhcbagxbp.com
 0.0.0.0	www.jeyuhcbagxbp.com
 0.0.0.0	jf71qh5v14.com
+0.0.0.0	jgvjzbrnjmxoq.com
+0.0.0.0	www.jgvjzbrnjmxoq.com
 0.0.0.0	i.jiathis.com
 0.0.0.0	v1.jiathis.com
 0.0.0.0	v2.jiathis.com
@@ -2742,6 +2758,8 @@ fe80::1%lo0		localhost
 0.0.0.0	misslk.com
 0.0.0.0	b.misslk.com
 0.0.0.0	api.mixpanel.com
+0.0.0.0	mkzllhqhsgq.com
+0.0.0.0	www.mkzllhqhsgq.com
 0.0.0.0	ml314.com
 0.0.0.0	media.mlgpro.com
 0.0.0.0	www.mlstat.com
@@ -2992,6 +3010,8 @@ fe80::1%lo0		localhost
 0.0.0.0	assets.onswipe.com
 0.0.0.0	oocee.com
 0.0.0.0	ads.ookla.com
+0.0.0.0	ooqjqnurblp.com
+0.0.0.0	www.ooqjqnurblp.com
 0.0.0.0	www.oouggjayokzx.com
 0.0.0.0	l.ooyala.com
 0.0.0.0	opf.ooyala.com
@@ -3228,8 +3248,10 @@ fe80::1%lo0		localhost
 0.0.0.0	promolnk.com
 0.0.0.0	g.promosrv.com
 0.0.0.0	api.proofpositivemedia.com
+0.0.0.0	propellerads.com
 0.0.0.0	ad.propellerads.com
 0.0.0.0	img.propellerads.com
+0.0.0.0	native.propellerads.com
 0.0.0.0	propellerpops.com
 0.0.0.0	api.propelplus.com
 0.0.0.0	core.propelplus.com
@@ -3283,7 +3305,9 @@ fe80::1%lo0		localhost
 0.0.0.0	pushance.com
 0.0.0.0	pushcrew.com
 0.0.0.0	cdn.pushcrew.com
+0.0.0.0	pushno.com
 0.0.0.0	ads.pushplay.com
+0.0.0.0	pushwhy.com
 0.0.0.0	pussl48.com
 0.0.0.0	media.pussycash.com
 0.0.0.0	i.pussygreen.com
@@ -3358,6 +3382,8 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.roiq-vice.ranker.com
 0.0.0.0	rapid-downloads.com
 0.0.0.0	cdn.ravenjs.com
+0.0.0.0	rbmijhdvh.com
+0.0.0.0	www.rbmijhdvh.com
 0.0.0.0	rcemsoiyil.com
 0.0.0.0	rdmntry.com
 0.0.0.0	ssp-2922-imps.rdrcti.com
@@ -3441,6 +3467,7 @@ fe80::1%lo0		localhost
 0.0.0.0	apps.rockyou.com
 0.0.0.0	rya.rockyou.com
 0.0.0.0	wrapper.rottentomatoes.com
+0.0.0.0	rotumal.com
 0.0.0.0	www.roulettebot-plus.com
 0.0.0.0	files.roulettebotplus.com
 0.0.0.0	www.roulettebotplus.com
@@ -4057,6 +4084,7 @@ fe80::1%lo0		localhost
 0.0.0.0	uadpost.com
 0.0.0.0	www.uadpost.com
 0.0.0.0	metrics.ubi.com
+0.0.0.0	udarem.com
 0.0.0.0	udatabiz.com
 0.0.0.0	ad2.udn.com
 0.0.0.0	ad3.udn.com
@@ -4099,6 +4127,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.uploadstation.com
 0.0.0.0	www.upsellit.com
 0.0.0.0	uptimecdn.com
+0.0.0.0	ads2.uptobox.com
 0.0.0.0	urgent-computer-warning.com
 0.0.0.0	www.urldelivery.com
 0.0.0.0	w.usabilla.com
@@ -4126,8 +4155,12 @@ fe80::1%lo0		localhost
 0.0.0.0	vda1d.uuzu.com
 0.0.0.0	uv9ieb2ohr.com
 0.0.0.0	app.validclick.com
+0.0.0.0	ad.jp.ap.valuecommerce.com
 0.0.0.0	ck.jp.ap.valuecommerce.com
 0.0.0.0	cks.jp.ap.valuecommerce.com
+0.0.0.0	atr.valuecommerce.com
+0.0.0.0	ad.omks.valuecommerce.com
+0.0.0.0	js.omks.valuecommerce.com
 0.0.0.0	vbtrax.com
 0.0.0.0	vc-mvt-pixel-80.vc-networks.com
 0.0.0.0	www.vce007.com
@@ -4571,6 +4604,8 @@ fe80::1%lo0		localhost
 0.0.0.0	i.simpli.fi
 0.0.0.0	um.simpli.fi
 0.0.0.0	assets.callisto.fm
+0.0.0.0	c.ad6media.fr
+0.0.0.0	rw9bj24c2j.s.ad6media.fr
 0.0.0.0	live.countus.fr
 0.0.0.0	cdn.tradelab.fr
 0.0.0.0	its.tradelab.fr
@@ -4739,6 +4774,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pindered.info
 0.0.0.0	plaqueousi.info
 0.0.0.0	pr.prchecker.info
+0.0.0.0	presidery.info
 0.0.0.0	profilecreeper.info
 0.0.0.0	profilehits.info
 0.0.0.0	profilethemer.info
@@ -4880,8 +4916,16 @@ fe80::1%lo0		localhost
 0.0.0.0	l.logly.co.jp
 0.0.0.0	sync.logly.co.jp
 0.0.0.0	vbc.logly.co.jp
+0.0.0.0	log.affiliate.rakuten.co.jp
+0.0.0.0	mtwidget01.affiliate.rakuten.co.jp
+0.0.0.0	mtwidget04.affiliate.rakuten.co.jp
+0.0.0.0	static.affiliate.rakuten.co.jp
+0.0.0.0	xml.affiliate.rakuten.co.jp
 0.0.0.0	hb.afl.rakuten.co.jp
 0.0.0.0	pt.afl.rakuten.co.jp
+0.0.0.0	mtwidget03.affiliate.ashiato.rakuten.co.jp
+0.0.0.0	dynamic.rakuten.co.jp
+0.0.0.0	ashiato.travel.rakuten.co.jp
 0.0.0.0	www.realestate.co.jp
 0.0.0.0	b5.yahoo.co.jp
 0.0.0.0	b92.yahoo.co.jp
@@ -5133,6 +5177,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cgm.adbureau.net
 0.0.0.0	videoegg.adbureau.net
 0.0.0.0	adx.adform.net
+0.0.0.0	s1.adform.net
 0.0.0.0	track.adform.net
 0.0.0.0	server.adformdsp.net
 0.0.0.0	nextwebmaster.engine.adglare.net
@@ -5779,6 +5824,7 @@ fe80::1%lo0		localhost
 0.0.0.0	s3.video.estream.nu
 0.0.0.0	nmwnmewjk.blogspot.co.nz
 0.0.0.0	appared.online
+0.0.0.0	v.linkingoutnow.online
 0.0.0.0	meetthegame.online
 0.0.0.0	mmofreegames.online
 0.0.0.0	servicepilot.online
@@ -5871,11 +5917,15 @@ fe80::1%lo0		localhost
 0.0.0.0	abrts.pro
 0.0.0.0	asdfg.pro
 0.0.0.0	helpdesk.com-supportfasthelpproblem.pro
+0.0.0.0	europerty.pro
 0.0.0.0	fileplace.pro
 0.0.0.0	findbox.pro
 0.0.0.0	rasius.pro
+0.0.0.0	reddleops.pro
+0.0.0.0	stalluva.pro
 0.0.0.0	unlomblam.pro
 0.0.0.0	www.viralvideos.pro
+0.0.0.0	withdromnit.pro
 0.0.0.0	www.offline.pt
 0.0.0.0	pegodoaltar.com.sapo.pt
 0.0.0.0	cp.abbp1.pw
@@ -5885,6 +5935,7 @@ fe80::1%lo0		localhost
 0.0.0.0	superasdc.pw
 0.0.0.0	adsco.re
 0.0.0.0	c.adsco.re
+0.0.0.0	tweowhvrim.review
 0.0.0.0	fx.gtop.ro
 0.0.0.0	hitx.statistics.ro
 0.0.0.0	www.top90.ro
@@ -6035,10 +6086,14 @@ fe80::1%lo0		localhost
 0.0.0.0	www.gelane.site
 0.0.0.0	imagespicy.site
 0.0.0.0	serving.imagespicy.site
+0.0.0.0	direct.redtrafficname.site
 0.0.0.0	t.voltrk.site
 0.0.0.0	winsecurity.site
 0.0.0.0	toplist.sk
 0.0.0.0	files.ctnet4.space
+0.0.0.0	play.flowplayer.space
+0.0.0.0	s2.flowplayer.space
+0.0.0.0	s3.flowplayer.space
 0.0.0.0	www.numberlessshame.space
 0.0.0.0	see-work.space
 0.0.0.0	cdn.digitru.st

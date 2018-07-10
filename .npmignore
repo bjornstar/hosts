@@ -1,0 +1,4 @@
+.appveyor.yml
+.circleci
+.eslintrc.json
+.travis.yml
