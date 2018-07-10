@@ -1,6 +1,6 @@
 {
   "name": "@bjornstar/hosts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "My hosts file, filled with advertisers and other purveyors of worthless content.",
   "main": "index.js",
   "scripts": {
