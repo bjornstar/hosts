@@ -1,6 +1,6 @@
 {
   "name": "@bjornstar/hosts",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "My hosts file, filled with advertisers and other purveyors of worthless content.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "hosts"
   ],
   "author": "Bjorn Stromberg <bjorn@bjornstar.com>",
-  "license": "MIT",
+  "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/bjornstar/hosts/issues"
   },
