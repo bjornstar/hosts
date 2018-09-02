@@ -1297,6 +1297,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ws.chamo-chat.com
 0.0.0.0	cc.chango.com
 0.0.0.0	lj.d.chango.com
+0.0.0.0	chanicut.com
 0.0.0.0	cts-log.channelintelligence.com
 0.0.0.0	static.chartbeat.com
 0.0.0.0	st.chatango.com
@@ -1463,6 +1464,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn1.ads.contentabc.com
 0.0.0.0	ads2.contentabc.com
 0.0.0.0	hashtag.contentssl.com
+0.0.0.0	mars.contentssl.com
 0.0.0.0	contextlysitescripts.contextly.com
 0.0.0.0	ads.contextweb.com
 0.0.0.0	bh.contextweb.com
@@ -2866,6 +2868,7 @@ fe80::1%lo0		localhost
 0.0.0.0	track.mvhop.com
 0.0.0.0	jk.mx500.com
 0.0.0.0	cdn.mxpnl.com
+0.0.0.0	mxzxeersjv.com
 0.0.0.0	1l-hit.my.com
 0.0.0.0	c.my.com
 0.0.0.0	r.my.com
@@ -4415,6 +4418,8 @@ fe80::1%lo0		localhost
 0.0.0.0	xmaswrite.com
 0.0.0.0	banners.xmatch.com
 0.0.0.0	www.xmediaserve.com
+0.0.0.0	xmlqerwrehfqo.com
+0.0.0.0	www.xmlqerwrehfqo.com
 0.0.0.0	xml.xmlwizard.com
 0.0.0.0	img.xnxx.com
 0.0.0.0	ads.xtargeting.com
@@ -4543,6 +4548,7 @@ fe80::1%lo0		localhost
 0.0.0.0	yumenetworks.com
 0.0.0.0	cdn-01.yumenetworks.com
 0.0.0.0	pl.yumenetworks.com
+0.0.0.0	yvlhxqxw.com
 0.0.0.0	c.yvoschaap.com
 0.0.0.0	www.yx3377.com
 0.0.0.0	weblive.bs2cdn.yy.com
@@ -4619,6 +4625,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www1.belboon.de
 0.0.0.0	rc.rtl.btt.betarget.de
 0.0.0.0	e-wolff-tools.de
+0.0.0.0	flirtcafe.de
 0.0.0.0	tracking-opi.fonpit.de
 0.0.0.0	partner.gonamic.de
 0.0.0.0	www.ipcounter.de
@@ -4700,6 +4707,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ahvawat.info
 0.0.0.0	a.allstatepro.info
 0.0.0.0	almostle.info
+0.0.0.0	amountinue.info
 0.0.0.0	qaz.net.com.org.1.anda-com.info
 0.0.0.0	a.appbluebar.info
 0.0.0.0	appersafe.info
@@ -4814,6 +4822,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pilottere.info
 0.0.0.0	pindered.info
 0.0.0.0	plaqueousi.info
+0.0.0.0	pomerous.info
 0.0.0.0	pr.prchecker.info
 0.0.0.0	presidery.info
 0.0.0.0	profilecreeper.info
@@ -5125,6 +5134,7 @@ fe80::1%lo0		localhost
 0.0.0.0	adultswishvideo.men
 0.0.0.0	partner-net.men
 0.0.0.0	pronlife.men
+0.0.0.0	singlewomens.men
 0.0.0.0	onerror.ml
 0.0.0.0	replase.ml
 0.0.0.0	adpath.mobi
