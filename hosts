@@ -474,6 +474,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mam.acloudweb.com
 0.0.0.0	cdn.lift.acquia.com
 0.0.0.0	us-east-1-capture.lift.acquia.com
+0.0.0.0	a.acrabakasaka.com
 0.0.0.0	st.acstnst.com
 0.0.0.0	c.actiondesk.com
 0.0.0.0	xml.active8ads.com
@@ -577,6 +578,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tm.adk2x.com
 0.0.0.0	trafficmoose.adk2x.com
 0.0.0.0	sync.adkernel.com
+0.0.0.0	cdn.adligature.com
 0.0.0.0	data23.adlooxtracking.com
 0.0.0.0	data65.adlooxtracking.com
 0.0.0.0	admarsx.com
@@ -1004,6 +1006,7 @@ fe80::1%lo0		localhost
 0.0.0.0	images-cdn.azoogleads.com
 0.0.0.0	azurcorporation.com
 0.0.0.0	b142d1440666173b0.com
+0.0.0.0	api.b2c.com
 0.0.0.0	b54m4qbmt0b9.com
 0.0.0.0	promo.badoink.com
 0.0.0.0	creatives.badongo.com
@@ -1329,6 +1332,7 @@ fe80::1%lo0		localhost
 0.0.0.0	api.circularhub.com
 0.0.0.0	a.ciridola.com
 0.0.0.0	xhr.ciridola.com
+0.0.0.0	www.civicscience.com
 0.0.0.0	q.cjdqy.com
 0.0.0.0	clckads.com
 0.0.0.0	www.clclckck.com
@@ -1445,7 +1449,9 @@ fe80::1%lo0		localhost
 0.0.0.0	impressionsads.communityq.com
 0.0.0.0	c.compete.com
 0.0.0.0	cdnl.complex.com
+0.0.0.0	media.complex.com
 0.0.0.0	stats.complex.com
+0.0.0.0	toolbar.complex.com
 0.0.0.0	cdn.complexmedianetwork.com
 0.0.0.0	siterecruit.comscore.com
 0.0.0.0	www.comwgi.com
@@ -2542,6 +2548,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tag.ladsp.com
 0.0.0.0	a.lakequincy.com
 0.0.0.0	oascentral.laptopmag.com
+0.0.0.0	app.later.com
 0.0.0.0	ldgateway.com
 0.0.0.0	play.leadzu.com
 0.0.0.0	play.leadzupc.com
@@ -2630,6 +2637,7 @@ fe80::1%lo0		localhost
 0.0.0.0	webstats.liveuniversenetwork.com
 0.0.0.0	cdn.livevideo.com
 0.0.0.0	w3n.llbean.com
+0.0.0.0	llq9q2lacr.com
 0.0.0.0	e.lndjj.com
 0.0.0.0	www.loading-delivery1.com
 0.0.0.0	www.loading-delivery2.com
@@ -2680,6 +2688,7 @@ fe80::1%lo0		localhost
 0.0.0.0	d.101.m3.com
 0.0.0.0	m57ku6sm.com
 0.0.0.0	www.mabosbet.com
+0.0.0.0	img.macromill.com
 0.0.0.0	ads-by.madadsmedia.com
 0.0.0.0	pixel.madadsmedia.com
 0.0.0.0	sync.madnetx.com
@@ -3017,6 +3026,9 @@ fe80::1%lo0		localhost
 0.0.0.0	static.olark.com
 0.0.0.0	stats.olark.com
 0.0.0.0	olthorol.com
+0.0.0.0	fo-api.omnitagjs.com
+0.0.0.0	fo-ssp-asi01.omnitagjs.com
+0.0.0.0	tracking-asi01.omnitagjs.com
 0.0.0.0	www.omniture.com
 0.0.0.0	www.on2url.com
 0.0.0.0	go.onclasrv.com
@@ -3070,6 +3082,8 @@ fe80::1%lo0		localhost
 0.0.0.0	179110133.log.optimizely.com
 0.0.0.0	www.optimum-hits.com
 0.0.0.0	install.optimuminstaller.com
+0.0.0.0	api.optmnstr.com
+0.0.0.0	a.optmstr.com
 0.0.0.0	api.optmstr.com
 0.0.0.0	a.optnmnstr.com
 0.0.0.0	a.optnmstr.com
@@ -4195,6 +4209,7 @@ fe80::1%lo0		localhost
 0.0.0.0	widget.uservoice.com
 0.0.0.0	static.usuarios-online.com
 0.0.0.0	www.usuarios-online.com
+0.0.0.0	i-29.b-41865.ut.bench.utorrent.com
 0.0.0.0	utclient.utorrent.com
 0.0.0.0	cb.uuzu.com
 0.0.0.0	static.uuzu.com
@@ -4521,6 +4536,8 @@ fe80::1%lo0		localhost
 0.0.0.0	yjfhldkkfl.com
 0.0.0.0	www.yjfhldkkfl.com
 0.0.0.0	ucstc5.yjyc-ask.com
+0.0.0.0	ykyryixcwn.com
+0.0.0.0	www.ykyryixcwn.com
 0.0.0.0	ads-adswest.yldbt.com
 0.0.0.0	cdn.yldbt.com
 0.0.0.0	yllix.com
@@ -4648,6 +4665,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads2007.treiberupdate.de
 0.0.0.0	www.greatplanvideopsky.download
 0.0.0.0	porngay.download
+0.0.0.0	rtr24adc.download
 0.0.0.0	sexygirls.download
 0.0.0.0	prm.mumbai-invest.email
 0.0.0.0	secure.gaug.es
@@ -4779,10 +4797,12 @@ fe80::1%lo0		localhost
 0.0.0.0	hvato.info
 0.0.0.0	i1099.info
 0.0.0.0	ignitna.info
+0.0.0.0	ihowed.info
 0.0.0.0	impressioncontent.info
 0.0.0.0	impressionpromotion.info
 0.0.0.0	infoyours.info
 0.0.0.0	instancetour.info
+0.0.0.0	ipreparty.info
 0.0.0.0	irboga.info
 0.0.0.0	izmyatin.info
 0.0.0.0	iztomsa.info
@@ -4833,6 +4853,7 @@ fe80::1%lo0		localhost
 0.0.0.0	plaqueousi.info
 0.0.0.0	pomerous.info
 0.0.0.0	pr.prchecker.info
+0.0.0.0	predocontentdelivery.info
 0.0.0.0	presidery.info
 0.0.0.0	profilecreeper.info
 0.0.0.0	profilehits.info
@@ -4865,6 +4886,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.theequalground.info
 0.0.0.0	ad.thoughtsondance.info
 0.0.0.0	tighting.info
+0.0.0.0	titranco.info
 0.0.0.0	tmenta.info
 0.0.0.0	trackingoffer.info
 0.0.0.0	rotator.trafficstars.info
@@ -4873,11 +4895,14 @@ fe80::1%lo0		localhost
 0.0.0.0	tuclother.info
 0.0.0.0	tusolyut.info
 0.0.0.0	unrestern.info
+0.0.0.0	unrestery.info
 0.0.0.0	upwritish.info
 0.0.0.0	usabadguy.info
+0.0.0.0	varielcontentdelivery.info
 0.0.0.0	votenowandwin.info
 0.0.0.0	sea.waveview.info
 0.0.0.0	tr.webantenna.info
+0.0.0.0	webcontentdelivery.info
 0.0.0.0	westmente.info
 0.0.0.0	wheelches.info
 0.0.0.0	whonami.info
@@ -4914,6 +4939,7 @@ fe80::1%lo0		localhost
 0.0.0.0	api-ping.intercom.io
 0.0.0.0	nexus-websocket-a.intercom.io
 0.0.0.0	widget.intercom.io
+0.0.0.0	api.keen.io
 0.0.0.0	assets.lateral.io
 0.0.0.0	api.lytics.io
 0.0.0.0	c.lytics.io
@@ -4988,6 +5014,7 @@ fe80::1%lo0		localhost
 0.0.0.0	dynamic.rakuten.co.jp
 0.0.0.0	ashiato.travel.rakuten.co.jp
 0.0.0.0	www.realestate.co.jp
+0.0.0.0	api.veritrans.co.jp
 0.0.0.0	b5.yahoo.co.jp
 0.0.0.0	b92.yahoo.co.jp
 0.0.0.0	logql.yahoo.co.jp
@@ -5631,6 +5658,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.mydownloader.net
 0.0.0.0	hello.myfonts.net
 0.0.0.0	www.mypagerank.net
+0.0.0.0	t.myvisualiq.net
+0.0.0.0	vt.myvisualiq.net
 0.0.0.0	nefroto.net
 0.0.0.0	js1.nend.net
 0.0.0.0	s2.nend.net
@@ -5743,6 +5772,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tags.rtbidder.net
 0.0.0.0	mt.rtmark.net
 0.0.0.0	my.rtmark.net
+0.0.0.0	amanda.runtnc.net
 0.0.0.0	briana.runtnc.net
 0.0.0.0	stephanie.runtnc.net
 0.0.0.0	m.sancdn.net
@@ -5912,6 +5942,7 @@ fe80::1%lo0		localhost
 0.0.0.0	1087072589.rsc.cdn77.org
 0.0.0.0	1277714068.rsc.cdn77.org
 0.0.0.0	click2go.org
+0.0.0.0	static.quantcast.mgr.consensu.org
 0.0.0.0	c.sharethis.mgr.consensu.org
 0.0.0.0	coolina.org
 0.0.0.0	haitao.dadang.org
@@ -5981,10 +6012,12 @@ fe80::1%lo0		localhost
 0.0.0.0	api.interia.nsaudience.pl
 0.0.0.0	abrts.pro
 0.0.0.0	asdfg.pro
+0.0.0.0	ca.clcknads.pro
 0.0.0.0	helpdesk.com-supportfasthelpproblem.pro
 0.0.0.0	europerty.pro
 0.0.0.0	fileplace.pro
 0.0.0.0	findbox.pro
+0.0.0.0	greview.pro
 0.0.0.0	rasius.pro
 0.0.0.0	reddleops.pro
 0.0.0.0	stalluva.pro
@@ -6191,7 +6224,9 @@ fe80::1%lo0		localhost
 0.0.0.0	ws03cn.streamplay.to
 0.0.0.0	bestcontentcompany.top
 0.0.0.0	bestcontentsoftware.top
+0.0.0.0	fingahvf.top
 0.0.0.0	www.monoo.top
+0.0.0.0	push-notifications.top
 0.0.0.0	redirect2.top
 0.0.0.0	smrtrdrct.top
 0.0.0.0	ads.adap.tv
@@ -6297,6 +6332,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ttw.htmlhubing.xyz
 0.0.0.0	ld8gfmow.xyz
 0.0.0.0	n1198adserv.xyz
+0.0.0.0	pulvilioyusapdd.xyz
 0.0.0.0	pumada.xyz
 0.0.0.0	qpehr.qtawytwoz.xyz
 0.0.0.0	quicktask.xyz
