@@ -1,9 +1,10 @@
 const fs = require('fs');
 
-const PATH_TO_HOSTS = '/mnt/c/Windows/System32/drivers/etc/hosts';
+const PATH_TO_HOSTS = process.platform === 'darwin' ? 'hosts' : '/mnt/c/Windows/System32/drivers/etc/hosts';
 
 const BLACKHOLE_IP = '0.0.0.0';
 const DOMAIN_IP_SEPARATOR = '\t';
+const LINE_SEPARATOR = process.platform === 'darwin' ? '\n' : '\r\n';
 
 function domainSort(a, b) {
 	for (let i = 0; i < Math.max(a.length, b.length); i += 1) {
@@ -32,7 +33,7 @@ fs.readFile(PATH_TO_HOSTS, function (e, hosts) {
 		return process.exit(1);
 	}
 
-	const lines = hosts.toString().split('\r\n');
+	const lines = hosts.toString().split(LINE_SEPARATOR);
 
 	const seen = {};
 	const special = [];
@@ -54,7 +55,7 @@ fs.readFile(PATH_TO_HOSTS, function (e, hosts) {
 
 	const output = special.concat(domains.map(domainCollapse)).join('\n') + '\n';
 
-	fs.writeFile('hosts', output, function (e) {
+	fs.writeFile('./hosts', output, function (e) {
 		if (e) {
 			console.error(e);
 			return process.exit(1);
