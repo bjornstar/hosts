@@ -112,6 +112,7 @@ fe80::1%lo0		localhost
 0.0.0.0	odyoudvaar.bid
 0.0.0.0	www.odyoudvaar.bid
 0.0.0.0	mac.ourcdn.bid
+0.0.0.0	pc.ourcdn.bid
 0.0.0.0	piyzmkcxa.bid
 0.0.0.0	qqztmozc.bid
 0.0.0.0	www.qqztmozc.bid
@@ -1765,6 +1766,7 @@ fe80::1%lo0		localhost
 0.0.0.0	api.ero-advertising.com
 0.0.0.0	banners.ero-advertising.com
 0.0.0.0	data.ero-advertising.com
+0.0.0.0	go.ero-advertising.com
 0.0.0.0	mobileads.ero-advertising.com
 0.0.0.0	popads.ero-advertising.com
 0.0.0.0	redirect.ero-advertising.com
@@ -1942,6 +1944,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fast.forbes.com
 0.0.0.0	foxarmedia.com
 0.0.0.0	metrics.foxnews.com
+0.0.0.0	foxypp.com
 0.0.0.0	popunder.fpctraffic.com
 0.0.0.0	fqtag.com
 0.0.0.0	c.fqtag.com
@@ -3250,6 +3253,8 @@ fe80::1%lo0		localhost
 0.0.0.0	widget.plugrush.com
 0.0.0.0	ft.pnop.com
 0.0.0.0	games.pog.com
+0.0.0.0	porno.pogiga.com
+0.0.0.0	www.pogiga.com
 0.0.0.0	pointclicktrack.com
 0.0.0.0	ads.pointroll.com
 0.0.0.0	clk.pointroll.com
@@ -3390,7 +3395,9 @@ fe80::1%lo0		localhost
 0.0.0.0	pushance.com
 0.0.0.0	pushcrew.com
 0.0.0.0	cdn.pushcrew.com
+0.0.0.0	pushlat.com
 0.0.0.0	pushno.com
+0.0.0.0	pushokey.com
 0.0.0.0	ads.pushplay.com
 0.0.0.0	pushwhy.com
 0.0.0.0	pussl48.com
@@ -3574,6 +3581,7 @@ fe80::1%lo0		localhost
 0.0.0.0	switch.rtbsystem.com
 0.0.0.0	rtunion.com
 0.0.0.0	rtunions.com
+0.0.0.0	rtunoin.com
 0.0.0.0	api.rtvrapi.com
 0.0.0.0	edge.ru4.com
 0.0.0.0	d.xp1.ru4.com
@@ -4481,6 +4489,8 @@ fe80::1%lo0		localhost
 0.0.0.0	xaogi.com
 0.0.0.0	xav.com
 0.0.0.0	xb11766.com
+0.0.0.0	xctiblmetgwr.com
+0.0.0.0	www.xctiblmetgwr.com
 0.0.0.0	u.xcy8.com
 0.0.0.0	images.xdating.com
 0.0.0.0	www.xdating.com
@@ -4697,6 +4707,7 @@ fe80::1%lo0		localhost
 0.0.0.0	stats.zotabox.com
 0.0.0.0	zswlvohr.com
 0.0.0.0	www.zswlvohr.com
+0.0.0.0	zukxd6fkxqn.com
 0.0.0.0	facebook.poker.zynga.com
 0.0.0.0	mwms.static.zynga.com
 0.0.0.0	aaa.zzpone.com
@@ -4821,19 +4832,24 @@ fe80::1%lo0		localhost
 0.0.0.0	choolslot.info
 0.0.0.0	clicktorrent.info
 0.0.0.0	colleduny.info
+0.0.0.0	commodates.info
 0.0.0.0	croissed.info
 0.0.0.0	cutecute.info
 0.0.0.0	dailydls.info
+0.0.0.0	desktopstools.info
 0.0.0.0	detailsay.info
 0.0.0.0	dewsburg.info
 0.0.0.0	2yhap4d.dfhdf6.info
 0.0.0.0	ditement.info
 0.0.0.0	downlloadfiles.info
+0.0.0.0	dunellengez.info
 0.0.0.0	educing.info
 0.0.0.0	elanatality.info
+0.0.0.0	evertherenous.info
 0.0.0.0	factivityw.info
 0.0.0.0	fbleak.info
 0.0.0.0	www.feelbeatsloud.info
+0.0.0.0	financyregistse.info
 0.0.0.0	www.fivve.info
 0.0.0.0	fonderredd.info
 0.0.0.0	a.forestern.info
@@ -4847,6 +4863,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mxq9cw.gff6166tdt2i4fc155zi11.info
 0.0.0.0	redirect.go-secure-click3.info
 0.0.0.0	gonomy.info
+0.0.0.0	governobylgot.info
 0.0.0.0	greatwork.info
 0.0.0.0	hanlowu.info
 0.0.0.0	www.hcg-ultrass.info
@@ -4929,6 +4946,7 @@ fe80::1%lo0		localhost
 0.0.0.0	6.9.redshell.info
 0.0.0.0	rivermind.info
 0.0.0.0	roletaryk.info
+0.0.0.0	sconcentpract.info
 0.0.0.0	securityportal.info
 0.0.0.0	sellously.info
 0.0.0.0	seness.info
@@ -5206,6 +5224,7 @@ fe80::1%lo0		localhost
 0.0.0.0	aaa.username1.link
 0.0.0.0	wct.link
 0.0.0.0	in.zog.link
+0.0.0.0	www.microsoft.com-repair-windows.live
 0.0.0.0	www.apple.com-system-speed.live
 0.0.0.0	best8097.funteam100.live
 0.0.0.0	bnc.lt
@@ -5849,6 +5868,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tags.rtbidder.net
 0.0.0.0	mt.rtmark.net
 0.0.0.0	my.rtmark.net
+0.0.0.0	rtmatcher.net
 0.0.0.0	rudsools.net
 0.0.0.0	amanda.runtnc.net
 0.0.0.0	briana.runtnc.net
