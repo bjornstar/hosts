@@ -4,6 +4,7 @@
 255.255.255.255	broadcasthost
 fe80::1%lo0		localhost
 # These servers may break things.
+#0.0.0.0	res.cloudinary.com
 #0.0.0.0	cdn.jsdelivr.net
 #0.0.0.0	s0.wp.com
 #0.0.0.0	s2.wp.com
@@ -110,6 +111,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.nzyymvidnbvz.bid
 0.0.0.0	odyoudvaar.bid
 0.0.0.0	www.odyoudvaar.bid
+0.0.0.0	mac.ourcdn.bid
 0.0.0.0	piyzmkcxa.bid
 0.0.0.0	qqztmozc.bid
 0.0.0.0	www.qqztmozc.bid
@@ -216,6 +218,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.sohu.com.xsu.cc
 0.0.0.0	js.xsu.cc
 0.0.0.0	www.xsu.cc
+0.0.0.0	glotchat.click
+0.0.0.0	paupepsu.click
 0.0.0.0	poogriry.click
 0.0.0.0	tmpopenclose.click
 0.0.0.0	wct.click
@@ -1154,6 +1158,7 @@ fe80::1%lo0		localhost
 0.0.0.0	video.bnqt.com
 0.0.0.0	bnrdom.com
 0.0.0.0	www.bnserving.com
+0.0.0.0	bodelen.com
 0.0.0.0	click.bokecc.com
 0.0.0.0	flare.bokecc.com
 0.0.0.0	cbi.boldchat.com
@@ -1387,7 +1392,6 @@ fe80::1%lo0		localhost
 0.0.0.0	p216157.clksite.com
 0.0.0.0	p255082.clksite.com
 0.0.0.0	clktag.com
-0.0.0.0	res.cloudinary.com
 0.0.0.0	api.cloudsponge.com
 0.0.0.0	en.clubcooee.com
 0.0.0.0	as.cmpnet.com
@@ -1569,6 +1573,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdm.cursecdn.com
 0.0.0.0	media-mercury.cursecdn.com
 0.0.0.0	media-titanium.cursecdn.com
+0.0.0.0	scdn.cxense.com
 0.0.0.0	scomcluster.cxense.com
 0.0.0.0	czilladx.com
 0.0.0.0	serve.czilladx.com
@@ -1712,6 +1717,7 @@ fe80::1%lo0		localhost
 0.0.0.0	st.dynamicyield.com
 0.0.0.0	static.dynamicyield.com
 0.0.0.0	main.dynsrvaba.com
+0.0.0.0	syndication.dynsrvtbg.com
 0.0.0.0	c.eu1.dyntrk.com
 0.0.0.0	e2ertt.com
 0.0.0.0	resources.ea.com
@@ -3931,6 +3937,7 @@ fe80::1%lo0		localhost
 0.0.0.0	utilities.tagsweekly.com
 0.0.0.0	api.tagtray.com
 0.0.0.0	www.tagtray.com
+0.0.0.0	take-yourprizes-now.com
 0.0.0.0	z1440.takru.com
 0.0.0.0	api3.talkinglayers.com
 0.0.0.0	s1.talkinglayers.com
@@ -4271,6 +4278,8 @@ fe80::1%lo0		localhost
 0.0.0.0	vc-mvt-pixel-80.vc-networks.com
 0.0.0.0	www.vce007.com
 0.0.0.0	a1.vdna-assets.com
+0.0.0.0	cdn.vdosupreme.com
+0.0.0.0	ws.vdosupreme.com
 0.0.0.0	velocecdn.com
 0.0.0.0	velocitycdn.com
 0.0.0.0	www.vemmabuilder.com
@@ -5197,6 +5206,8 @@ fe80::1%lo0		localhost
 0.0.0.0	aaa.username1.link
 0.0.0.0	wct.link
 0.0.0.0	in.zog.link
+0.0.0.0	www.apple.com-system-speed.live
+0.0.0.0	best8097.funteam100.live
 0.0.0.0	bnc.lt
 0.0.0.0	gorodofanosa.ltd
 0.0.0.0	show.adclick.lv
@@ -5204,6 +5215,7 @@ fe80::1%lo0		localhost
 0.0.0.0	b.et.lv
 0.0.0.0	cc10706.counter.hackers.lv
 0.0.0.0	cc13346.counter.hackers.lv
+0.0.0.0	tracking.marketing
 0.0.0.0	cackle.me
 0.0.0.0	clnk.me
 0.0.0.0	static.downloadprovider.me
@@ -5618,6 +5630,7 @@ fe80::1%lo0		localhost
 0.0.0.0	bea4.v.fwmrm.net
 0.0.0.0	givemepins.net
 0.0.0.0	gorillaserver.net
+0.0.0.0	graucoay.net
 0.0.0.0	static.hk.groupon-content.net
 0.0.0.0	vice-useast.gscontxt.net
 0.0.0.0	beacon.gu-web.net
@@ -5836,6 +5849,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tags.rtbidder.net
 0.0.0.0	mt.rtmark.net
 0.0.0.0	my.rtmark.net
+0.0.0.0	rudsools.net
 0.0.0.0	amanda.runtnc.net
 0.0.0.0	briana.runtnc.net
 0.0.0.0	stephanie.runtnc.net
@@ -6297,6 +6311,7 @@ fe80::1%lo0		localhost
 0.0.0.0	bestcontentcompany.top
 0.0.0.0	bestcontentsoftware.top
 0.0.0.0	fingahvf.top
+0.0.0.0	kaishist.top
 0.0.0.0	www.monoo.top
 0.0.0.0	push-notifications.top
 0.0.0.0	redirect2.top
