@@ -219,6 +219,10 @@ fe80::1%lo0		localhost
 0.0.0.0	www.sohu.com.xsu.cc
 0.0.0.0	js.xsu.cc
 0.0.0.0	www.xsu.cc
+0.0.0.0	client.crisp.chat
+0.0.0.0	image.crisp.chat
+0.0.0.0	client.relay.crisp.chat
+0.0.0.0	settings.crisp.chat
 0.0.0.0	glotchat.click
 0.0.0.0	paupepsu.click
 0.0.0.0	poogriry.click
@@ -310,6 +314,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pixel.keywee.co
 0.0.0.0	linkcash.co
 0.0.0.0	linkwaw.co
+0.0.0.0	api2.mobverify.co
 0.0.0.0	www.niajmtjqexq.co
 0.0.0.0	ouslayer.co
 0.0.0.0	panection.co
@@ -635,6 +640,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pub.adpnut.com
 0.0.0.0	adprotraffic.com
 0.0.0.0	adserver.adreactor.com
+0.0.0.0	delivery.adrecover.com
 0.0.0.0	www.adrolays.com
 0.0.0.0	a.adroll.com
 0.0.0.0	d.adroll.com
@@ -1199,8 +1205,10 @@ fe80::1%lo0		localhost
 0.0.0.0	enter.brazzersnetwork.com
 0.0.0.0	optimizedby.brealtime.com
 0.0.0.0	admin.brightcove.com
+0.0.0.0	edge.api.brightcove.com
 0.0.0.0	c.brightcove.com
 0.0.0.0	goku.brightcove.com
+0.0.0.0	metrics.brightcove.com
 0.0.0.0	api.brightfunnel.com
 0.0.0.0	munchkin.brightfunnel.com
 0.0.0.0	brightonclick.com
@@ -1481,6 +1489,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.conduit-banners.com
 0.0.0.0	usage.apps.conduit-services.com
 0.0.0.0	download.chrome.conduit-services.com
+0.0.0.0	cdn.connatix.com
+0.0.0.0	cdns.connatix.com
 0.0.0.0	vcore.connatix.com
 0.0.0.0	constintptr.com
 0.0.0.0	ads.contentabc.com
@@ -1649,6 +1659,7 @@ fe80::1%lo0		localhost
 0.0.0.0	disqusads.com
 0.0.0.0	dl-access.com
 0.0.0.0	content.dl-rms.com
+0.0.0.0	www.dlmyfiles.com
 0.0.0.0	cdn.dlyads.com
 0.0.0.0	ad.dmm.com
 0.0.0.0	extended.dmtracker.com
@@ -1910,6 +1921,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cachend.fling.com
 0.0.0.0	promos.fling.com
 0.0.0.0	banners.flingguru.com
+0.0.0.0	fpn.flipboard.com
 0.0.0.0	flipmailer.com
 0.0.0.0	invites.flipmailer.com
 0.0.0.0	flipora.com
@@ -1918,6 +1930,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.flirt.com
 0.0.0.0	www.flirt4free.com
 0.0.0.0	ads.flixaddict.com
+0.0.0.0	rukminim1.flixcart.com
 0.0.0.0	flkyhwjhp.com
 0.0.0.0	www.flkyhwjhp.com
 0.0.0.0	flokwire.com
@@ -1986,6 +1999,8 @@ fe80::1%lo0		localhost
 0.0.0.0	g22rbb7.com
 0.0.0.0	www.g2a.com
 0.0.0.0	www.g8search.com
+0.0.0.0	cdn.gadgets360.com
+0.0.0.0	assets.gadgets360cdn.com
 0.0.0.0	www.game-advertising-online.com
 0.0.0.0	ads.gameads.com
 0.0.0.0	cke.gamecoins.com
@@ -2061,6 +2076,7 @@ fe80::1%lo0		localhost
 0.0.0.0	gscounters.us1.gigya.com
 0.0.0.0	wildfire.gigya.com
 0.0.0.0	www.gigya.com
+0.0.0.0	cdn.gimmemore.com
 0.0.0.0	gintracking.com
 0.0.0.0	www.girlfriendactivationsystem.com
 0.0.0.0	aff3.gittigidiyor.com
@@ -2385,6 +2401,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.instantdollarz.com
 0.0.0.0	embed.insticator.com
 0.0.0.0	www.insticator.com
+0.0.0.0	load.instinctiveads.com
 0.0.0.0	instraffic.com
 0.0.0.0	cdn1.media.instraffic.com
 0.0.0.0	content.integral-marketing.com
@@ -2592,6 +2609,7 @@ fe80::1%lo0		localhost
 0.0.0.0	rt.liftdna.com
 0.0.0.0	delivery.liftium.com
 0.0.0.0	geoip.liftium.com
+0.0.0.0	www.lightboxcdn.com
 0.0.0.0	www.lightinthebox.com
 0.0.0.0	collector-medium.lightstep.com
 0.0.0.0	lijit.com
@@ -2792,6 +2810,7 @@ fe80::1%lo0		localhost
 0.0.0.0	messardu.com
 0.0.0.0	static.meteorsolutions.com
 0.0.0.0	metro-retour-no.com
+0.0.0.0	stats.mezzobit.com
 0.0.0.0	mgcash.com
 0.0.0.0	mgid.com
 0.0.0.0	ab-gb.mgid.com
@@ -2853,6 +2872,7 @@ fe80::1%lo0		localhost
 0.0.0.0	go.mobisla.com
 0.0.0.0	mobpushup.com
 0.0.0.0	go.mobtrks.com
+0.0.0.0	cdn.mobverify.com
 0.0.0.0	go.mobytrks.com
 0.0.0.0	mochiads.com
 0.0.0.0	mochibot.com
@@ -3095,6 +3115,8 @@ fe80::1%lo0		localhost
 0.0.0.0	i.psa-ads.openx.com
 0.0.0.0	i.xx.openx.com
 0.0.0.0	www.operationfabulous.com
+0.0.0.0	plugin.opinionsample.com
+0.0.0.0	surveyinterface-v2.opinionsample.com
 0.0.0.0	optadsorg.com
 0.0.0.0	cdn.optimatic.com
 0.0.0.0	delivery.optimatic.com
@@ -3166,6 +3188,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.pay-avail-click.com
 0.0.0.0	t.paypal.com
 0.0.0.0	click.payserve.com
+0.0.0.0	assetscdn.paytm.com
+0.0.0.0	assetscdn1.paytm.com
 0.0.0.0	pbyqy.com
 0.0.0.0	scan.pc-antispyware-scanner.com
 0.0.0.0	www.pcgamesupply.com
@@ -3311,6 +3335,7 @@ fe80::1%lo0		localhost
 0.0.0.0	preligions.com
 0.0.0.0	premium-cams.com
 0.0.0.0	addons.prestashop.com
+0.0.0.0	pricee.com
 0.0.0.0	cdn.printfriendly.com
 0.0.0.0	www.privateinternetaccess.com
 0.0.0.0	privitize.com
@@ -3396,6 +3421,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pushcrew.com
 0.0.0.0	cdn.pushcrew.com
 0.0.0.0	pushlat.com
+0.0.0.0	js-beta.pushmonetization.com
 0.0.0.0	pushno.com
 0.0.0.0	pushokey.com
 0.0.0.0	ads.pushplay.com
@@ -3466,6 +3492,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.quibids.com
 0.0.0.0	s1.quibidscdn.com
 0.0.0.0	quierest.com
+0.0.0.0	quizdelivery.com
 0.0.0.0	quizfo0rcash.com
 0.0.0.0	a.quora.com
 0.0.0.0	q.quora.com
@@ -3497,6 +3524,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pixel.reddit.com
 0.0.0.0	pixel.redditmedia.com
 0.0.0.0	ads.reddollars.com
+0.0.0.0	roll.redirectowl.com
 0.0.0.0	s8ywy.redirectvoluum.com
 0.0.0.0	t2bi9.redirectvoluum.com
 0.0.0.0	ads.redlightcenter.com
@@ -3512,6 +3540,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.reimageplus.com
 0.0.0.0	qa.sbaonline.reisys.com
 0.0.0.0	cdn.relaymedia.com
+0.0.0.0	surveys.relevantid.com
 0.0.0.0	r.remarketingpixel.com
 0.0.0.0	s.renren.com
 0.0.0.0	supermilky.renren.com
@@ -3598,6 +3627,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tools.runetki.com
 0.0.0.0	p.rx22dc.com
 0.0.0.0	xml.rxfclk3.com
+0.0.0.0	pa.rxthdr.com
 0.0.0.0	ryllae.com
 0.0.0.0	discount.safe-swaps.com
 0.0.0.0	www.safe-swaps.com
@@ -3638,6 +3668,8 @@ fe80::1%lo0		localhost
 0.0.0.0	beacon.scorecardresearch.com
 0.0.0.0	sb.scorecardresearch.com
 0.0.0.0	scribol.com
+0.0.0.0	connect.scroll.com
+0.0.0.0	static.scroll.com
 0.0.0.0	adsense.scupio.com
 0.0.0.0	adyhk.scupio.com
 0.0.0.0	bw.scupio.com
@@ -4687,6 +4719,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads.zeusclicks.com
 0.0.0.0	cdn.zeusclicks.com
 0.0.0.0	www.zhqbimjc.com
+0.0.0.0	cdn.ziffstatic.com
 0.0.0.0	xml.zipzipsearch.com
 0.0.0.0	www1.zjbdt.com
 0.0.0.0	www4.zjbdt.com
@@ -5024,6 +5057,8 @@ fe80::1%lo0		localhost
 0.0.0.0	widget.intercom.io
 0.0.0.0	api.keen.io
 0.0.0.0	assets.lateral.io
+0.0.0.0	cdn.logrocket.io
+0.0.0.0	r.logrocket.io
 0.0.0.0	api.lytics.io
 0.0.0.0	c.lytics.io
 0.0.0.0	myidm.io
@@ -5046,6 +5081,7 @@ fe80::1%lo0		localhost
 0.0.0.0	horusii.vemba.io
 0.0.0.0	videos-by.vemba.io
 0.0.0.0	wurfl.io
+0.0.0.0	e2e-static.zdcommerce.io
 0.0.0.0	www.halloheimur.is
 0.0.0.0	bnrs.it
 0.0.0.0	www.placehold.it
@@ -5425,6 +5461,7 @@ fe80::1%lo0		localhost
 0.0.0.0	blatsnarf.net
 0.0.0.0	js1.bloggerads.net
 0.0.0.0	mint.boingboing.net
+0.0.0.0	players.brightcove.net
 0.0.0.0	cdn4.buysellads.net
 0.0.0.0	js.buzzcity.net
 0.0.0.0	show.buzzcity.net
@@ -5753,6 +5790,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.mypagerank.net
 0.0.0.0	t.myvisualiq.net
 0.0.0.0	vt.myvisualiq.net
+0.0.0.0	cdn01.mzbcdn.net
 0.0.0.0	nefroto.net
 0.0.0.0	js1.nend.net
 0.0.0.0	s2.nend.net
@@ -5779,6 +5817,7 @@ fe80::1%lo0		localhost
 0.0.0.0	js.nster.net
 0.0.0.0	ip.nuggad.net
 0.0.0.0	cdn.octoshape.net
+0.0.0.0	jump.ogtrk.net
 0.0.0.0	nydailynews.d1.sc.omtrdc.net
 0.0.0.0	paypal.d1.sc.omtrdc.net
 0.0.0.0	skype.tt.omtrdc.net
@@ -6004,6 +6043,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ns.zdbb.net
 0.0.0.0	cdn.static.zdbb.net
 0.0.0.0	walker.zdbb.net
+0.0.0.0	vjs.zencdn.net
 0.0.0.0	ziffsite.net
 0.0.0.0	clicktrack4.ziyu.net
 0.0.0.0	ctfile.ziyu.net
@@ -6048,6 +6088,7 @@ fe80::1%lo0		localhost
 0.0.0.0	1087072589.rsc.cdn77.org
 0.0.0.0	1277714068.rsc.cdn77.org
 0.0.0.0	click2go.org
+0.0.0.0	quantcast.mgr.consensu.org
 0.0.0.0	static.quantcast.mgr.consensu.org
 0.0.0.0	c.sharethis.mgr.consensu.org
 0.0.0.0	coolina.org
@@ -6066,6 +6107,7 @@ fe80::1%lo0		localhost
 0.0.0.0	getgiftcards.org
 0.0.0.0	2468.go2cloud.org
 0.0.0.0	cpafull.go2cloud.org
+0.0.0.0	mqh.go2cloud.org
 0.0.0.0	wadogo.go2cloud.org
 0.0.0.0	wehasoffers.go2cloud.org
 0.0.0.0	nam.go2jump.org
@@ -6089,6 +6131,7 @@ fe80::1%lo0		localhost
 0.0.0.0	d.pixiv.org
 0.0.0.0	ads.plos.org
 0.0.0.0	pr0x.org
+0.0.0.0	currency.prebid.org
 0.0.0.0	t05.rbnt.org
 0.0.0.0	s0ftpedia.org
 0.0.0.0	sharecash.org
