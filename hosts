@@ -239,6 +239,7 @@ fe80::1%lo0		localhost
 0.0.0.0	lingintirejohny.club
 0.0.0.0	mokiloka.club
 0.0.0.0	llkvv.one-night-stand.club
+0.0.0.0	pdfsviewer.club
 0.0.0.0	pptchecker.club
 0.0.0.0	randomfaster.club
 0.0.0.0	api.reon.club
@@ -292,6 +293,8 @@ fe80::1%lo0		localhost
 0.0.0.0	adv.9ccc.co
 0.0.0.0	ad132m.adk2.co
 0.0.0.0	speednetwork14.adk2.co
+0.0.0.0	filter.adright.co
+0.0.0.0	xml.adright.co
 0.0.0.0	admtpmp127.adsk2.co
 0.0.0.0	affiliategateways.co
 0.0.0.0	www.anlclqrvbsk.co
@@ -548,6 +551,7 @@ fe80::1%lo0		localhost
 0.0.0.0	images-l3.adengage.com
 0.0.0.0	rtb.adentifi.com
 0.0.0.0	adexchangedirect.com
+0.0.0.0	adexchangegate.com
 0.0.0.0	b.adexchangemachine.com
 0.0.0.0	c.adexchangemachine.com
 0.0.0.0	adexchangeprediction.com
@@ -625,6 +629,7 @@ fe80::1%lo0		localhost
 0.0.0.0	assets.adobedtm.com
 0.0.0.0	www.adobetag.com
 0.0.0.0	ace.adoftheyear.com
+0.0.0.0	xml.adokutcontextual.com
 0.0.0.0	s.adonly.com
 0.0.0.0	t.adonly.com
 0.0.0.0	tags.adonly.com
@@ -725,6 +730,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.adtoma.com
 0.0.0.0	fusion.adtoma.com
 0.0.0.0	a.adtpix.com
+0.0.0.0	adtrack01.com
 0.0.0.0	rq.adtrackdirect.com
 0.0.0.0	url.adtrgt.com
 0.0.0.0	delivery.adtwothree.com
@@ -1171,6 +1177,7 @@ fe80::1%lo0		localhost
 0.0.0.0	video.bnmla.com
 0.0.0.0	video.bnqt.com
 0.0.0.0	bnrdom.com
+0.0.0.0	b.bnrslks.com
 0.0.0.0	www.bnserving.com
 0.0.0.0	bodelen.com
 0.0.0.0	click.bokecc.com
@@ -1315,6 +1322,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cbsnews9.com
 0.0.0.0	ttshow.cciuop.com
 0.0.0.0	five.cdn-image.com
+0.0.0.0	pads.cdnads.com
 0.0.0.0	s1.cdncontents.com
 0.0.0.0	http.cdnlayer.com
 0.0.0.0	cdn77.cdnplanet.com
@@ -2199,6 +2207,7 @@ fe80::1%lo0		localhost
 0.0.0.0	static.hatid.com
 0.0.0.0	hcg82f2b.com
 0.0.0.0	hcgdropsboutique.com
+0.0.0.0	hd-mediabox.com
 0.0.0.0	hd100546b.com
 0.0.0.0	www.healthreportz.com
 0.0.0.0	a.heavy-r.com
@@ -2768,6 +2777,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.mai3721.com
 0.0.0.0	ads.mail3x.com
 0.0.0.0	downloads.mailchimp.com
+0.0.0.0	www.makemoneyww.com
 0.0.0.0	manychat.com
 0.0.0.0	widget.manychat.com
 0.0.0.0	marichrtr1.com
@@ -2918,6 +2928,7 @@ fe80::1%lo0		localhost
 0.0.0.0	moradu.com
 0.0.0.0	www.morefreecamsecrets.com
 0.0.0.0	oascentral.motherjones.com
+0.0.0.0	cdn.mouseflow.com
 0.0.0.0	ads.moviease.com
 0.0.0.0	ads.movielush.com
 0.0.0.0	www.movieworldsite.com
@@ -2934,6 +2945,7 @@ fe80::1%lo0		localhost
 0.0.0.0	2545465.r.msn.com
 0.0.0.0	rad.msn.com
 0.0.0.0	fd.rad.msn.com
+0.0.0.0	sam.msn.com
 0.0.0.0	udc.msn.com
 0.0.0.0	c.msparktrk.com
 0.0.0.0	api.mspoke.com
@@ -3044,6 +3056,7 @@ fe80::1%lo0		localhost
 0.0.0.0	xhr.nimdinb.com
 0.0.0.0	vd.nimem.com
 0.0.0.0	ninjagod.com
+0.0.0.0	tracker.nitropay.com
 0.0.0.0	njjybqyiuotl.com
 0.0.0.0	www.njjybqyiuotl.com
 0.0.0.0	www.njpj.com
@@ -3083,6 +3096,9 @@ fe80::1%lo0		localhost
 0.0.0.0	consent.cmp.oath.com
 0.0.0.0	go.oclaserver.com
 0.0.0.0	go.oclasrv.com
+0.0.0.0	content.oddcast.com
+0.0.0.0	data.oddcast.com
+0.0.0.0	vhss-d.oddcast.com
 0.0.0.0	ododtktl.com
 0.0.0.0	mbox12.offermatica.com
 0.0.0.0	offerreality.com
@@ -3180,9 +3196,11 @@ fe80::1%lo0		localhost
 0.0.0.0	www.ossdqciz.com
 0.0.0.0	amplify.outbrain.com
 0.0.0.0	amplifypixel.outbrain.com
+0.0.0.0	mcdp-sadc1.outbrain.com
 0.0.0.0	odb.outbrain.com
 0.0.0.0	tr.outbrain.com
 0.0.0.0	widgets.outbrain.com
+0.0.0.0	images.outbrainimg.com
 0.0.0.0	www.baiduqq.com.ov33.com
 0.0.0.0	overhaps.com
 0.0.0.0	cm.npc-hearst.overture.com
@@ -3395,6 +3413,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.propellerads.com
 0.0.0.0	img.propellerads.com
 0.0.0.0	native.propellerads.com
+0.0.0.0	native.propellerclick.com
 0.0.0.0	propellerpops.com
 0.0.0.0	api.propelplus.com
 0.0.0.0	core.propelplus.com
@@ -3662,6 +3681,7 @@ fe80::1%lo0		localhost
 0.0.0.0	xml.rxfclk3.com
 0.0.0.0	pa.rxthdr.com
 0.0.0.0	ryllae.com
+0.0.0.0	s1-adfly.com
 0.0.0.0	discount.safe-swaps.com
 0.0.0.0	www.safe-swaps.com
 0.0.0.0	secure.safebillings.com
@@ -3997,10 +4017,12 @@ fe80::1%lo0		localhost
 0.0.0.0	szlkqxlkcz.com
 0.0.0.0	t3q7af0z.com
 0.0.0.0	js.ta80.com
+0.0.0.0	api-s2s.taboola.com
 0.0.0.0	cdn.taboola.com
 0.0.0.0	images.taboola.com
 0.0.0.0	netstorage.taboola.com
 0.0.0.0	trc.taboola.com
+0.0.0.0	vidstat.taboola.com
 0.0.0.0	cdn.taboolasyndication.com
 0.0.0.0	trc.taboolasyndication.com
 0.0.0.0	cdn.tagcommander.com
@@ -4840,6 +4862,7 @@ fe80::1%lo0		localhost
 0.0.0.0	live.countus.fr
 0.0.0.0	cdn.tradelab.fr
 0.0.0.0	its.tradelab.fr
+0.0.0.0	d.mordi.fun
 0.0.0.0	happylife.fyi
 0.0.0.0	cfasync.ga
 0.0.0.0	onerror.ga
@@ -4849,6 +4872,7 @@ fe80::1%lo0		localhost
 0.0.0.0	epital.gdn
 0.0.0.0	pebed.dm.gg
 0.0.0.0	webed.dm.gg
+0.0.0.0	dl.reforged.gg
 0.0.0.0	ohcs.uu.gl
 0.0.0.0	esquimo.server.ohcs.uu.gl
 0.0.0.0	www.amy.gs
@@ -4938,6 +4962,7 @@ fe80::1%lo0		localhost
 0.0.0.0	dunellengez.info
 0.0.0.0	educing.info
 0.0.0.0	elanatality.info
+0.0.0.0	enoughts.info
 0.0.0.0	entionale.info
 0.0.0.0	eventraliaclinental.info
 0.0.0.0	evertherenous.info
@@ -4949,11 +4974,14 @@ fe80::1%lo0		localhost
 0.0.0.0	www.fivve.info
 0.0.0.0	fonderredd.info
 0.0.0.0	a.forestern.info
+0.0.0.0	foreventwithenwas.info
 0.0.0.0	forex-spread-betting.info
 0.0.0.0	fosla.info
 0.0.0.0	funbagget.info
 0.0.0.0	fungetbag.info
 0.0.0.0	share.funny-picz.info
+0.0.0.0	gelacrabuld.info
+0.0.0.0	pixel.gelacrabuld.info
 0.0.0.0	geranew.info
 0.0.0.0	getetafun.info
 0.0.0.0	mxq9cw.gff6166tdt2i4fc155zi11.info
@@ -5907,6 +5935,7 @@ fe80::1%lo0		localhost
 0.0.0.0	server1.opentracker.net
 0.0.0.0	bid.openx.net
 0.0.0.0	coinmarketcap-d.openx.net
+0.0.0.0	ggsoftware-d.openx.net
 0.0.0.0	healthline-d.openx.net
 0.0.0.0	jp-u.openx.net
 0.0.0.0	mediafire-d.openx.net
@@ -6056,6 +6085,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fixed.turbobytes.net
 0.0.0.0	twitter-deals.net
 0.0.0.0	p.typekit.net
+0.0.0.0	uclaut.net
 0.0.0.0	udmserve.net
 0.0.0.0	v2.urlads.net
 0.0.0.0	urlcash.net
@@ -6405,6 +6435,7 @@ fe80::1%lo0		localhost
 0.0.0.0	adimage.asia1.com.sg
 0.0.0.0	ads.asia1.com.sg
 0.0.0.0	synad2.nuffnang.com.sg
+0.0.0.0	www.carnews.shop
 0.0.0.0	www.adpartner.si
 0.0.0.0	kos.interseek.si
 0.0.0.0	aschen.stargate.si
@@ -6453,6 +6484,18 @@ fe80::1%lo0		localhost
 0.0.0.0	facash.streamplay.to
 0.0.0.0	ws02cn.streamplay.to
 0.0.0.0	ws03cn.streamplay.to
+0.0.0.0	embed.tawk.to
+0.0.0.0	static-v.tawk.to
+0.0.0.0	vs64.tawk.to
+0.0.0.0	www1.watchmygf.to
+0.0.0.0	www2.watchmygf.to
+0.0.0.0	www3.watchmygf.to
+0.0.0.0	www4.watchmygf.to
+0.0.0.0	www5.watchmygf.to
+0.0.0.0	www6.watchmygf.to
+0.0.0.0	www7.watchmygf.to
+0.0.0.0	www8.watchmygf.to
+0.0.0.0	www9.watchmygf.to
 0.0.0.0	bestcontentcompany.top
 0.0.0.0	bestcontentsoftware.top
 0.0.0.0	fingahvf.top
@@ -6554,6 +6597,7 @@ fe80::1%lo0		localhost
 0.0.0.0	s.pacn.ws
 0.0.0.0	photoserver.ws
 0.0.0.0	raidrush.ws
+0.0.0.0	redirect2719.ws
 0.0.0.0	woom.ws
 0.0.0.0	1xgkr.xyz
 0.0.0.0	4x32i9m5.xyz
