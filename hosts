@@ -235,6 +235,7 @@ fe80::1%lo0		localhost
 0.0.0.0	bing0sl0t.club
 0.0.0.0	docsconvert.club
 0.0.0.0	doctoconve.club
+0.0.0.0	click.eclk.club
 0.0.0.0	imagetopng.club
 0.0.0.0	lingintirejohny.club
 0.0.0.0	mokiloka.club
@@ -476,6 +477,9 @@ fe80::1%lo0		localhost
 0.0.0.0	s.a-ads.com
 0.0.0.0	a2pub.com
 0.0.0.0	aaucwbe.com
+0.0.0.0	c.aaxads.com
+0.0.0.0	l.aaxads.com
+0.0.0.0	aaxdetect.com
 0.0.0.0	www.abcjmp.com
 0.0.0.0	abourself.com
 0.0.0.0	abourselfi.com
@@ -832,6 +836,8 @@ fe80::1%lo0		localhost
 0.0.0.0	client.alexa.com
 0.0.0.0	xslt.alexa.com
 0.0.0.0	xsltcache.alexa.com
+0.0.0.0	certify.alexametrics.com
+0.0.0.0	certify-js.alexametrics.com
 0.0.0.0	a.algovid.com
 0.0.0.0	c.algovid.com
 0.0.0.0	p.algovid.com
@@ -883,6 +889,7 @@ fe80::1%lo0		localhost
 0.0.0.0	rcm-na.amazon-adsystem.com
 0.0.0.0	s.amazon-adsystem.com
 0.0.0.0	wms-na.amazon-adsystem.com
+0.0.0.0	ws-fe.amazon-adsystem.com
 0.0.0.0	ws-na.amazon-adsystem.com
 0.0.0.0	z-fe.amazon-adsystem.com
 0.0.0.0	z-na.amazon-adsystem.com
@@ -1043,6 +1050,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cpro.baidu.com
 0.0.0.0	drmcmm.baidu.com
 0.0.0.0	eclick.baidu.com
+0.0.0.0	gsp0.baidu.com
 0.0.0.0	hm.baidu.com
 0.0.0.0	nsclick.baidu.com
 0.0.0.0	pos.baidu.com
@@ -1053,6 +1061,8 @@ fe80::1%lo0		localhost
 0.0.0.0	bambergerkennanchitinous.com
 0.0.0.0	data.bambergerkennanchitinous.com
 0.0.0.0	bamsocial.com
+0.0.0.0	cdn.bannerflow.com
+0.0.0.0	embed.bannerflow.com
 0.0.0.0	affiliates.barenecessities.com
 0.0.0.0	basepush.com
 0.0.0.0	bauffnmtou.com
@@ -1289,6 +1299,7 @@ fe80::1%lo0		localhost
 0.0.0.0	files.candofinance.com
 0.0.0.0	www.candofinance.com
 0.0.0.0	js.capitalsafebody.com
+0.0.0.0	cdn.carbonads.com
 0.0.0.0	engine.carbonads.com
 0.0.0.0	static.carbonads.com
 0.0.0.0	dingo.care2.com
@@ -1375,12 +1386,16 @@ fe80::1%lo0		localhost
 0.0.0.0	xhr.ciridola.com
 0.0.0.0	www.civicscience.com
 0.0.0.0	q.cjdqy.com
+0.0.0.0	cjl58f3agc.com
 0.0.0.0	clckads.com
 0.0.0.0	www.clclckck.com
 0.0.0.0	static.cleanadulthost.com
 0.0.0.0	clearspring.com
 0.0.0.0	bin.clearspring.com
 0.0.0.0	www.clearspring.com
+0.0.0.0	clevernt.com
+0.0.0.0	sender.clevernt.com
+0.0.0.0	ui.clevernt.com
 0.0.0.0	www.click-vdo.com
 0.0.0.0	click2track.com
 0.0.0.0	ads.clickadserver.com
@@ -1599,6 +1614,8 @@ fe80::1%lo0		localhost
 0.0.0.0	img2.crystalclearmovies.com
 0.0.0.0	ctjtlrmy.com
 0.0.0.0	www.ctjtlrmy.com
+0.0.0.0	appsha2.ctnetload2.com
+0.0.0.0	apps2.ctnetpass2.com
 0.0.0.0	cttracking08.com
 0.0.0.0	www.cucape.com
 0.0.0.0	cuntwars.com
@@ -2590,6 +2607,7 @@ fe80::1%lo0		localhost
 0.0.0.0	network.kitaramarketplace.com
 0.0.0.0	content2.kitnmedia.com
 0.0.0.0	super.kitnmedia.com
+0.0.0.0	kj2hy.com
 0.0.0.0	kjkwrmwdyhi.com
 0.0.0.0	www.kjkwrmwdyhi.com
 0.0.0.0	scr.kliksaya.com
@@ -3290,6 +3308,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.pinnacle.com
 0.0.0.0	ct.pinterest.com
 0.0.0.0	log.pinterest.com
+0.0.0.0	ads.pipaffiliates.com
 0.0.0.0	clicks.pipaffiliates.com
 0.0.0.0	pippio.com
 0.0.0.0	pixellitomedia.com
@@ -4196,6 +4215,7 @@ fe80::1%lo0		localhost
 0.0.0.0	lib.trafit.com
 0.0.0.0	logging.trakingpixel.com
 0.0.0.0	www.traktrafficflow.com
+0.0.0.0	cdn.transifex.com
 0.0.0.0	s1.translation-services-usa.com
 0.0.0.0	www.translation-services-usa.com
 0.0.0.0	ad.travelocity.com
@@ -4371,6 +4391,7 @@ fe80::1%lo0		localhost
 0.0.0.0	uv9ieb2ohr.com
 0.0.0.0	vacaneedasap.com
 0.0.0.0	app.validclick.com
+0.0.0.0	cache1.value-domain.com
 0.0.0.0	ad.jp.ap.valuecommerce.com
 0.0.0.0	ck.jp.ap.valuecommerce.com
 0.0.0.0	cks.jp.ap.valuecommerce.com
@@ -4549,6 +4570,7 @@ fe80::1%lo0		localhost
 0.0.0.0	embed.wistia.com
 0.0.0.0	fast.wistia.com
 0.0.0.0	pipedream.wistia.com
+0.0.0.0	witalfieldt.com
 0.0.0.0	withbinaryoptions.com
 0.0.0.0	api.witlee.com
 0.0.0.0	cdn.witlee.com
@@ -4881,6 +4903,8 @@ fe80::1%lo0		localhost
 0.0.0.0	minimax.com.hk
 0.0.0.0	www.minimax.com.hk
 0.0.0.0	i1.hk
+0.0.0.0	crowdmind.host
+0.0.0.0	directorywin.host
 0.0.0.0	audit.median.hu
 0.0.0.0	ad.parom.hu
 0.0.0.0	sidecar.gitter.im
@@ -5144,7 +5168,9 @@ fe80::1%lo0		localhost
 0.0.0.0	stats.cloudwp.io
 0.0.0.0	codefund.io
 0.0.0.0	apps3.cointraffic.io
+0.0.0.0	apps6.cointraffic.io
 0.0.0.0	appsha1.cointraffic.io
+0.0.0.0	files.cointraffic.io
 0.0.0.0	coinzilla.io
 0.0.0.0	xml.convertise.io
 0.0.0.0	assets.customer.io
@@ -5487,8 +5513,10 @@ fe80::1%lo0		localhost
 0.0.0.0	www.a135.net
 0.0.0.0	js.a3p4.net
 0.0.0.0	px.a8.net
+0.0.0.0	rws.a8.net
 0.0.0.0	statics.a8.net
 0.0.0.0	abmr.net
+0.0.0.0	h.accesstrade.net
 0.0.0.0	adadvisor.net
 0.0.0.0	adbard.net
 0.0.0.0	cdn1.adbard.net
@@ -6280,6 +6308,7 @@ fe80::1%lo0		localhost
 0.0.0.0	helple.pro
 0.0.0.0	rasius.pro
 0.0.0.0	reddleops.pro
+0.0.0.0	salaure.pro
 0.0.0.0	stalluva.pro
 0.0.0.0	unlomblam.pro
 0.0.0.0	www.viralvideos.pro
