@@ -1352,6 +1352,7 @@ fe80::1%lo0		localhost
 0.0.0.0	level3.cedexis-test.com
 0.0.0.0	limelight-ssl.cedexis-test.com
 0.0.0.0	cfqpxzx.com
+0.0.0.0	cfts1tifqr.com
 0.0.0.0	ch2.chamo-chat.com
 0.0.0.0	v1.chamo-chat.com
 0.0.0.0	ws.chamo-chat.com
@@ -1656,6 +1657,7 @@ fe80::1%lo0		localhost
 0.0.0.0	deloton.com
 0.0.0.0	static.deluxe-downloads.com
 0.0.0.0	www.deluxe-downloads.com
+0.0.0.0	api.demandbase.com
 0.0.0.0	leads.demandbase.com
 0.0.0.0	scripts.demandbase.com
 0.0.0.0	c.robo.departapp.com
@@ -1678,6 +1680,7 @@ fe80::1%lo0		localhost
 0.0.0.0	a.digg.com
 0.0.0.0	widgets.digg.com
 0.0.0.0	digginst.com
+0.0.0.0	seal.digicert.com
 0.0.0.0	www.digicert.com
 0.0.0.0	digitaldsp.com
 0.0.0.0	delivery8.digitalhealthcare.com
@@ -1749,6 +1752,7 @@ fe80::1%lo0		localhost
 0.0.0.0	drowle.com
 0.0.0.0	www.drowle.com
 0.0.0.0	www.drstation.com
+0.0.0.0	eu.dspmulti.com
 0.0.0.0	cdn.dsultra.com
 0.0.0.0	burnside.dtcn.com
 0.0.0.0	10.dtiblog.com
@@ -2017,6 +2021,10 @@ fe80::1%lo0		localhost
 0.0.0.0	www.freeporn.com
 0.0.0.0	free.freepornofreeporn.com
 0.0.0.0	freeviewmovies.com
+0.0.0.0	assetscdn-wchat.freshchat.com
+0.0.0.0	snippets.freshchat.com
+0.0.0.0	wchat.freshchat.com
+0.0.0.0	rapid-web-services.webpush.freshchat.com
 0.0.0.0	assets.freshdesk.com
 0.0.0.0	freshlinkx.com
 0.0.0.0	www.freshwap.com
@@ -3084,6 +3092,7 @@ fe80::1%lo0		localhost
 0.0.0.0	uf.noclef.com
 0.0.0.0	hello.northernprofit.com
 0.0.0.0	seal.websecurity.norton.com
+0.0.0.0	trustsealinfo.websecurity.norton.com
 0.0.0.0	nosyezhe.com
 0.0.0.0	novadune.com
 0.0.0.0	ze1.november-lax.com
@@ -3723,6 +3732,8 @@ fe80::1%lo0		localhost
 0.0.0.0	chat.sakuralive.com
 0.0.0.0	imageup.sakuralive.com
 0.0.0.0	www.sakuralive.com
+0.0.0.0	salesforceliveagent.com
+0.0.0.0	c.la4-c1cs-dfw.salesforceliveagent.com
 0.0.0.0	track.salesmai.com
 0.0.0.0	judo.salon.com
 0.0.0.0	oascentral.salon.com
@@ -4034,6 +4045,8 @@ fe80::1%lo0		localhost
 0.0.0.0	swiftype.com
 0.0.0.0	delivery.switchadhub.com
 0.0.0.0	delivery.swid.switchads.com
+0.0.0.0	nsg.symantec.com
+0.0.0.0	vs.symantec.com
 0.0.0.0	syndik8ed.com
 0.0.0.0	xml2.systemaffiliate.com
 0.0.0.0	www.szktsh.com
@@ -4512,6 +4525,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.wearefreeuynik.com
 0.0.0.0	ads.webcamclub.com
 0.0.0.0	photos.webcamclub.com
+0.0.0.0	www.webglearth.com
 0.0.0.0	ads.webmd.com
 0.0.0.0	as.webmd.com
 0.0.0.0	api.websecure1.com
@@ -6084,6 +6098,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cloud.spendcrazy.net
 0.0.0.0	www.ssl-encrypted-gateway.net
 0.0.0.0	statistik-gallup.net
+0.0.0.0	statsy.net
 0.0.0.0	ssp.streamrail.net
 0.0.0.0	cdn.sublimevideo.net
 0.0.0.0	adv.surinter.net
