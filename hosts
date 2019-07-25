@@ -949,6 +949,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.apmebf.com
 0.0.0.0	analytics.apnewsregistry.com
 0.0.0.0	apparede.com
+0.0.0.0	js.appboycdn.com
 0.0.0.0	fast.appcues.com
 0.0.0.0	application-77my.com
 0.0.0.0	apps-hd.com
@@ -1224,6 +1225,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mem.brandreachsys.com
 0.0.0.0	rkcache.brandreachsys.com
 0.0.0.0	brassyobedientcotangent.com
+0.0.0.0	braze.com
 0.0.0.0	ads.brazzers.com
 0.0.0.0	cdn1.ads.brazzers.com
 0.0.0.0	static.brazzers.com
@@ -1255,6 +1257,8 @@ fe80::1%lo0		localhost
 0.0.0.0	zeus.bubblestat.com
 0.0.0.0	www.budgetedbauer.com
 0.0.0.0	budurl.com
+0.0.0.0	notify.bugsnag.com
+0.0.0.0	sessions.bugsnag.com
 0.0.0.0	metaapi.bulletproofserving.com
 0.0.0.0	ws.bulletproofserving.com
 0.0.0.0	www.bundletagshare.com
@@ -1490,6 +1494,7 @@ fe80::1%lo0		localhost
 0.0.0.0	codytzi.com
 0.0.0.0	coin-hive.com
 0.0.0.0	coinhive.com
+0.0.0.0	zoa.cointelegraph.com
 0.0.0.0	coinurl.com
 0.0.0.0	www.collective.com
 0.0.0.0	atracktive.collegehumor.com
@@ -2924,6 +2929,9 @@ fe80::1%lo0		localhost
 0.0.0.0	hz.mmstat.com
 0.0.0.0	perf.mmstat.com
 0.0.0.0	js.moatads.com
+0.0.0.0	mb.moatads.com
+0.0.0.0	px.moatads.com
+0.0.0.0	sejs.moatads.com
 0.0.0.0	yt.moatads.com
 0.0.0.0	yts.moatads.com
 0.0.0.0	z.moatads.com
@@ -5197,6 +5205,7 @@ fe80::1%lo0		localhost
 0.0.0.0	files.cointraffic.io
 0.0.0.0	coinzilla.io
 0.0.0.0	xml.convertise.io
+0.0.0.0	sentry.ctgroup.io
 0.0.0.0	assets.customer.io
 0.0.0.0	track.customer.io
 0.0.0.0	as.ebz.io
@@ -5222,6 +5231,7 @@ fe80::1%lo0		localhost
 0.0.0.0	aspen.ngtv.io
 0.0.0.0	s.ntv.io
 0.0.0.0	app.pendo.io
+0.0.0.0	cdn.pendo.io
 0.0.0.0	ad.pxlad.io
 0.0.0.0	thor.rtk.io
 0.0.0.0	api.segment.io
@@ -5547,6 +5557,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cgm.adbureau.net
 0.0.0.0	videoegg.adbureau.net
 0.0.0.0	adx.adform.net
+0.0.0.0	c1.adform.net
 0.0.0.0	s1.adform.net
 0.0.0.0	track.adform.net
 0.0.0.0	server.adformdsp.net
@@ -5942,6 +5953,7 @@ fe80::1%lo0		localhost
 0.0.0.0	az413505.vo.msecnd.net
 0.0.0.0	az416426.vo.msecnd.net
 0.0.0.0	az708531.vo.msecnd.net
+0.0.0.0	rbp.mxptint.net
 0.0.0.0	www.mydownloader.net
 0.0.0.0	hello.myfonts.net
 0.0.0.0	www.mypagerank.net
