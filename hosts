@@ -718,6 +718,10 @@ fe80::1%lo0		localhost
 0.0.0.0	www.adsurve.com
 0.0.0.0	adsvids.com
 0.0.0.0	www.adswithsalt.com
+0.0.0.0	adswizz.com
+0.0.0.0	delivery-cdn-cf.adswizz.com
+0.0.0.0	synchroscript.deliveryengine.adswizz.com
+0.0.0.0	synchrobox.adswizz.com
 0.0.0.0	p.adsymptotic.com
 0.0.0.0	www.adszooks.com
 0.0.0.0	pv.amanad.adtdp.com
@@ -947,6 +951,13 @@ fe80::1%lo0		localhost
 0.0.0.0	o.aolcdn.com
 0.0.0.0	s.aolcdn.com
 0.0.0.0	aoredi.com
+0.0.0.0	display.apester.com
+0.0.0.0	events.apester.com
+0.0.0.0	img.apester.com
+0.0.0.0	interaction.apester.com
+0.0.0.0	pulse.apester.com
+0.0.0.0	renderer.apester.com
+0.0.0.0	static.apester.com
 0.0.0.0	mp.apmebf.com
 0.0.0.0	www.apmebf.com
 0.0.0.0	analytics.apnewsregistry.com
@@ -1233,6 +1244,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn1.ads.brazzers.com
 0.0.0.0	static.brazzers.com
 0.0.0.0	enter.brazzersnetwork.com
+0.0.0.0	edba.brealtime.com
 0.0.0.0	optimizedby.brealtime.com
 0.0.0.0	admin.brightcove.com
 0.0.0.0	edge.api.brightcove.com
@@ -1814,6 +1826,7 @@ fe80::1%lo0		localhost
 0.0.0.0	a.elsanglin.com
 0.0.0.0	www.emjcd.com
 0.0.0.0	emvdlnwph.com
+0.0.0.0	hb.emxdgt.com
 0.0.0.0	recs.engageya.com
 0.0.0.0	widget.engageya.com
 0.0.0.0	enoratraffic.com
@@ -2015,6 +2028,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fobjoccwkrkv.com
 0.0.0.0	ads.forbes.com
 0.0.0.0	fast.forbes.com
+0.0.0.0	service.force.com
 0.0.0.0	foxarmedia.com
 0.0.0.0	metrics.foxnews.com
 0.0.0.0	foxypp.com
@@ -2294,6 +2308,7 @@ fe80::1%lo0		localhost
 0.0.0.0	e1.static.hoptopboy.com
 0.0.0.0	hospites.com
 0.0.0.0	ext.host-tracker.com
+0.0.0.0	hostedprebid.com
 0.0.0.0	analytics.hosting24.com
 0.0.0.0	www.hotchatdirect.com
 0.0.0.0	insights.hotjar.com
@@ -3314,6 +3329,8 @@ fe80::1%lo0		localhost
 0.0.0.0	perfecttracking.com
 0.0.0.0	analytics.performable.com
 0.0.0.0	cdn.performersoft.com
+0.0.0.0	api.permutive.com
+0.0.0.0	cdn.permutive.com
 0.0.0.0	cdn.petametrics.com
 0.0.0.0	engine.pgmediaserve.com
 0.0.0.0	cdn.engine.pgmediaserve.com
@@ -3857,6 +3874,7 @@ fe80::1%lo0		localhost
 0.0.0.0	w.sharethis.com
 0.0.0.0	wd.sharethis.com
 0.0.0.0	ws.sharethis.com
+0.0.0.0	btlr.sharethrough.com
 0.0.0.0	native.sharethrough.com
 0.0.0.0	www.shglegle.com
 0.0.0.0	smetrics.shinseibank.com
@@ -3905,6 +3923,8 @@ fe80::1%lo0		localhost
 0.0.0.0	slotv.com
 0.0.0.0	slurolen.com
 0.0.0.0	www.slurolen.com
+0.0.0.0	cm.smadex.com
+0.0.0.0	prg.smartadserver.com
 0.0.0.0	ww38.smartadserver.com
 0.0.0.0	ww57.smartadserver.com
 0.0.0.0	www3.smartadserver.com
@@ -4168,6 +4188,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tidaltv.com
 0.0.0.0	uav.tidaltv.com
 0.0.0.0	cdn.tinypass.com
+0.0.0.0	experience.tinypass.com
 0.0.0.0	tags.tiqcdn.com
 0.0.0.0	www.tiqiq.com
 0.0.0.0	tizru.com
@@ -4476,6 +4497,7 @@ fe80::1%lo0		localhost
 0.0.0.0	vinahow.com
 0.0.0.0	addirector.vindicosuite.com
 0.0.0.0	cache.vindicosuite.com
+0.0.0.0	mpp.vindicosuite.com
 0.0.0.0	trk.vindicosuite.com
 0.0.0.0	vip-members-area.com
 0.0.0.0	click.vipaffiliatenetwork.com
@@ -5243,6 +5265,7 @@ fe80::1%lo0		localhost
 0.0.0.0	app.pendo.io
 0.0.0.0	cdn.pendo.io
 0.0.0.0	ad.pxlad.io
+0.0.0.0	bidder.rtk.io
 0.0.0.0	thor.rtk.io
 0.0.0.0	api.segment.io
 0.0.0.0	cdn.segment.io
@@ -5309,6 +5332,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.realestate.co.jp
 0.0.0.0	api.veritrans.co.jp
 0.0.0.0	b5.yahoo.co.jp
+0.0.0.0	b90.yahoo.co.jp
+0.0.0.0	b91.yahoo.co.jp
 0.0.0.0	b92.yahoo.co.jp
 0.0.0.0	logql.yahoo.co.jp
 0.0.0.0	yads.yahoo.co.jp
@@ -5492,6 +5517,7 @@ fe80::1%lo0		localhost
 0.0.0.0	s.ato.mx
 0.0.0.0	blampspot.x10.mx
 0.0.0.0	i2.cnt.my
+0.0.0.0	rcp.c.appier.ne
 0.0.0.0	91.1lo0.net
 0.0.0.0	f0.1lo0.net
 0.0.0.0	f583.1lo0.net
@@ -5614,6 +5640,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.all-pages.net
 0.0.0.0	cdn.alphaguards.net
 0.0.0.0	amgload.net
+0.0.0.0	ampproject.net
+0.0.0.0	3p.ampproject.net
 0.0.0.0	www.antivirus-xp-08.net
 0.0.0.0	apicit.net
 0.0.0.0	www.appround.net
@@ -6008,6 +6036,7 @@ fe80::1%lo0		localhost
 0.0.0.0	aa.online-metrix.net
 0.0.0.0	at1.opentracker.net
 0.0.0.0	server1.opentracker.net
+0.0.0.0	apester-d.openx.net
 0.0.0.0	bid.openx.net
 0.0.0.0	coinmarketcap-d.openx.net
 0.0.0.0	ggsoftware-d.openx.net
@@ -6144,6 +6173,7 @@ fe80::1%lo0		localhost
 0.0.0.0	static.trackedweb.net
 0.0.0.0	trackingoffer.net
 0.0.0.0	www.tracklead.net
+0.0.0.0	cdn-magiclinks.trackonomics.net
 0.0.0.0	trackpromotion.net
 0.0.0.0	staging.trafex.net
 0.0.0.0	xdevice.trafficgate.net
@@ -6264,6 +6294,7 @@ fe80::1%lo0		localhost
 0.0.0.0	c.adtrace.org
 0.0.0.0	cdn.adtrace.org
 0.0.0.0	vast.adtrace.org
+0.0.0.0	cdn.ampproject.org
 0.0.0.0	www.animenova.org
 0.0.0.0	seal-akron.bbb.org
 0.0.0.0	mobile.bitterstrawberry.org
@@ -6554,6 +6585,7 @@ fe80::1%lo0		localhost
 0.0.0.0	onerror.tk
 0.0.0.0	replase.tk
 0.0.0.0	tristanjavier092.tk
+0.0.0.0	p.cpx.to
 0.0.0.0	play.play.estream.to
 0.0.0.0	s2.play.estream.to
 0.0.0.0	s3.play.estream.to
