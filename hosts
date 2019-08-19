@@ -987,7 +987,10 @@ fe80::1%lo0		localhost
 0.0.0.0	server2.as5000.com
 0.0.0.0	notice.asdf.com
 0.0.0.0	stat.asdf.com
+0.0.0.0	api.ashleymadison.com
+0.0.0.0	lander-cdn.ashleymadison.com
 0.0.0.0	www.ashleymadison.com
+0.0.0.0	www.ashleyrnadison.com
 0.0.0.0	banners.asiafind1.com
 0.0.0.0	asiafriendfinder.com
 0.0.0.0	ads.asiafriendfinder.com
@@ -1084,6 +1087,8 @@ fe80::1%lo0		localhost
 0.0.0.0	bauffnmtou.com
 0.0.0.0	www.bauffnmtou.com
 0.0.0.0	baypops.com
+0.0.0.0	invites.bbsnap.com
+0.0.0.0	play.bbsnap.com
 0.0.0.0	www.bcloudhost.com
 0.0.0.0	www.foxnews.com.happyhcgultracustomers.new.bcn-story.com
 0.0.0.0	xml.bcnmonetize.com
@@ -1244,6 +1249,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn1.ads.brazzers.com
 0.0.0.0	static.brazzers.com
 0.0.0.0	enter.brazzersnetwork.com
+0.0.0.0	biddr.brealtime.com
 0.0.0.0	edba.brealtime.com
 0.0.0.0	optimizedby.brealtime.com
 0.0.0.0	admin.brightcove.com
@@ -1461,6 +1467,7 @@ fe80::1%lo0		localhost
 0.0.0.0	clktag.com
 0.0.0.0	api.cloudsponge.com
 0.0.0.0	en.clubcooee.com
+0.0.0.0	secure.cmadclicks000.com
 0.0.0.0	as.cmpnet.com
 0.0.0.0	adimg.cnet.com
 0.0.0.0	bwp.download.cnet.com
@@ -1548,6 +1555,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.conduit-banners.com
 0.0.0.0	usage.apps.conduit-services.com
 0.0.0.0	download.chrome.conduit-services.com
+0.0.0.0	conique-sympic.com
 0.0.0.0	cdn.connatix.com
 0.0.0.0	cdns.connatix.com
 0.0.0.0	vcore.connatix.com
@@ -1705,6 +1713,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.digicert.com
 0.0.0.0	digitaldsp.com
 0.0.0.0	delivery8.digitalhealthcare.com
+0.0.0.0	serverbid-sync.nyc3.cdn.digitaloceanspaces.com
 0.0.0.0	display.digitalriver.com
 0.0.0.0	pto.digitalriver.com
 0.0.0.0	jsoon.digitiminimi.com
@@ -1826,6 +1835,7 @@ fe80::1%lo0		localhost
 0.0.0.0	a.elsanglin.com
 0.0.0.0	www.emjcd.com
 0.0.0.0	emvdlnwph.com
+0.0.0.0	e1.emxdgt.com
 0.0.0.0	hb.emxdgt.com
 0.0.0.0	recs.engageya.com
 0.0.0.0	widget.engageya.com
@@ -1907,6 +1917,7 @@ fe80::1%lo0		localhost
 0.0.0.0	nht-2.extreme-dm.com
 0.0.0.0	nht-3.extreme-dm.com
 0.0.0.0	t1.extreme-dm.com
+0.0.0.0	extreme-ip-lookup.com
 0.0.0.0	extremetracking.com
 0.0.0.0	clicks.eyereturn.com
 0.0.0.0	cm.eyereturn.com
@@ -2033,6 +2044,7 @@ fe80::1%lo0		localhost
 0.0.0.0	metrics.foxnews.com
 0.0.0.0	foxypp.com
 0.0.0.0	popunder.fpctraffic.com
+0.0.0.0	fqkvanldq.com
 0.0.0.0	fqtag.com
 0.0.0.0	c.fqtag.com
 0.0.0.0	s.fqtag.com
@@ -2107,6 +2119,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.gbotvisit.com
 0.0.0.0	e.gdbly.com
 0.0.0.0	www.gdhlysucwzyzu.com
+0.0.0.0	gdmconvtrck.com
 0.0.0.0	gebadu.com
 0.0.0.0	ads.genericlink.com
 0.0.0.0	static.genericlink.com
@@ -2144,6 +2157,8 @@ fe80::1%lo0		localhost
 0.0.0.0	dsp.gewinnsteigern.com
 0.0.0.0	cache.gfrevenge.com
 0.0.0.0	gallys.gfrevenge.com
+0.0.0.0	metrics.gfycat.com
+0.0.0.0	px.gfycat.com
 0.0.0.0	ghaintkam.com
 0.0.0.0	ghtroafchzrt.com
 0.0.0.0	www.ghtroafchzrt.com
@@ -2227,6 +2242,9 @@ fe80::1%lo0		localhost
 0.0.0.0	groupeurs.com
 0.0.0.0	growfoodsmart.com
 0.0.0.0	sp.growfoodsmart.com
+0.0.0.0	t.grtyb.com
+0.0.0.0	t.grtyi.com
+0.0.0.0	t.grtyo.com
 0.0.0.0	i.api.grvcdn.com
 0.0.0.0	b.grvcdn.com
 0.0.0.0	csi.gstatic.com
@@ -2306,6 +2324,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ibcliff.hopfeed.com
 0.0.0.0	www.hopfeed.com
 0.0.0.0	e1.static.hoptopboy.com
+0.0.0.0	gdlla.horrnygirls.com
 0.0.0.0	hospites.com
 0.0.0.0	ext.host-tracker.com
 0.0.0.0	hostedprebid.com
@@ -2317,6 +2336,7 @@ fe80::1%lo0		localhost
 0.0.0.0	vars.hotjar.com
 0.0.0.0	img.hotwords.com
 0.0.0.0	stats.hprofits.com
+0.0.0.0	t.hrtye.com
 0.0.0.0	js.hs-scripts.com
 0.0.0.0	sender.hstpnetwork.com
 0.0.0.0	www.hstpnetwork.com
@@ -2398,6 +2418,7 @@ fe80::1%lo0		localhost
 0.0.0.0	akz.imgfarm.com
 0.0.0.0	cdn.imgflare.com
 0.0.0.0	www.imglnkb.com
+0.0.0.0	www.imglnkd.com
 0.0.0.0	www.imglt.com
 0.0.0.0	free-license.imgpop.com
 0.0.0.0	imgsay.com
@@ -2480,6 +2501,9 @@ fe80::1%lo0		localhost
 0.0.0.0	instantdollarz.com
 0.0.0.0	api.instantdollarz.com
 0.0.0.0	www.instantdollarz.com
+0.0.0.0	static.instanthookups.com
+0.0.0.0	t.instanthookups.com
+0.0.0.0	www.instanthookups.com
 0.0.0.0	embed.insticator.com
 0.0.0.0	www.insticator.com
 0.0.0.0	load.instinctiveads.com
@@ -2530,6 +2554,7 @@ fe80::1%lo0		localhost
 0.0.0.0	irleti.com
 0.0.0.0	h.irs01.com
 0.0.0.0	t.irtya.com
+0.0.0.0	t.irtye.com
 0.0.0.0	www.isanalyze.com
 0.0.0.0	clicks.istripper.com
 0.0.0.0	statica.istripper.com
@@ -2776,6 +2801,8 @@ fe80::1%lo0		localhost
 0.0.0.0	jplin.local-finders.com
 0.0.0.0	t.local-finders.com
 0.0.0.0	localconsumeralerts.com
+0.0.0.0	static.localsnapsext.com
+0.0.0.0	www.localsnapsext.com
 0.0.0.0	richmedia-cdn.localstars.com
 0.0.0.0	lockerdome.com
 0.0.0.0	cdn2.lockerdome.com
@@ -3805,10 +3832,12 @@ fe80::1%lo0		localhost
 0.0.0.0	secredir.com
 0.0.0.0	install.secure-softwaremanager.com
 0.0.0.0	js.secure-softwaremanager.com
+0.0.0.0	securecloud-smart.com
 0.0.0.0	ww1.securedatavalidation.com
 0.0.0.0	www.securely-checkout-now.com
 0.0.0.0	securepaths.com
 0.0.0.0	c.securepaths.com
+0.0.0.0	trk.securesmrt-dt.com
 0.0.0.0	beacon.securestudies.com
 0.0.0.0	security-scan-pc.com
 0.0.0.0	www.security-scan-pc.com
@@ -3826,6 +3855,7 @@ fe80::1%lo0		localhost
 0.0.0.0	secure2.segpay.com
 0.0.0.0	live.sekindo.com
 0.0.0.0	video.sekindo.com
+0.0.0.0	static.selfpua.com
 0.0.0.0	www2.sellhealth.com
 0.0.0.0	sosa.semanticrep.com
 0.0.0.0	cdn.sendpulse.com
@@ -3840,6 +3870,8 @@ fe80::1%lo0		localhost
 0.0.0.0	ox-d.skylikes.servedbyopenx.com
 0.0.0.0	ox-d.washingtonpost.servedbyopenx.com
 0.0.0.0	ox-d.wikia.servedbyopenx.com
+0.0.0.0	e.serverbid.com
+0.0.0.0	sync.serverbid.com
 0.0.0.0	www.servesurveys.com
 0.0.0.0	bs.serving-sys.com
 0.0.0.0	bsch.serving-sys.com
@@ -3847,6 +3879,8 @@ fe80::1%lo0		localhost
 0.0.0.0	ds-cc.serving-sys.com
 0.0.0.0	secure-ds.serving-sys.com
 0.0.0.0	www.sexblogsdir.com
+0.0.0.0	go.sexemulator.com
+0.0.0.0	landing.sexemulator.com
 0.0.0.0	landcdn.sexgangsters.com
 0.0.0.0	media.sexinyourcity.com
 0.0.0.0	images.sexlist.com
@@ -3969,6 +4003,7 @@ fe80::1%lo0		localhost
 0.0.0.0	v.sometrics.com
 0.0.0.0	apex.go.sonobi.com
 0.0.0.0	mtrx.go.sonobi.com
+0.0.0.0	sync.go.sonobi.com
 0.0.0.0	soosooka.com
 0.0.0.0	eventlogger.soundcloud.com
 0.0.0.0	promoted.soundcloud.com
@@ -4170,6 +4205,8 @@ fe80::1%lo0		localhost
 0.0.0.0	license.theoplayer.com
 0.0.0.0	release.theplatform.com
 0.0.0.0	theporndude.com
+0.0.0.0	static.thepornstudy.com
+0.0.0.0	www.thepornstudy.com
 0.0.0.0	frame.thestaticvube.com
 0.0.0.0	m1.thestaticvube.com
 0.0.0.0	m2.thestaticvube.com
@@ -4296,6 +4333,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.engine.trklnks.com
 0.0.0.0	trrkk.com
 0.0.0.0	f00f4.truedefendlinked.com
+0.0.0.0	adfdsaf.ow.truesteamachievements.com
 0.0.0.0	dmp.truoptik.com
 0.0.0.0	trustaffs.com
 0.0.0.0	choices.truste.com
@@ -4473,6 +4511,9 @@ fe80::1%lo0		localhost
 0.0.0.0	sponsor.verycd.com
 0.0.0.0	xml.vespymedia.com
 0.0.0.0	xml.vesteddigital.com
+0.0.0.0	a.vfghc.com
+0.0.0.0	a.vfgtb.com
+0.0.0.0	t.vfgtc.com
 0.0.0.0	vfqkonyxf.com
 0.0.0.0	www.vfqkonyxf.com
 0.0.0.0	b.vghd.com
@@ -4527,6 +4568,7 @@ fe80::1%lo0		localhost
 0.0.0.0	jp-pl.vizury.com
 0.0.0.0	serv2.vizury.com
 0.0.0.0	ad.vkoad.com
+0.0.0.0	vkznlzueuuebb.com
 0.0.0.0	vnfeed.com
 0.0.0.0	hb.vntsm.com
 0.0.0.0	ar.voicefive.com
@@ -4760,6 +4802,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.yeeunion.com
 0.0.0.0	adsyndication.yelldirect.com
 0.0.0.0	xml.yepmedia.com
+0.0.0.0	play.yeppz.com
+0.0.0.0	snap.yeppz.com
 0.0.0.0	a.yesadsrv.com
 0.0.0.0	www.yesup.com
 0.0.0.0	adforward.yeyou.com
@@ -4768,6 +4812,7 @@ fe80::1%lo0		localhost
 0.0.0.0	wan.yeyou.com
 0.0.0.0	wgadstat.yeyou.com
 0.0.0.0	www.yfum.com
+0.0.0.0	yhmbwgolijyac.com
 0.0.0.0	yieldbuild.com
 0.0.0.0	ad.yieldmanager.com
 0.0.0.0	content.yieldmanager.com
@@ -5033,6 +5078,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cutecute.info
 0.0.0.0	dailydls.info
 0.0.0.0	deathereclother.info
+0.0.0.0	deryjobmeetin.info
 0.0.0.0	desktopstools.info
 0.0.0.0	detailsay.info
 0.0.0.0	detergebetterming.info
@@ -5173,6 +5219,7 @@ fe80::1%lo0		localhost
 0.0.0.0	shockinvids.info
 0.0.0.0	skurki.info
 0.0.0.0	latest-465722.skurki.info
+0.0.0.0	sociatingewer.info
 0.0.0.0	somethodox.info
 0.0.0.0	sovietname.info
 0.0.0.0	engine.spotscenered.info
@@ -5633,6 +5680,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fbcdn-creative-a.akamaihd.net
 0.0.0.0	lbstatic-a.akamaihd.net
 0.0.0.0	spotxchange-a.akamaihd.net
+0.0.0.0	cdn-adef.akamaized.net
 0.0.0.0	cdn-aimi.akamaized.net
 0.0.0.0	img-s-msn-com.akamaized.net
 0.0.0.0	alcobro.net
@@ -5756,6 +5804,7 @@ fe80::1%lo0		localhost
 0.0.0.0	bcp.crwdcntrl.net
 0.0.0.0	cdn.crwdcntrl.net
 0.0.0.0	tags.crwdcntrl.net
+0.0.0.0	images.ctfassets.net
 0.0.0.0	curem.net
 0.0.0.0	admonkey.dapper.net
 0.0.0.0	connect.decknetwork.net
@@ -6046,6 +6095,7 @@ fe80::1%lo0		localhost
 0.0.0.0	medianet-d.openx.net
 0.0.0.0	monkey-broker-d.openx.net
 0.0.0.0	r.openx.net
+0.0.0.0	rtb.openx.net
 0.0.0.0	sea-u.openx.net
 0.0.0.0	sekindo-d.openx.net
 0.0.0.0	u.openx.net
@@ -6388,6 +6438,7 @@ fe80::1%lo0		localhost
 0.0.0.0	findbox.pro
 0.0.0.0	greview.pro
 0.0.0.0	helple.pro
+0.0.0.0	nameketathar.pro
 0.0.0.0	rasius.pro
 0.0.0.0	reddleops.pro
 0.0.0.0	salaure.pro
@@ -6577,6 +6628,7 @@ fe80::1%lo0		localhost
 0.0.0.0	p.po.st
 0.0.0.0	shorte.st
 0.0.0.0	cdn.shorte.st
+0.0.0.0	live.demand.supply
 0.0.0.0	static.stats.in.th
 0.0.0.0	tracker.stats.in.th
 0.0.0.0	lvs.truehits.in.th
@@ -6624,6 +6676,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads.allscreen.tv
 0.0.0.0	static.allscreen.tv
 0.0.0.0	ads.static.blip.tv
+0.0.0.0	hello.fuckbook.tv
 0.0.0.0	garss.tv
 0.0.0.0	c.hqq.tv
 0.0.0.0	pw.nrli.tv
