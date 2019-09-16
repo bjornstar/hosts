@@ -944,6 +944,11 @@ fe80::1%lo0		localhost
 0.0.0.0	www.answers.com
 0.0.0.0	antivirus-scanner.com
 0.0.0.0	www.antivirus-scanner.com
+0.0.0.0	cdn5.anyclip.com
+0.0.0.0	lreprx-server.anyclip.com
+0.0.0.0	pixel.anyclip.com
+0.0.0.0	player.anyclip.com
+0.0.0.0	trafficmanager.anyclip.com
 0.0.0.0	uncpm_270.anzhuocpm.com
 0.0.0.0	c.aol.com
 0.0.0.0	o.sa.aol.com
@@ -1121,6 +1126,7 @@ fe80::1%lo0		localhost
 0.0.0.0	media.partners.betus.com
 0.0.0.0	record.partners.betus.com
 0.0.0.0	ioms.bfmio.com
+0.0.0.0	reachms.bfmio.com
 0.0.0.0	bhmqoolzgxnp.com
 0.0.0.0	www.bhmqoolzgxnp.com
 0.0.0.0	platform.bidgear.com
@@ -1948,6 +1954,7 @@ fe80::1%lo0		localhost
 0.0.0.0	graphics.fastcupid.com
 0.0.0.0	www.fastdownloadarchive.com
 0.0.0.0	fastfunnels.com
+0.0.0.0	www.fastly-insights.com
 0.0.0.0	fasttube2009.com
 0.0.0.0	fbfunn.com
 0.0.0.0	aimg.fc2.com
@@ -2964,6 +2971,7 @@ fe80::1%lo0		localhost
 0.0.0.0	media.mlgpro.com
 0.0.0.0	www.mlstat.com
 0.0.0.0	mega.mlt01.com
+0.0.0.0	bucket1.mm-syringe.com
 0.0.0.0	www.mmaaxx.com
 0.0.0.0	mmismm.com
 0.0.0.0	syndication.mmismm.com
@@ -3761,6 +3769,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads.rubiconproject.com
 0.0.0.0	stats.aws.rubiconproject.com
 0.0.0.0	fastlane.rubiconproject.com
+0.0.0.0	fastlane-adv.rubiconproject.com
 0.0.0.0	optimized-by.rubiconproject.com
 0.0.0.0	pixel.rubiconproject.com
 0.0.0.0	secure-assets.rubiconproject.com
@@ -4096,6 +4105,7 @@ fe80::1%lo0		localhost
 0.0.0.0	sumome.com
 0.0.0.0	load.sumome.com
 0.0.0.0	ads.sumotorrent.com
+0.0.0.0	vop.sundaysky.com
 0.0.0.0	sunoopop.com
 0.0.0.0	www.superadexchange.com
 0.0.0.0	superfastcdn.com
@@ -4528,6 +4538,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.youporn.videobox.com
 0.0.0.0	adcontent.videoegg.com
 0.0.0.0	core.videoegg.com
+0.0.0.0	zam-com.videoplayerhub.com
 0.0.0.0	videorewardstoday.com
 0.0.0.0	static.videorewardstoday.com
 0.0.0.0	banners.videosecrets.com
@@ -5634,6 +5645,7 @@ fe80::1%lo0		localhost
 0.0.0.0	statics.a8.net
 0.0.0.0	abmr.net
 0.0.0.0	h.accesstrade.net
+0.0.0.0	ad-delivery.net
 0.0.0.0	adadvisor.net
 0.0.0.0	adbard.net
 0.0.0.0	cdn1.adbard.net
