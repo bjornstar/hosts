@@ -224,6 +224,7 @@ fe80::1%lo0		localhost
 0.0.0.0	image.crisp.chat
 0.0.0.0	client.relay.crisp.chat
 0.0.0.0	settings.crisp.chat
+0.0.0.0	boostlink.click
 0.0.0.0	glotchat.click
 0.0.0.0	paupepsu.click
 0.0.0.0	poogriry.click
@@ -325,6 +326,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.niajmtjqexq.co
 0.0.0.0	ouslayer.co
 0.0.0.0	panection.co
+0.0.0.0	pixel-geo.prfct.co
 0.0.0.0	qklnk.co
 0.0.0.0	randomvideo.co
 0.0.0.0	www.rqq.co
@@ -969,6 +971,7 @@ fe80::1%lo0		localhost
 0.0.0.0	apparede.com
 0.0.0.0	js.appboycdn.com
 0.0.0.0	fast.appcues.com
+0.0.0.0	my.appcues.com
 0.0.0.0	application-77my.com
 0.0.0.0	apps-hd.com
 0.0.0.0	www.apps-hd.com
@@ -1065,6 +1068,7 @@ fe80::1%lo0		localhost
 0.0.0.0	azurcorporation.com
 0.0.0.0	b142d1440666173b0.com
 0.0.0.0	api.b2c.com
+0.0.0.0	b3z29k1uxb.com
 0.0.0.0	b54m4qbmt0b9.com
 0.0.0.0	promo.badoink.com
 0.0.0.0	creatives.badongo.com
@@ -1574,6 +1578,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn1.ads.contentabc.com
 0.0.0.0	ads2.contentabc.com
 0.0.0.0	hw-cdn2.contentabc.com
+0.0.0.0	vz-cdn2.contentabc.com
 0.0.0.0	hashtag.contentssl.com
 0.0.0.0	mars.contentssl.com
 0.0.0.0	contextlysitescripts.contextly.com
@@ -2704,6 +2709,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.kuqi.com
 0.0.0.0	kvors.com
 0.0.0.0	cdnbidgearcom-c07a.kxcdn.com
+0.0.0.0	l6b587txj1.com
 0.0.0.0	ladenas938.com
 0.0.0.0	www.ladenas938.com
 0.0.0.0	px.ladsp.com
@@ -3365,6 +3371,7 @@ fe80::1%lo0		localhost
 0.0.0.0	banners.penthouse.com
 0.0.0.0	cas.avalon.perfdrive.com
 0.0.0.0	cdn.perfdrive.com
+0.0.0.0	tag.perfectaudience.com
 0.0.0.0	perfecttracking.com
 0.0.0.0	analytics.performable.com
 0.0.0.0	cdn.performersoft.com
@@ -5000,6 +5007,8 @@ fe80::1%lo0		localhost
 0.0.0.0	i.simpli.fi
 0.0.0.0	um.simpli.fi
 0.0.0.0	assets.callisto.fm
+0.0.0.0	player.megaphone.fm
+0.0.0.0	playlist.megaphone.fm
 0.0.0.0	c.ad6media.fr
 0.0.0.0	rw9bj24c2j.s.ad6media.fr
 0.0.0.0	live.countus.fr
@@ -5533,6 +5542,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.microsoft.com-repair-windows.live
 0.0.0.0	www.apple.com-system-speed.live
 0.0.0.0	best8097.funteam100.live
+0.0.0.0	www.lawlegal.live
 0.0.0.0	bnc.lt
 0.0.0.0	gorodofanosa.ltd
 0.0.0.0	show.adclick.lv
@@ -6250,6 +6260,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.tracklead.net
 0.0.0.0	cdn-magiclinks.trackonomics.net
 0.0.0.0	trackpromotion.net
+0.0.0.0	xmt.trade-forex.net
 0.0.0.0	staging.trafex.net
 0.0.0.0	xdevice.trafficgate.net
 0.0.0.0	ads.trafficjunky.net
@@ -6717,6 +6728,12 @@ fe80::1%lo0		localhost
 0.0.0.0	countess.twitch.tv
 0.0.0.0	eventtracking-log.ustream.tv
 0.0.0.0	www.ustream.tv
+0.0.0.0	cdn-ssl.vidible.tv
+0.0.0.0	delivery.vidible.tv
+0.0.0.0	hlsrv.vidible.tv
+0.0.0.0	img.vidible.tv
+0.0.0.0	trk.vidible.tv
+0.0.0.0	videos.vidible.tv
 0.0.0.0	cache.worldfriends.tv
 0.0.0.0	images.worldfriends.tv
 0.0.0.0	www.55828.tw
