@@ -324,6 +324,9 @@ fe80::1%lo0		localhost
 0.0.0.0	pixel.keywee.co
 0.0.0.0	linkcash.co
 0.0.0.0	linkwaw.co
+0.0.0.0	a.mailmunch.co
+0.0.0.0	analytics.mailmunch.co
+0.0.0.0	forms.mailmunch.co
 0.0.0.0	api2.mobverify.co
 0.0.0.0	p220333.mycdn.co
 0.0.0.0	www.niajmtjqexq.co
@@ -466,6 +469,7 @@ fe80::1%lo0		localhost
 0.0.0.0	conversion.7search.com
 0.0.0.0	ad.7simage.com
 0.0.0.0	82b9d6273154e7cbf.com
+0.0.0.0	86a6b542l7.com
 0.0.0.0	banner.86sousuo.com
 0.0.0.0	jyt99.86sousuo.com
 0.0.0.0	yule.86sousuo.com
@@ -1063,6 +1067,7 @@ fe80::1%lo0		localhost
 0.0.0.0	promo.awempire.com
 0.0.0.0	static.awempire.com
 0.0.0.0	awentw.com
+0.0.0.0	pt-static1.awestat.com
 0.0.0.0	www.awin1.com
 0.0.0.0	cluster.awmserve.com
 0.0.0.0	www.axill.com
@@ -1121,6 +1126,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cnn.sdk.beemray.com
 0.0.0.0	ads.belointeractive.com
 0.0.0.0	belwrite.com
+0.0.0.0	best2019-games-web1.com
 0.0.0.0	bestadbid.com
 0.0.0.0	www.bestgamerz.com
 0.0.0.0	besthitsnow.com
@@ -1657,6 +1663,7 @@ fe80::1%lo0		localhost
 0.0.0.0	static.crowdscience.com
 0.0.0.0	ping.westley.crowdscience.com
 0.0.0.0	crptentry.com
+0.0.0.0	crptgate.com
 0.0.0.0	tag.crsspxl.com
 0.0.0.0	geo.crtracklink.com
 0.0.0.0	trk.cryptoinchain.com
@@ -1829,6 +1836,7 @@ fe80::1%lo0		localhost
 0.0.0.0	main.dynsrvaba.com
 0.0.0.0	syndication.dynsrvtbg.com
 0.0.0.0	c.eu1.dyntrk.com
+0.0.0.0	e2b9jbowv7.com
 0.0.0.0	e2ertt.com
 0.0.0.0	resources.ea.com
 0.0.0.0	wl1xbet.adsrv.eacdn.com
@@ -1887,6 +1895,7 @@ fe80::1%lo0		localhost
 0.0.0.0	api.eroadvertising.com
 0.0.0.0	error.com
 0.0.0.0	error-xd00emcrsft.com
+0.0.0.0	beacon.errorception.com
 0.0.0.0	escottish.com
 0.0.0.0	w.estat.com
 0.0.0.0	etahub.com
@@ -2201,6 +2210,8 @@ fe80::1%lo0		localhost
 0.0.0.0	dz.glanceguide.com
 0.0.0.0	ads.glbtracker.com
 0.0.0.0	affiliate.glbtracker.com
+0.0.0.0	gliese-682c.com
+0.0.0.0	www.gliese-682c.com
 0.0.0.0	media.gloadmarket.com
 0.0.0.0	www.globalcompanions.com
 0.0.0.0	ad.globalinteractive.com
@@ -2451,6 +2462,8 @@ fe80::1%lo0		localhost
 0.0.0.0	pcash.imlive.com
 0.0.0.0	srv.imonomy.com
 0.0.0.0	adn.impactradius.com
+0.0.0.0	impactserving.com
+0.0.0.0	cdn.impactserving.com
 0.0.0.0	impore.com
 0.0.0.0	gad.impresionesweb.com
 0.0.0.0	impressionaffiliate.com
@@ -2635,6 +2648,7 @@ fe80::1%lo0		localhost
 0.0.0.0	jsmentry.com
 0.0.0.0	jsmjmp.com
 0.0.0.0	jsmptjmp.com
+0.0.0.0	pt-static1.jsmstat.com
 0.0.0.0	static1.jsmstatic.com
 0.0.0.0	static2.jsmstatic.com
 0.0.0.0	static3.jsmstatic.com
@@ -2788,7 +2802,9 @@ fe80::1%lo0		localhost
 0.0.0.0	lc24.prod.livefyre.com
 0.0.0.0	zor.t402.livefyre.com
 0.0.0.0	zor.livefyre.com
+0.0.0.0	ccs.livejasmin.com
 0.0.0.0	click.livejasmin.com
+0.0.0.0	cradver.livejasmin.com
 0.0.0.0	crcom.livejasmin.com
 0.0.0.0	creatives.livejasmin.com
 0.0.0.0	static.creatives.livejasmin.com
@@ -3502,6 +3518,7 @@ fe80::1%lo0		localhost
 0.0.0.0	addons.prestashop.com
 0.0.0.0	pricee.com
 0.0.0.0	cdn.printfriendly.com
+0.0.0.0	www.privateinternetaccess.com
 0.0.0.0	privitize.com
 0.0.0.0	api.privy.com
 0.0.0.0	assets.privy.com
@@ -3800,6 +3817,7 @@ fe80::1%lo0		localhost
 0.0.0.0	xml.rxfclk3.com
 0.0.0.0	pa.rxthdr.com
 0.0.0.0	ryllae.com
+0.0.0.0	s-hentai.com
 0.0.0.0	s1-adfly.com
 0.0.0.0	discount.safe-swaps.com
 0.0.0.0	www.safe-swaps.com
@@ -3862,6 +3880,8 @@ fe80::1%lo0		localhost
 0.0.0.0	js.secure-softwaremanager.com
 0.0.0.0	securecloud-smart.com
 0.0.0.0	ww1.securedatavalidation.com
+0.0.0.0	cdn.securefastoffers.com
+0.0.0.0	fst.securefastoffers.com
 0.0.0.0	www.securely-checkout-now.com
 0.0.0.0	securepaths.com
 0.0.0.0	c.securepaths.com
@@ -4506,6 +4526,7 @@ fe80::1%lo0		localhost
 0.0.0.0	widget.uservoice.com
 0.0.0.0	static.usuarios-online.com
 0.0.0.0	www.usuarios-online.com
+0.0.0.0	look.utndln.com
 0.0.0.0	i-29.b-41865.ut.bench.utorrent.com
 0.0.0.0	utclient.utorrent.com
 0.0.0.0	uuaajohul.com
@@ -4958,6 +4979,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www4.zjbdt.com
 0.0.0.0	www.zkail.com
 0.0.0.0	www.zkzpfpoazfgq.com
+0.0.0.0	zlfgedpuxrbpgm.com
+0.0.0.0	www.zlfgedpuxrbpgm.com
 0.0.0.0	srv-uk.znaptag.com
 0.0.0.0	www.znnmzggbw.com
 0.0.0.0	secure.zombaio.com
@@ -6373,6 +6396,7 @@ fe80::1%lo0		localhost
 0.0.0.0	promotools.islive.nl
 0.0.0.0	promotools.sexdatingcash.nl
 0.0.0.0	www.usenet.nl
+0.0.0.0	wn.nr
 0.0.0.0	s3.video.estream.nu
 0.0.0.0	nmwnmewjk.blogspot.co.nz
 0.0.0.0	aj1198.online
@@ -6708,6 +6732,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www8.watchmygf.to
 0.0.0.0	www9.watchmygf.to
 0.0.0.0	bestcontentcompany.top
+0.0.0.0	a.bestcontentfood.top
 0.0.0.0	bestcontentsoftware.top
 0.0.0.0	fingahvf.top
 0.0.0.0	kaishist.top
@@ -6808,6 +6833,7 @@ fe80::1%lo0		localhost
 0.0.0.0	app2.downloadmacsoft.world
 0.0.0.0	static.cbox.ws
 0.0.0.0	www.cbox.ws
+0.0.0.0	www2.cbox.ws
 0.0.0.0	www3.cbox.ws
 0.0.0.0	www6.cbox.ws
 0.0.0.0	www7.cbox.ws
@@ -6823,6 +6849,9 @@ fe80::1%lo0		localhost
 0.0.0.0	adult.xyz
 0.0.0.0	www.advnet.xyz
 0.0.0.0	uf.boobsbay.xyz
+0.0.0.0	d.fotw.xyz
+0.0.0.0	s.fotw.xyz
+0.0.0.0	fyredet.xyz
 0.0.0.0	ttw.htmlhubing.xyz
 0.0.0.0	imzahrwl.xyz
 0.0.0.0	ld8gfmow.xyz
