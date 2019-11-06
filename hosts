@@ -55,6 +55,8 @@ fe80::1%lo0		localhost
 #0.0.0.0	mpsnare.iesnare.com
 # Multiple requests to remove this
 #0.0.0.0	www.privateinternetaccess.com
+# https://github.com/bjornstar/hosts/issues/8
+#0.0.0.0	images.ctfassets.net
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -1962,6 +1964,8 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.eyewonder.com
 0.0.0.0	cdn1.eyewonder.com
 0.0.0.0	eyinwxkojgkfgs.com
+0.0.0.0	ezhdgoeat.com
+0.0.0.0	www.ezhdgoeat.com
 0.0.0.0	asset.f-tra.com
 0.0.0.0	conf.f-tra.com
 0.0.0.0	log.f-tra.com
@@ -3796,6 +3800,7 @@ fe80::1%lo0		localhost
 0.0.0.0	dnssearch.rr.com
 0.0.0.0	rriqwzgmaazsp.com
 0.0.0.0	www.rriqwzgmaazsp.com
+0.0.0.0	rsalcch.com
 0.0.0.0	rtbpopd.com
 0.0.0.0	bid-us-e.rtbsrv.com
 0.0.0.0	rtbsystem.com
@@ -4390,6 +4395,7 @@ fe80::1%lo0		localhost
 0.0.0.0	trk10.com
 0.0.0.0	engine.trklnks.com
 0.0.0.0	cdn.engine.trklnks.com
+0.0.0.0	katie.trktnc.com
 0.0.0.0	trrkk.com
 0.0.0.0	f00f4.truedefendlinked.com
 0.0.0.0	adfdsaf.ow.truesteamachievements.com
@@ -4753,6 +4759,7 @@ fe80::1%lo0		localhost
 0.0.0.0	stats.wp.com
 0.0.0.0	www.wpadsvr.com
 0.0.0.0	js.wpncdn.com
+0.0.0.0	js.wpnjs.com
 0.0.0.0	sina.wrating.com
 0.0.0.0	ws-gateway.com
 0.0.0.0	ad.wsod.com
@@ -5401,6 +5408,7 @@ fe80::1%lo0		localhost
 0.0.0.0	static.userback.io
 0.0.0.0	horusii.vemba.io
 0.0.0.0	videos-by.vemba.io
+0.0.0.0	ww38.webtesting.io
 0.0.0.0	wurfl.io
 0.0.0.0	e2e-static.zdcommerce.io
 0.0.0.0	www.halloheimur.is
@@ -5586,6 +5594,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.microsoft.com-repair-windows.live
 0.0.0.0	www.apple.com-system-speed.live
 0.0.0.0	best8097.funteam100.live
+0.0.0.0	gocreamery.live
 0.0.0.0	www.lawlegal.live
 0.0.0.0	bnc.lt
 0.0.0.0	gorodofanosa.ltd
@@ -5636,6 +5645,7 @@ fe80::1%lo0		localhost
 0.0.0.0	promotiontrack.mobi
 0.0.0.0	surveyvalue.mobi
 0.0.0.0	widgetbanner.mobi
+0.0.0.0	ametropic1.monster
 0.0.0.0	s.cxt.ms
 0.0.0.0	t.cxt.ms
 0.0.0.0	p.ato.mx
@@ -5759,6 +5769,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fbcdn-creative-a.akamaihd.net
 0.0.0.0	lbstatic-a.akamaihd.net
 0.0.0.0	spotxchange-a.akamaihd.net
+0.0.0.0	amp.akamaized.net
 0.0.0.0	cdn-adef.akamaized.net
 0.0.0.0	cdn-aimi.akamaized.net
 0.0.0.0	img-s-msn-com.akamaized.net
@@ -5884,7 +5895,6 @@ fe80::1%lo0		localhost
 0.0.0.0	bcp.crwdcntrl.net
 0.0.0.0	cdn.crwdcntrl.net
 0.0.0.0	tags.crwdcntrl.net
-0.0.0.0	images.ctfassets.net
 0.0.0.0	curem.net
 0.0.0.0	admonkey.dapper.net
 0.0.0.0	clickserve.dartsearch.net
@@ -6418,6 +6428,7 @@ fe80::1%lo0		localhost
 0.0.0.0	v.linkingoutnow.online
 0.0.0.0	meetthegame.online
 0.0.0.0	mmofreegames.online
+0.0.0.0	redwind.online
 0.0.0.0	servicepilot.online
 0.0.0.0	secure.systempush.online
 0.0.0.0	engine.4chan-ads.org
@@ -6835,6 +6846,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mediab.uy
 0.0.0.0	pixel.watch
 0.0.0.0	c2aquarelle.website
+0.0.0.0	c3archival.website
 0.0.0.0	gjol8ib0.website
 0.0.0.0	www.luckybtcfaucet.website
 0.0.0.0	track.myvoluum.website
