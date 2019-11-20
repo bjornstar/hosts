@@ -774,6 +774,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads.adultking.com
 0.0.0.0	www.adumen.com
 0.0.0.0	www.adv-adserver.com
+0.0.0.0	nep.advangelists.com
 0.0.0.0	www.advconversion.com
 0.0.0.0	ads.adverline.com
 0.0.0.0	www.adversalservers.com
@@ -1045,6 +1046,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.atomicwarez.com
 0.0.0.0	ju.atpanel.com
 0.0.0.0	csct2.att.com
+0.0.0.0	attractivecap.com
 0.0.0.0	atwola.com
 0.0.0.0	at.atwola.com
 0.0.0.0	cdn.at.atwola.com
@@ -1075,6 +1077,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.awin1.com
 0.0.0.0	cluster.awmserve.com
 0.0.0.0	www.axill.com
+0.0.0.0	aycksenkb.com
 0.0.0.0	i.azjmp.com
 0.0.0.0	images-cdn.azoogleads.com
 0.0.0.0	azurcorporation.com
@@ -1262,6 +1265,7 @@ fe80::1%lo0		localhost
 0.0.0.0	api.bounceexchange.com
 0.0.0.0	assets.bounceexchange.com
 0.0.0.0	tag.bounceexchange.com
+0.0.0.0	dmp.brand-display.com
 0.0.0.0	adbucks.brandreachsys.com
 0.0.0.0	cache.brandreachsys.com
 0.0.0.0	fe.brandreachsys.com
@@ -1300,6 +1304,9 @@ fe80::1%lo0		localhost
 0.0.0.0	geo-um.btrll.com
 0.0.0.0	segs.btrll.com
 0.0.0.0	ssegs.btrll.com
+0.0.0.0	extract.btserve.com
+0.0.0.0	www.btserve.com
+0.0.0.0	bttrack.com
 0.0.0.0	in.bubblestat.com
 0.0.0.0	zeus.bubblestat.com
 0.0.0.0	www.budgetedbauer.com
@@ -1538,6 +1545,7 @@ fe80::1%lo0		localhost
 0.0.0.0	zs12.cnzz.com
 0.0.0.0	zs13.cnzz.com
 0.0.0.0	zs8.cnzz.com
+0.0.0.0	code4us.com
 0.0.0.0	b.codeonclick.com
 0.0.0.0	c.codeonclick.com
 0.0.0.0	codytzi.com
@@ -1585,6 +1593,8 @@ fe80::1%lo0		localhost
 0.0.0.0	usage.apps.conduit-services.com
 0.0.0.0	download.chrome.conduit-services.com
 0.0.0.0	conique-sympic.com
+0.0.0.0	capi.connatix.com
+0.0.0.0	cd.connatix.com
 0.0.0.0	cdn.connatix.com
 0.0.0.0	cdns.connatix.com
 0.0.0.0	vcore.connatix.com
@@ -1678,6 +1688,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.ctjtlrmy.com
 0.0.0.0	appsha2.ctnetload2.com
 0.0.0.0	apps2.ctnetpass2.com
+0.0.0.0	cm.ctnsnet.com
 0.0.0.0	cttracking08.com
 0.0.0.0	www.cucape.com
 0.0.0.0	cuntwars.com
@@ -2412,6 +2423,7 @@ fe80::1%lo0		localhost
 0.0.0.0	app.icontact.com
 0.0.0.0	c.icq.com
 0.0.0.0	search.icq.com
+0.0.0.0	id5-sync.com
 0.0.0.0	ads.identads.com
 0.0.0.0	b.idolbucks.com
 0.0.0.0	www.idownloadfast.com
@@ -3108,6 +3120,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mybrandprizes.com
 0.0.0.0	ggz.mycomputermechanics.com
 0.0.0.0	wlp.mycomputermechanics.com
+0.0.0.0	www.myemailtracking.com
 0.0.0.0	myfacefun.com
 0.0.0.0	www1.myfreebrandrewards.com
 0.0.0.0	www.myfreestarbuckscoffee.com
@@ -3815,6 +3828,7 @@ fe80::1%lo0		localhost
 0.0.0.0	m.xp1.ru4.com
 0.0.0.0	ads.rubiconproject.com
 0.0.0.0	stats.aws.rubiconproject.com
+0.0.0.0	eus.rubiconproject.com
 0.0.0.0	fastlane.rubiconproject.com
 0.0.0.0	fastlane-adv.rubiconproject.com
 0.0.0.0	optimized-by.rubiconproject.com
@@ -3975,6 +3989,8 @@ fe80::1%lo0		localhost
 0.0.0.0	smetrics.shinseibank.com
 0.0.0.0	www.shooshmedia.com
 0.0.0.0	shop-secure68.com
+0.0.0.0	sdks.shopifycdn.com
+0.0.0.0	monorail-edge.shopifysvc.com
 0.0.0.0	adserve.shopzilla.com
 0.0.0.0	shorstackapp.com
 0.0.0.0	shought-purives.com
@@ -4019,6 +4035,8 @@ fe80::1%lo0		localhost
 0.0.0.0	slotv.com
 0.0.0.0	slurolen.com
 0.0.0.0	www.slurolen.com
+0.0.0.0	slvcwiabpgyxa.com
+0.0.0.0	www.slvcwiabpgyxa.com
 0.0.0.0	cm.smadex.com
 0.0.0.0	prg.smartadserver.com
 0.0.0.0	ww38.smartadserver.com
@@ -4028,6 +4046,7 @@ fe80::1%lo0		localhost
 0.0.0.0	d.smopy.com
 0.0.0.0	ad.smowtion.com
 0.0.0.0	ads.smowtion.com
+0.0.0.0	ssl-market-east.smrtb.com
 0.0.0.0	sms-mmm.com
 0.0.0.0	user.sms-mmm.com
 0.0.0.0	shots.snap.com
@@ -4594,6 +4613,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.youporn.videobox.com
 0.0.0.0	adcontent.videoegg.com
 0.0.0.0	core.videoegg.com
+0.0.0.0	literally-media.videoplayerhub.com
 0.0.0.0	zam-com.videoplayerhub.com
 0.0.0.0	videorewardstoday.com
 0.0.0.0	static.videorewardstoday.com
@@ -5172,6 +5192,7 @@ fe80::1%lo0		localhost
 0.0.0.0	eventraliaclinental.info
 0.0.0.0	evertherenous.info
 0.0.0.0	evideeffections.info
+0.0.0.0	exchancetaur.info
 0.0.0.0	expectorslapsino.info
 0.0.0.0	factivityw.info
 0.0.0.0	fbleak.info
@@ -5348,6 +5369,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.zlothonline.info
 0.0.0.0	ad.zoglafi.info
 0.0.0.0	sync.1rx.io
+0.0.0.0	tag.1rx.io
 0.0.0.0	airbrake.io
 0.0.0.0	arc.io
 0.0.0.0	core.arc.io
@@ -5371,6 +5393,7 @@ fe80::1%lo0		localhost
 0.0.0.0	sentry.ctgroup.io
 0.0.0.0	assets.customer.io
 0.0.0.0	track.customer.io
+0.0.0.0	dmx.districtm.io
 0.0.0.0	as.ebz.io
 0.0.0.0	www.erq.io
 0.0.0.0	ethn.io
@@ -5395,6 +5418,8 @@ fe80::1%lo0		localhost
 0.0.0.0	s.ntv.io
 0.0.0.0	app.pendo.io
 0.0.0.0	cdn.pendo.io
+0.0.0.0	bids.proper.io
+0.0.0.0	global.proper.io
 0.0.0.0	ad.pxlad.io
 0.0.0.0	bidder.rtk.io
 0.0.0.0	thor.rtk.io
@@ -5999,6 +6024,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.fastclick.net
 0.0.0.0	media.fastclick.net
 0.0.0.0	fastincomemaster.net
+0.0.0.0	clarium.global.ssl.fastly.net
 0.0.0.0	fastly2.cedexis.fastlylb.net
 0.0.0.0	fastly3.cedexis.fastlylb.net
 0.0.0.0	creative.ak.fbcdn.net
@@ -6187,6 +6213,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mediafire-d.openx.net
 0.0.0.0	medianet-d.openx.net
 0.0.0.0	monkey-broker-d.openx.net
+0.0.0.0	propermedia-d.openx.net
 0.0.0.0	r.openx.net
 0.0.0.0	rtb.openx.net
 0.0.0.0	sea-u.openx.net
@@ -6195,6 +6222,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ubh-d.openx.net
 0.0.0.0	us-ads.openx.net
 0.0.0.0	us-u.openx.net
+0.0.0.0	viumbe-d.openx.net
 0.0.0.0	wikia-d.openx.net
 0.0.0.0	ziffdavis-d.openx.net
 0.0.0.0	ads7.orbitads.net
@@ -6431,6 +6459,7 @@ fe80::1%lo0		localhost
 0.0.0.0	redwind.online
 0.0.0.0	servicepilot.online
 0.0.0.0	secure.systempush.online
+0.0.0.0	cdn1.winr.online
 0.0.0.0	engine.4chan-ads.org
 0.0.0.0	static.4chan-ads.org
 0.0.0.0	adplug.org
@@ -6543,6 +6572,7 @@ fe80::1%lo0		localhost
 0.0.0.0	stalluva.pro
 0.0.0.0	unlomblam.pro
 0.0.0.0	www.viralvideos.pro
+0.0.0.0	wilwasharrabred.pro
 0.0.0.0	withdromnit.pro
 0.0.0.0	www.offline.pt
 0.0.0.0	pegodoaltar.com.sapo.pt
@@ -6883,6 +6913,9 @@ fe80::1%lo0		localhost
 0.0.0.0	s.fotw.xyz
 0.0.0.0	fyredet.xyz
 0.0.0.0	ttw.htmlhubing.xyz
+0.0.0.0	iclwy.xyz
+0.0.0.0	d.iclwy.xyz
+0.0.0.0	s.iclwy.xyz
 0.0.0.0	imzahrwl.xyz
 0.0.0.0	ld8gfmow.xyz
 0.0.0.0	n1198adserv.xyz
