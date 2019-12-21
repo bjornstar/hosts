@@ -325,6 +325,8 @@ fe80::1%lo0		localhost
 0.0.0.0	main-im-game-3.gamewise.co
 0.0.0.0	main-im-game-4.gamewise.co
 0.0.0.0	main-im-game-5.gamewise.co
+0.0.0.0	i.jads.co
+0.0.0.0	poweredby.jads.co
 0.0.0.0	pixel.keywee.co
 0.0.0.0	linkcash.co
 0.0.0.0	linkwaw.co
@@ -953,6 +955,9 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.angel-live.com
 0.0.0.0	as.eu.angsrvr.com
 0.0.0.0	go.aniview.com
+0.0.0.0	player.aniview.com
+0.0.0.0	premiumsrv.aniview.com
+0.0.0.0	s2s.aniview.com
 0.0.0.0	track1.aniview.com
 0.0.0.0	site.answers.com
 0.0.0.0	www.answers.com
@@ -1064,6 +1069,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.avalanchers.com
 0.0.0.0	secure.avangate.com
 0.0.0.0	pc.avnotification.com
+0.0.0.0	atrack.avplayer.com
+0.0.0.0	player.avplayer.com
 0.0.0.0	rev.avsforum.com
 0.0.0.0	web1.awcdn.com
 0.0.0.0	analytics.aweber.com
@@ -1410,6 +1417,7 @@ fe80::1%lo0		localhost
 0.0.0.0	hwcdnssl.cedexis-test.com
 0.0.0.0	level3.cedexis-test.com
 0.0.0.0	limelight-ssl.cedexis-test.com
+0.0.0.0	celeritascdn.com
 0.0.0.0	cfqpxzx.com
 0.0.0.0	cfts1tifqr.com
 0.0.0.0	ch2.chamo-chat.com
@@ -1658,6 +1666,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cpynfeqyqfby.com
 0.0.0.0	www.cpynfeqyqfby.com
 0.0.0.0	t.cqq5id8n.com
+0.0.0.0	cdn.cquotient.com
 0.0.0.0	s.cr-nielsen.com
 0.0.0.0	ads.crakmedia.com
 0.0.0.0	static.ads.crakmedia.com
@@ -2090,6 +2099,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fobjoccwkrkv.com
 0.0.0.0	ads.forbes.com
 0.0.0.0	fast.forbes.com
+0.0.0.0	harmaninternational.secure.force.com
 0.0.0.0	service.force.com
 0.0.0.0	foxarmedia.com
 0.0.0.0	metrics.foxnews.com
@@ -2333,6 +2343,8 @@ fe80::1%lo0		localhost
 0.0.0.0	hd-mediabox.com
 0.0.0.0	hd100546b.com
 0.0.0.0	www.healthreportz.com
+0.0.0.0	heapanalytics.com
+0.0.0.0	cdn.heapanalytics.com
 0.0.0.0	a.heavy-r.com
 0.0.0.0	vlog.heraldcorp.com
 0.0.0.0	adw.heraldm.com
@@ -2760,6 +2772,7 @@ fe80::1%lo0		localhost
 0.0.0.0	oascentral.laptopmag.com
 0.0.0.0	app.later.com
 0.0.0.0	app.launchdarkly.com
+0.0.0.0	clientstream.launchdarkly.com
 0.0.0.0	events.launchdarkly.com
 0.0.0.0	ldgateway.com
 0.0.0.0	play.leadzu.com
@@ -3280,6 +3293,7 @@ fe80::1%lo0		localhost
 0.0.0.0	onclickmega.com
 0.0.0.0	www.onclickprediction.com
 0.0.0.0	onclicksuper.com
+0.0.0.0	onclicktop.com
 0.0.0.0	onclkds.com
 0.0.0.0	onclklnd.com
 0.0.0.0	c1.onedmp.com
@@ -3455,6 +3469,10 @@ fe80::1%lo0		localhost
 0.0.0.0	plaxo.com
 0.0.0.0	www.plaxo.com
 0.0.0.0	www.play-asia.com
+0.0.0.0	cdn.playbuzz.com
+0.0.0.0	mcd.playbuzz.com
+0.0.0.0	prd-collector-anon.playbuzz.com
+0.0.0.0	stream.playbuzz.com
 0.0.0.0	playproz.com
 0.0.0.0	en.playpw.com
 0.0.0.0	cdn.playwire.com
@@ -3784,10 +3802,15 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn1.rhtag.com
 0.0.0.0	sync.rhythmxchange.com
 0.0.0.0	recs.richrelevance.com
+0.0.0.0	loginchecker.rightmessage.com
+0.0.0.0	tag.rightmessage.com
 0.0.0.0	riluaneth.com
 0.0.0.0	overlay.ringtonematcher.com
 0.0.0.0	tracking.ringtonematcher.com
 0.0.0.0	aff.ringtonepartner.com
+0.0.0.0	beacon.riskified.com
+0.0.0.0	c.riskified.com
+0.0.0.0	img.riskified.com
 0.0.0.0	www.rivasearchpage.com
 0.0.0.0	br.rk.com
 0.0.0.0	cache.rk.com
@@ -3833,6 +3856,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fastlane-adv.rubiconproject.com
 0.0.0.0	optimized-by.rubiconproject.com
 0.0.0.0	pixel.rubiconproject.com
+0.0.0.0	prebid-server.rubiconproject.com
 0.0.0.0	secure-assets.rubiconproject.com
 0.0.0.0	tap-cdn.rubiconproject.com
 0.0.0.0	video-ads.rubiconproject.com
@@ -3869,6 +3893,7 @@ fe80::1%lo0		localhost
 0.0.0.0	oascentral.salon.com
 0.0.0.0	sacdcad01.salon.com
 0.0.0.0	hhhhhh.sanleplastic.com
+0.0.0.0	r-eqx.sascdn.com
 0.0.0.0	sascentral.com
 0.0.0.0	www.satellitedirect.com
 0.0.0.0	saturalist.com
@@ -4042,6 +4067,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ww38.smartadserver.com
 0.0.0.0	ww57.smartadserver.com
 0.0.0.0	www3.smartadserver.com
+0.0.0.0	www9.smartadserver.com
 0.0.0.0	smartcj.com
 0.0.0.0	d.smopy.com
 0.0.0.0	ad.smowtion.com
@@ -4092,6 +4118,7 @@ fe80::1%lo0		localhost
 0.0.0.0	jb.speakertext.com
 0.0.0.0	specificmedia.com
 0.0.0.0	cdn2.specificmedia.com
+0.0.0.0	cdn.spectrumcustomizer.com
 0.0.0.0	speculese.com
 0.0.0.0	creative.speednetwork13.com
 0.0.0.0	s.speednetwork13.com
@@ -4388,6 +4415,7 @@ fe80::1%lo0		localhost
 0.0.0.0	traffictracksys.com
 0.0.0.0	trafit.com
 0.0.0.0	lib.trafit.com
+0.0.0.0	trafyield.com
 0.0.0.0	logging.trakingpixel.com
 0.0.0.0	www.traktrafficflow.com
 0.0.0.0	cdn.transifex.com
@@ -6059,6 +6087,7 @@ fe80::1%lo0		localhost
 0.0.0.0	bea4.v.fwmrm.net
 0.0.0.0	givemepins.net
 0.0.0.0	gloolsee.net
+0.0.0.0	c.go-mpulse.net
 0.0.0.0	gorillaserver.net
 0.0.0.0	graucoay.net
 0.0.0.0	static.hk.groupon-content.net
