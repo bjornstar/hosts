@@ -75,6 +75,7 @@ fe80::1%lo0		localhost
 0.0.0.0	media.sportsbetaffiliates.com.au
 0.0.0.0	record.sportsbetaffiliates.com.au
 0.0.0.0	minim.ax
+0.0.0.0	rumcdn.geoedge.be
 0.0.0.0	www.dnntgcfejsg.bid
 0.0.0.0	ekzstfriawl.bid
 0.0.0.0	www.ekzstfriawl.bid
@@ -2704,6 +2705,7 @@ fe80::1%lo0		localhost
 0.0.0.0	components.justanswer.com
 0.0.0.0	trk.justanswer.com
 0.0.0.0	va.justanswer.com
+0.0.0.0	pre.ads.justpremium.com
 0.0.0.0	jventures.com
 0.0.0.0	jwgsepzz.com
 0.0.0.0	www.jwgsepzz.com
@@ -5135,7 +5137,17 @@ fe80::1%lo0		localhost
 0.0.0.0	audit.median.hu
 0.0.0.0	ad.parom.hu
 0.0.0.0	sidecar.gitter.im
+0.0.0.0	api-2-0.spot.im
+0.0.0.0	dynamic-cdn.spot.im
+0.0.0.0	images.spot.im
+0.0.0.0	launcher.spot.im
+0.0.0.0	metrics-logger.spot.im
+0.0.0.0	pix.spot.im
+0.0.0.0	publisher-assets.spot.im
+0.0.0.0	recirculation.spot.im
 0.0.0.0	sccden.spot.im
+0.0.0.0	spotops.spot.im
+0.0.0.0	static-cdn.spot.im
 0.0.0.0	www.spot.im
 0.0.0.0	1.5se.in
 0.0.0.0	applecamellive.in
@@ -5656,6 +5668,8 @@ fe80::1%lo0		localhost
 0.0.0.0	b.et.lv
 0.0.0.0	cc10706.counter.hackers.lv
 0.0.0.0	cc13346.counter.hackers.lv
+0.0.0.0	hb.spotim.market
+0.0.0.0	player.spotim.market
 0.0.0.0	tracking.marketing
 0.0.0.0	cackle.me
 0.0.0.0	clnk.me
