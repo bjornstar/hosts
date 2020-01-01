@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/bjornstar/hosts#readme",
   "devDependencies": {
-    "eslint": "^5.1.0"
+    "eslint": "^6.8.0"
   }
 }
