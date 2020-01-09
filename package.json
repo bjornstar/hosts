@@ -21,5 +21,8 @@
   "homepage": "https://github.com/bjornstar/hosts#readme",
   "devDependencies": {
     "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "is-wsl": "^2.1.1"
   }
 }

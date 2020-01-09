@@ -1,10 +1,12 @@
 const fs = require('fs');
 
-const PATH_TO_HOSTS = process.platform === 'darwin' ? 'hosts' : '/mnt/c/Windows/System32/drivers/etc/hosts';
+const isWSL = require('is-wsl');
+
+const PATH_TO_HOSTS = isWSL ? '/mnt/c/Windows/System32/drivers/etc/hosts' : 'hosts';
 
 const BLACKHOLE_IP = '0.0.0.0';
 const DOMAIN_IP_SEPARATOR = '\t';
-const LINE_SEPARATOR = process.platform === 'darwin' ? '\n' : '\r\n';
+const LINE_SEPARATOR = isWSL ? '\r\n' : '\n';
 
 function domainSort(a, b) {
 	for (let i = 0; i < Math.max(a.length, b.length); i += 1) {
