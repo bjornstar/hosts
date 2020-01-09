@@ -415,6 +415,7 @@ fe80::1%lo0		localhost
 0.0.0.0	1.sic.33across.com
 0.0.0.0	sic-akamai.33across.com
 0.0.0.0	ad.360yield.com
+0.0.0.0	ice.360yield.com
 0.0.0.0	365cashs.com
 0.0.0.0	www.365cashs.com
 0.0.0.0	3761fcd24ef9281f5.com
@@ -1002,6 +1003,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.apture.com
 0.0.0.0	l.apture.com
 0.0.0.0	www.apture.com
+0.0.0.0	hb.aralego.com
 0.0.0.0	www.arcadeweb.com
 0.0.0.0	ardmall.com
 0.0.0.0	areasnap.com
@@ -1455,6 +1457,8 @@ fe80::1%lo0		localhost
 0.0.0.0	api.circularhub.com
 0.0.0.0	a.ciridola.com
 0.0.0.0	xhr.ciridola.com
+0.0.0.0	cdn.cityspark.com
+0.0.0.0	p.cityspark.com
 0.0.0.0	www.civicscience.com
 0.0.0.0	q.cjdqy.com
 0.0.0.0	cjl58f3agc.com
@@ -1860,6 +1864,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.dxdunwcdfrdqm.com
 0.0.0.0	dxfqs.com
 0.0.0.0	c.dxfqs.com
+0.0.0.0	cdn.dynamicyield.com
 0.0.0.0	px.dynamicyield.com
 0.0.0.0	st.dynamicyield.com
 0.0.0.0	static.dynamicyield.com
@@ -2576,7 +2581,11 @@ fe80::1%lo0		localhost
 0.0.0.0	t.instanthookups.com
 0.0.0.0	www.instanthookups.com
 0.0.0.0	instantresp.com
+0.0.0.0	b2c.insticator.com
+0.0.0.0	cms.insticator.com
 0.0.0.0	embed.insticator.com
+0.0.0.0	event.insticator.com
+0.0.0.0	geoip.insticator.com
 0.0.0.0	www.insticator.com
 0.0.0.0	load.instinctiveads.com
 0.0.0.0	instraffic.com
@@ -3553,6 +3562,10 @@ fe80::1%lo0		localhost
 0.0.0.0	projects.posttv.com
 0.0.0.0	www.postup.com
 0.0.0.0	px.powerlinks.com
+0.0.0.0	api.powr.com
+0.0.0.0	player.powr.com
+0.0.0.0	p0-ia.powr-media.com
+0.0.0.0	videos.powr-media.com
 0.0.0.0	www.ppc-direct.com
 0.0.0.0	practively.com
 0.0.0.0	prasicja-gripa.com
@@ -3760,6 +3773,9 @@ fe80::1%lo0		localhost
 0.0.0.0	t2bi9.redirectvoluum.com
 0.0.0.0	redlele.com
 0.0.0.0	ads.redlightcenter.com
+0.0.0.0	g4p.redtram.com
+0.0.0.0	js-goods.redtram.com
+0.0.0.0	js-ru.redtram.com
 0.0.0.0	ads.redtube.com
 0.0.0.0	ad.reduxmedia.com
 0.0.0.0	bst.reedbusiness.com
@@ -3787,6 +3803,7 @@ fe80::1%lo0		localhost
 0.0.0.0	affiliates.reunion.com
 0.0.0.0	creative.rev2pub.com
 0.0.0.0	api.revcontent.com
+0.0.0.0	assets.revcontent.com
 0.0.0.0	cdn.revcontent.com
 0.0.0.0	img.revcontent.com
 0.0.0.0	servedby.revcontent.com
@@ -3963,6 +3980,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www2.sellhealth.com
 0.0.0.0	sosa.semanticrep.com
 0.0.0.0	cdn.sendpulse.com
+0.0.0.0	browser.sentry-cdn.com
 0.0.0.0	seoparts.com
 0.0.0.0	escape-u2.seoparts.com
 0.0.0.0	creatives.serve-banners.com
@@ -4295,6 +4313,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.technoratimedia.com
 0.0.0.0	ad-cdn.technoratimedia.com
 0.0.0.0	dms.technoratimedia.com
+0.0.0.0	prebid.technoratimedia.com
 0.0.0.0	zedo.technoratimedia.com
 0.0.0.0	contentvideo.techtimes.com
 0.0.0.0	download.televisionfanatic.com
@@ -6267,6 +6286,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mediafire-d.openx.net
 0.0.0.0	medianet-d.openx.net
 0.0.0.0	monkey-broker-d.openx.net
+0.0.0.0	os4m-d.openx.net
 0.0.0.0	propermedia-d.openx.net
 0.0.0.0	r.openx.net
 0.0.0.0	rtb.openx.net
@@ -6496,6 +6516,7 @@ fe80::1%lo0		localhost
 0.0.0.0	c1.zxxds.net
 0.0.0.0	cloud.zyiis.net
 0.0.0.0	c.pub.network
+0.0.0.0	v1rton.news
 0.0.0.0	files.18pluscash.nl
 0.0.0.0	www.clubsexdating.nl
 0.0.0.0	empowernetwork-info.nl
@@ -6603,12 +6624,14 @@ fe80::1%lo0		localhost
 0.0.0.0	m4lzz.superpromo.0707.pics
 0.0.0.0	www.freestat.pl
 0.0.0.0	galv.hit.gemius.pl
+0.0.0.0	gaua.hit.gemius.pl
 0.0.0.0	gg.hit.gemius.pl
 0.0.0.0	ls.hit.gemius.pl
 0.0.0.0	pro.hit.gemius.pl
 0.0.0.0	api.interia.nsaudience.pl
 0.0.0.0	1zlyetcck7klyuy9.pro
 0.0.0.0	abrts.pro
+0.0.0.0	a4p.adpartner.pro
 0.0.0.0	asdfg.pro
 0.0.0.0	ca.clcknads.pro
 0.0.0.0	helpdesk.com-supportfasthelpproblem.pro
@@ -6812,6 +6835,9 @@ fe80::1%lo0		localhost
 0.0.0.0	shorte.st
 0.0.0.0	cdn.shorte.st
 0.0.0.0	live.demand.supply
+0.0.0.0	c.ingage.tech
+0.0.0.0	t.ingage.tech
+0.0.0.0	uet.ingage.tech
 0.0.0.0	static.stats.in.th
 0.0.0.0	tracker.stats.in.th
 0.0.0.0	lvs.truehits.in.th
