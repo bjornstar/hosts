@@ -198,6 +198,7 @@ fe80::1%lo0		localhost
 0.0.0.0	static.districtm.ca
 0.0.0.0	assist.shaw.ca
 0.0.0.0	search.assist.shaw.ca
+0.0.0.0	logger.yp.ca
 0.0.0.0	img9.1133.cc
 0.0.0.0	u.1133.cc
 0.0.0.0	code1.2bj.cc
@@ -539,6 +540,7 @@ fe80::1%lo0		localhost
 0.0.0.0	oascentral.adage.com
 0.0.0.0	ads.adamoads.com
 0.0.0.0	app.adanzhuo.com
+0.0.0.0	rs.adapf.com
 0.0.0.0	adbidgo.com
 0.0.0.0	staticd.cdn.adblade.com
 0.0.0.0	pixel.adblade.com
@@ -585,6 +587,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn1.adexprt.com
 0.0.0.0	cdn2.adexprt.com
 0.0.0.0	cdn3.adexprt.com
+0.0.0.0	traffic.adexprtz.com
 0.0.0.0	www.adexten.com
 0.0.0.0	cache.adfeedstrk.com
 0.0.0.0	adforati.com
@@ -2017,6 +2020,9 @@ fe80::1%lo0		localhost
 0.0.0.0	facefunn.com
 0.0.0.0	facemoods.com
 0.0.0.0	top.fadama.com
+0.0.0.0	fadsatz.com
+0.0.0.0	fadsips.com
+0.0.0.0	fadsoks.com
 0.0.0.0	www.fallingfalcon.com
 0.0.0.0	welcome.faptitans.com
 0.0.0.0	cdn.welcome.faptitans.com
@@ -2213,6 +2219,7 @@ fe80::1%lo0		localhost
 0.0.0.0	geoloc5.geovisite.com
 0.0.0.0	banners.germanfriendfinder.com
 0.0.0.0	s.get-msn-chats.com
+0.0.0.0	api.getcandid.com
 0.0.0.0	in.getclicky.com
 0.0.0.0	static.getclicky.com
 0.0.0.0	tag.getdrip.com
@@ -2289,6 +2296,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.gonowg.com
 0.0.0.0	adservice.google.com
 0.0.0.0	linkhelp.clients.google.com
+0.0.0.0	fundingchoices.google.com
 0.0.0.0	id.google.com
 0.0.0.0	smartlock.google.com
 0.0.0.0	plus.url.google.com
@@ -2339,6 +2347,7 @@ fe80::1%lo0		localhost
 0.0.0.0	rs.gwallet.com
 0.0.0.0	affiliate.gwmtracker.com
 0.0.0.0	gwquuagkjxbq.com
+0.0.0.0	geo.gyazo.com
 0.0.0.0	gyhujxbptum.com
 0.0.0.0	www.gyhujxbptum.com
 0.0.0.0	gzmlvrvkven.com
@@ -2517,6 +2526,8 @@ fe80::1%lo0		localhost
 0.0.0.0	adn.impactradius.com
 0.0.0.0	impactserving.com
 0.0.0.0	cdn.impactserving.com
+0.0.0.0	impactslam.com
+0.0.0.0	cdn.impactslam.com
 0.0.0.0	impore.com
 0.0.0.0	gad.impresionesweb.com
 0.0.0.0	impressionaffiliate.com
@@ -3213,6 +3224,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mirror.nbstatic.com
 0.0.0.0	geoip.nekudo.com
 0.0.0.0	vom.sitescout.netdna-cdn.com
+0.0.0.0	content-getcandid.netdna-ssl.com
 0.0.0.0	fullcache-neodevlda.netdna-ssl.com
 0.0.0.0	chico.netmng.com
 0.0.0.0	eyeota2waycm.netmng.com
@@ -3223,6 +3235,7 @@ fe80::1%lo0		localhost
 0.0.0.0	beacon-1.newrelic.com
 0.0.0.0	beacon-3.newrelic.com
 0.0.0.0	js-agent.newrelic.com
+0.0.0.0	metric-api.newrelic.com
 0.0.0.0	rpm-images.newrelic.com
 0.0.0.0	analytics.newsinc.com
 0.0.0.0	dmeserv.newsinc.com
@@ -5053,6 +5066,7 @@ fe80::1%lo0		localhost
 0.0.0.0	zbecpoboc.com
 0.0.0.0	zbqblhqlrm.com
 0.0.0.0	www.zbqblhqlrm.com
+0.0.0.0	zdukhhodnglp.com
 0.0.0.0	code.ze5.com
 0.0.0.0	img.ze5.com
 0.0.0.0	media.ze5.com
@@ -5148,6 +5162,7 @@ fe80::1%lo0		localhost
 0.0.0.0	prm.mumbai-invest.email
 0.0.0.0	secure.gaug.es
 0.0.0.0	jav.55888.eu
+0.0.0.0	cloud-miner.eu
 0.0.0.0	eas.apm.emediate.eu
 0.0.0.0	toplist.eu
 0.0.0.0	u-on.eu
@@ -5474,6 +5489,7 @@ fe80::1%lo0		localhost
 0.0.0.0	match.prod.bidr.io
 0.0.0.0	api.branch.io
 0.0.0.0	cdn.branch.io
+0.0.0.0	analytics.candid.io
 0.0.0.0	stats.cloudwp.io
 0.0.0.0	codefund.io
 0.0.0.0	apps3.cointraffic.io
@@ -5583,6 +5599,7 @@ fe80::1%lo0		localhost
 0.0.0.0	b90.yahoo.co.jp
 0.0.0.0	b91.yahoo.co.jp
 0.0.0.0	b92.yahoo.co.jp
+0.0.0.0	b97.yahoo.co.jp
 0.0.0.0	logql.yahoo.co.jp
 0.0.0.0	yads.yahoo.co.jp
 0.0.0.0	yeas.yahoo.co.jp
@@ -6277,6 +6294,7 @@ fe80::1%lo0		localhost
 0.0.0.0	rum.ngenix.net
 0.0.0.0	s.ngenix.net
 0.0.0.0	nitrodownloads.net
+0.0.0.0	go.nordvpn.net
 0.0.0.0	bam.nr-data.net
 0.0.0.0	cdn.nsimg.net
 0.0.0.0	m1.nsimg.net
@@ -6601,6 +6619,7 @@ fe80::1%lo0		localhost
 0.0.0.0	wadogo.go2cloud.org
 0.0.0.0	wehasoffers.go2cloud.org
 0.0.0.0	nam.go2jump.org
+0.0.0.0	media.go2speed.org
 0.0.0.0	hi5images.org
 0.0.0.0	ads.imgtiger.org
 0.0.0.0	members.internetdefenseleague.org
@@ -6653,8 +6672,10 @@ fe80::1%lo0		localhost
 0.0.0.0	1zlyetcck7klyuy9.pro
 0.0.0.0	abrts.pro
 0.0.0.0	a4p.adpartner.pro
+0.0.0.0	ainess.pro
 0.0.0.0	asdfg.pro
 0.0.0.0	ca.clcknads.pro
+0.0.0.0	cogeyssignify.pro
 0.0.0.0	helpdesk.com-supportfasthelpproblem.pro
 0.0.0.0	europerty.pro
 0.0.0.0	fileplace.pro
