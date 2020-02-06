@@ -67,6 +67,7 @@ fe80::1%lo0		localhost
 0.0.0.0	yts.ag
 0.0.0.0	secure.rebel.ai
 0.0.0.0	sportzone.do.am
+0.0.0.0	beacon.tru.am
 0.0.0.0	wejkrkje.blogspot.com.ar
 0.0.0.0	ad-m.asia
 0.0.0.0	www.chinawomendating.asia
@@ -854,6 +855,7 @@ fe80::1%lo0		localhost
 0.0.0.0	aggregateknowledge.com
 0.0.0.0	aa.agkn.com
 0.0.0.0	d.agkn.com
+0.0.0.0	js.agkn.com
 0.0.0.0	agomwefq.com
 0.0.0.0	ahumant.com
 0.0.0.0	f1.aidaicn.com
@@ -1411,11 +1413,15 @@ fe80::1%lo0		localhost
 0.0.0.0	www.cbsfcpciitwcky.com
 0.0.0.0	dw.cbsi.com
 0.0.0.0	i.i.cbsi.com
+0.0.0.0	production-cmp.isgprivacy.cbsi.com
 0.0.0.0	om.cbsi.com
+0.0.0.0	saa.cbsi.com
 0.0.0.0	offers-service.cbsinteractive.com
+0.0.0.0	bidbarrel.cbsnews.com
 0.0.0.0	bwp.cbsnews.com
 0.0.0.0	mads.cbsnews.com
 0.0.0.0	ocp.cbsnews.com
+0.0.0.0	tealium.cbsnews.com
 0.0.0.0	cbsnews9.com
 0.0.0.0	ttshow.cciuop.com
 0.0.0.0	five.cdn-image.com
@@ -3358,6 +3364,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads.onemodelplace.com
 0.0.0.0	cdn.onesignal.com
 0.0.0.0	www.onestopdownloads.com
+0.0.0.0	geolocation.onetrust.com
 0.0.0.0	go.oneund.com
 0.0.0.0	www.online-casinos-today.com
 0.0.0.0	www.onlinefilmsclub.com
@@ -3752,6 +3759,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cm.qtmojo.com
 0.0.0.0	geo.api.qualaroo.com
 0.0.0.0	geo.qualaroo.com
+0.0.0.0	siteintercept.qualtrics.com
 0.0.0.0	www.quantcast.com
 0.0.0.0	rules.quantcount.com
 0.0.0.0	quantserve.com
@@ -3849,6 +3857,7 @@ fe80::1%lo0		localhost
 0.0.0.0	trends.revcontent.com
 0.0.0.0	cdn1.revdepo.com
 0.0.0.0	cache.reverbnation.com
+0.0.0.0	pix.revjet.com
 0.0.0.0	jc.revolvermaps.com
 0.0.0.0	je.revolvermaps.com
 0.0.0.0	jj.revolvermaps.com
@@ -6039,6 +6048,7 @@ fe80::1%lo0		localhost
 0.0.0.0	admonkey.dapper.net
 0.0.0.0	clickserve.dartsearch.net
 0.0.0.0	connect.decknetwork.net
+0.0.0.0	cbsi.demdex.net
 0.0.0.0	cdn.demdex.net
 0.0.0.0	condenast.demdex.net
 0.0.0.0	fast.condenast.demdex.net
@@ -6606,6 +6616,7 @@ fe80::1%lo0		localhost
 0.0.0.0	quantcast.mgr.consensu.org
 0.0.0.0	static.quantcast.mgr.consensu.org
 0.0.0.0	c.sharethis.mgr.consensu.org
+0.0.0.0	cdn.cookielaw.org
 0.0.0.0	coolina.org
 0.0.0.0	haitao.dadang.org
 0.0.0.0	data-vocabulary.org
