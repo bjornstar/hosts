@@ -59,6 +59,9 @@ fe80::1%lo0		localhost
 #0.0.0.0	images.ctfassets.net
 # Credit Card Processing for Toho Cinemas
 #0.0.0.0	api.veritrans.co.jp
+# Let's see how quickly we block brightcove again
+#0.0.0.0	players.brightcove.net
+#0.0.0.0	edge.api.brightcove.com
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -523,6 +526,7 @@ fe80::1%lo0		localhost
 0.0.0.0	st.acstnst.com
 0.0.0.0	c.actiondesk.com
 0.0.0.0	xml.active8ads.com
+0.0.0.0	techfocus.activehosted.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad.ad-arata.com
 0.0.0.0	ads.ad-center.com
@@ -887,6 +891,7 @@ fe80::1%lo0		localhost
 0.0.0.0	s.click.aliexpress.com
 0.0.0.0	my.aliexpress.com
 0.0.0.0	pcookie.aliexpress.com
+0.0.0.0	tags.aljazeera.com
 0.0.0.0	www.allanalpass.com
 0.0.0.0	cdn.allegedmedia.com
 0.0.0.0	allmygoodlife.com
@@ -994,6 +999,8 @@ fe80::1%lo0		localhost
 0.0.0.0	mp.apmebf.com
 0.0.0.0	www.apmebf.com
 0.0.0.0	analytics.apnewsregistry.com
+0.0.0.0	diffuser-cdn.app-us1.com
+0.0.0.0	prism.app-us1.com
 0.0.0.0	apparede.com
 0.0.0.0	js.appboycdn.com
 0.0.0.0	fast.appcues.com
@@ -1301,7 +1308,6 @@ fe80::1%lo0		localhost
 0.0.0.0	edba.brealtime.com
 0.0.0.0	optimizedby.brealtime.com
 0.0.0.0	admin.brightcove.com
-0.0.0.0	edge.api.brightcove.com
 0.0.0.0	c.brightcove.com
 0.0.0.0	goku.brightcove.com
 0.0.0.0	metrics.brightcove.com
@@ -5940,7 +5946,6 @@ fe80::1%lo0		localhost
 0.0.0.0	blatsnarf.net
 0.0.0.0	js1.bloggerads.net
 0.0.0.0	mint.boingboing.net
-0.0.0.0	players.brightcove.net
 0.0.0.0	cdn4.buysellads.net
 0.0.0.0	js.buzzcity.net
 0.0.0.0	show.buzzcity.net
@@ -6442,6 +6447,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tacoda.net
 0.0.0.0	an.tacoda.net
 0.0.0.0	anrtx.tacoda.net
+0.0.0.0	techfocusmedia.net
 0.0.0.0	cs.tekblue.net
 0.0.0.0	s149.thesearchagency.net
 0.0.0.0	theson.net
@@ -6453,6 +6459,7 @@ fe80::1%lo0		localhost
 0.0.0.0	links.torrentreactor.net
 0.0.0.0	ads.torrpedo.net
 0.0.0.0	trackadvertising.net
+0.0.0.0	trackcmp.net
 0.0.0.0	r2.trackedweb.net
 0.0.0.0	static.trackedweb.net
 0.0.0.0	trackingoffer.net
@@ -6641,6 +6648,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads.plos.org
 0.0.0.0	pr0x.org
 0.0.0.0	currency.prebid.org
+0.0.0.0	track.qcri.org
 0.0.0.0	t05.rbnt.org
 0.0.0.0	s0ftpedia.org
 0.0.0.0	sharecash.org
