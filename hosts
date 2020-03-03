@@ -67,6 +67,10 @@ fe80::1%lo0		localhost
 0.0.0.0	yts.ag
 0.0.0.0	secure.rebel.ai
 0.0.0.0	static-cdn.spott.ai
+0.0.0.0	vdo.ai
+0.0.0.0	a.vdo.ai
+0.0.0.0	s.vdo.ai
+0.0.0.0	track.vdo.ai
 0.0.0.0	sportzone.do.am
 0.0.0.0	beacon.tru.am
 0.0.0.0	wejkrkje.blogspot.com.ar
@@ -921,6 +925,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ws.amazon.com
 0.0.0.0	aax.amazon-adsystem.com
 0.0.0.0	aax-fe.amazon-adsystem.com
+0.0.0.0	aax-fe-sin.amazon-adsystem.com
 0.0.0.0	aax-us-east.amazon-adsystem.com
 0.0.0.0	c.amazon-adsystem.com
 0.0.0.0	dra.amazon-adsystem.com
@@ -978,8 +983,10 @@ fe80::1%lo0		localhost
 0.0.0.0	premiumsrv.aniview.com
 0.0.0.0	s2s.aniview.com
 0.0.0.0	track1.aniview.com
+0.0.0.0	vast.aniview.com
 0.0.0.0	site.answers.com
 0.0.0.0	www.answers.com
+0.0.0.0	gateway.answerscloud.com
 0.0.0.0	antivirus-scanner.com
 0.0.0.0	www.antivirus-scanner.com
 0.0.0.0	cdn5.anyclip.com
@@ -1117,6 +1124,7 @@ fe80::1%lo0		localhost
 0.0.0.0	promo.badoink.com
 0.0.0.0	creatives.badongo.com
 0.0.0.0	ua.badongo.com
+0.0.0.0	badsbads.com
 0.0.0.0	badskies.com
 0.0.0.0	cbjs.baidu.com
 0.0.0.0	cpro.baidu.com
@@ -1490,6 +1498,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.civicscience.com
 0.0.0.0	q.cjdqy.com
 0.0.0.0	cjl58f3agc.com
+0.0.0.0	clcassd.com
 0.0.0.0	clckads.com
 0.0.0.0	www.clclckck.com
 0.0.0.0	static.cleanadulthost.com
@@ -1984,6 +1993,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.ewgtanybkkch.com
 0.0.0.0	www.exalt123.com
 0.0.0.0	adv.exbii.com
+0.0.0.0	a.exdynsrv.com
 0.0.0.0	ads.exdynsrv.com
 0.0.0.0	main.exdynsrv.com
 0.0.0.0	static.exdynsrv.com
@@ -2207,6 +2217,7 @@ fe80::1%lo0		localhost
 0.0.0.0	helios.gamerdna.com
 0.0.0.0	www.gamesonlinee.com
 0.0.0.0	apex.gamespot.com
+0.0.0.0	gamesrevenu24.com
 0.0.0.0	engine.gamesrevenue.com
 0.0.0.0	ln.gamesrevenue.com
 0.0.0.0	t.gameyule.com
@@ -2457,6 +2468,7 @@ fe80::1%lo0		localhost
 0.0.0.0	js.hs-scripts.com
 0.0.0.0	sender.hstpnetwork.com
 0.0.0.0	www.hstpnetwork.com
+0.0.0.0	htamaster.com
 0.0.0.0	www.htrprrrtrwrc.com
 0.0.0.0	track.hubspot.com
 0.0.0.0	stat.hudong.com
@@ -3535,6 +3547,8 @@ fe80::1%lo0		localhost
 0.0.0.0	pippio.com
 0.0.0.0	pixellitomedia.com
 0.0.0.0	go.pixellitomedia.com
+0.0.0.0	cdn.pixfuture.com
+0.0.0.0	served-by.pixfuture.com
 0.0.0.0	www.pjtra.com
 0.0.0.0	pkpojhc.com
 0.0.0.0	plaxo.com
@@ -3944,6 +3958,8 @@ fe80::1%lo0		localhost
 0.0.0.0	secure-assets.rubiconproject.com
 0.0.0.0	tap-cdn.rubiconproject.com
 0.0.0.0	video-ads.rubiconproject.com
+0.0.0.0	run-syndicate.com
+0.0.0.0	cdn.runative-syndicate.com
 0.0.0.0	media1.runetki.com
 0.0.0.0	tools.runetki.com
 0.0.0.0	p.rx22dc.com
@@ -4394,6 +4410,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.theadgateway.com
 0.0.0.0	go.theadsnet.com
 0.0.0.0	j.theadsnet.com
+0.0.0.0	thebestgame2020.com
 0.0.0.0	thebflix.com
 0.0.0.0	s.thebrighttag.com
 0.0.0.0	www.theconsumerstandard.com
@@ -4805,6 +4822,7 @@ fe80::1%lo0		localhost
 0.0.0.0	td.vs3.com
 0.0.0.0	vube.com
 0.0.0.0	vudsy.com
+0.0.0.0	vulcan-phi.com
 0.0.0.0	www.vvgttgprssiy.com
 0.0.0.0	secure.vxsbill.com
 0.0.0.0	www.w3counter.com
@@ -4836,6 +4854,7 @@ fe80::1%lo0		localhost
 0.0.0.0	s.webtrends.com
 0.0.0.0	statse.webtrendslive.com
 0.0.0.0	webvaseo.com
+0.0.0.0	cherry.webvole.com
 0.0.0.0	promos.wegcash.com
 0.0.0.0	wepmmzpypfwq.com
 0.0.0.0	www.wepmmzpypfwq.com
@@ -5297,6 +5316,7 @@ fe80::1%lo0		localhost
 0.0.0.0	askarer.info
 0.0.0.0	asmosi.info
 0.0.0.0	astrocreative.info
+0.0.0.0	atedgloridebi.info
 0.0.0.0	bannertrack.info
 0.0.0.0	bbwbonanza.info
 0.0.0.0	bdatero.info
@@ -5329,6 +5349,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ditement.info
 0.0.0.0	djiboutdifficial.info
 0.0.0.0	downlloadfiles.info
+0.0.0.0	dskyseconomic.info
 0.0.0.0	dunellengez.info
 0.0.0.0	educing.info
 0.0.0.0	elanatality.info
@@ -5738,6 +5759,8 @@ fe80::1%lo0		localhost
 0.0.0.0	imp.sndkorea.co.kr
 0.0.0.0	ad.tpmn.co.kr
 0.0.0.0	adimg.wisenut.co.kr
+0.0.0.0	eas.yna.co.kr
+0.0.0.0	ad.yonhapnews.co.kr
 0.0.0.0	i.iabout.kr
 0.0.0.0	ad.orkr.kr
 0.0.0.0	img.users.51.la
@@ -5751,6 +5774,7 @@ fe80::1%lo0		localhost
 0.0.0.0	route.carambo.la
 0.0.0.0	xtr.carambo.la
 0.0.0.0	inte.la
+0.0.0.0	hentaifap.land
 0.0.0.0	ad.kau.li
 0.0.0.0	clk.kau.li
 0.0.0.0	js.kau.li
@@ -5999,6 +6023,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pdev.chartbeat.net
 0.0.0.0	ping.chartbeat.net
 0.0.0.0	upnow2app.checkfreeupdates.net
+0.0.0.0	cherryescort.net
 0.0.0.0	amm.chitika.net
 0.0.0.0	cdn.chitika.net
 0.0.0.0	mm.chitika.net
@@ -6230,6 +6255,7 @@ fe80::1%lo0		localhost
 0.0.0.0	rss.hotidols.net
 0.0.0.0	js.hs-analytics.net
 0.0.0.0	metric-agent.i10c.net
+0.0.0.0	ideliv.net
 0.0.0.0	ccimages.ifriends.net
 0.0.0.0	images.ifriends.net
 0.0.0.0	www.ifriends.net
@@ -6372,6 +6398,7 @@ fe80::1%lo0		localhost
 0.0.0.0	medianet-d.openx.net
 0.0.0.0	monkey-broker-d.openx.net
 0.0.0.0	os4m-d.openx.net
+0.0.0.0	pixfuture2-d.openx.net
 0.0.0.0	propermedia-d.openx.net
 0.0.0.0	r.openx.net
 0.0.0.0	rtb.openx.net
@@ -6915,6 +6942,7 @@ fe80::1%lo0		localhost
 0.0.0.0	bcvcrdr1.site
 0.0.0.0	big-wave.site
 0.0.0.0	v.checkinglinks.site
+0.0.0.0	courselfnorter.site
 0.0.0.0	filadmir.site
 0.0.0.0	www.gelane.site
 0.0.0.0	imagespicy.site
@@ -6972,6 +7000,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www9.watchmygf.to
 0.0.0.0	7t15ny0f4f.top
 0.0.0.0	bestcontentcompany.top
+0.0.0.0	a.bestcontentfee.top
 0.0.0.0	a.bestcontentfood.top
 0.0.0.0	bestcontentsoftware.top
 0.0.0.0	fingahvf.top
