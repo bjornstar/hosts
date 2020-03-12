@@ -1772,6 +1772,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.dchnguasrxubf.com
 0.0.0.0	2.dcxmy.com
 0.0.0.0	img0.dditscdn.com
+0.0.0.0	research.de.com
 0.0.0.0	de17a.com
 0.0.0.0	d5p.de17a.com
 0.0.0.0	www.dealcent.com
@@ -3401,6 +3402,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.oouggjayokzx.com
 0.0.0.0	l.ooyala.com
 0.0.0.0	opf.ooyala.com
+0.0.0.0	tagger.opecloud.com
+0.0.0.0	profiles.tagger.opecloud.com
 0.0.0.0	filter.opencoastmediallc.com
 0.0.0.0	anvil.opentok.com
 0.0.0.0	api.opentok.com
@@ -4407,6 +4410,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.terrapush.com
 0.0.0.0	tewla.com
 0.0.0.0	thausredmsmt.com
+0.0.0.0	dmp.theadex.com
 0.0.0.0	www.theadgateway.com
 0.0.0.0	go.theadsnet.com
 0.0.0.0	j.theadsnet.com
@@ -5200,6 +5204,10 @@ fe80::1%lo0		localhost
 0.0.0.0	www1.belboon.de
 0.0.0.0	rc.rtl.btt.betarget.de
 0.0.0.0	e-wolff-tools.de
+0.0.0.0	cdn.emetriq.de
+0.0.0.0	dyn.emetriq.de
+0.0.0.0	static.emsservice.de
+0.0.0.0	traffic.emsservice.de
 0.0.0.0	flirtcafe.de
 0.0.0.0	tracking-opi.fonpit.de
 0.0.0.0	partner.gonamic.de
@@ -5213,6 +5221,7 @@ fe80::1%lo0		localhost
 0.0.0.0	imgserv.sponsorads.de
 0.0.0.0	www.sponsorads.de
 0.0.0.0	ads2007.treiberupdate.de
+0.0.0.0	ups.xplosion.de
 0.0.0.0	www.greatplanvideopsky.download
 0.0.0.0	porngay.download
 0.0.0.0	rtr24adc.download
@@ -5541,6 +5550,9 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.zoglafi.info
 0.0.0.0	sync.1rx.io
 0.0.0.0	tag.1rx.io
+0.0.0.0	dmpstorage.adalliance.io
+0.0.0.0	mafo.adalliance.io
+0.0.0.0	optout.adalliance.io
 0.0.0.0	airbrake.io
 0.0.0.0	arc.io
 0.0.0.0	core.arc.io
@@ -6327,6 +6339,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.mediatow.net
 0.0.0.0	mediawhirl.net
 0.0.0.0	s.meebocdn.net
+0.0.0.0	meetrics.net
 0.0.0.0	omniture.secure.miisolutions.net
 0.0.0.0	www.milkytube.net
 0.0.0.0	as.mmngte.net
@@ -6341,6 +6354,7 @@ fe80::1%lo0		localhost
 0.0.0.0	az413505.vo.msecnd.net
 0.0.0.0	az416426.vo.msecnd.net
 0.0.0.0	az708531.vo.msecnd.net
+0.0.0.0	mxcdn.net
 0.0.0.0	rbp.mxptint.net
 0.0.0.0	www.mydownloader.net
 0.0.0.0	hello.myfonts.net
@@ -6519,6 +6533,8 @@ fe80::1%lo0		localhost
 0.0.0.0	an.tacoda.net
 0.0.0.0	anrtx.tacoda.net
 0.0.0.0	techfocusmedia.net
+0.0.0.0	technical-service.net
+0.0.0.0	te.technical-service.net
 0.0.0.0	cs.tekblue.net
 0.0.0.0	s149.thesearchagency.net
 0.0.0.0	theson.net
@@ -6600,6 +6616,7 @@ fe80::1%lo0		localhost
 0.0.0.0	share.yandex.net
 0.0.0.0	yastatic.net
 0.0.0.0	www.yceml.net
+0.0.0.0	ad.yieldlab.net
 0.0.0.0	ci.beap.ad.yieldmanager.net
 0.0.0.0	csc.beap.ad.yieldmanager.net
 0.0.0.0	open.ad.yieldmanager.net
