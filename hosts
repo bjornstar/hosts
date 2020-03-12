@@ -72,6 +72,7 @@ fe80::1%lo0		localhost
 0.0.0.0	s.vdo.ai
 0.0.0.0	track.vdo.ai
 0.0.0.0	sportzone.do.am
+0.0.0.0	tru.am
 0.0.0.0	beacon.tru.am
 0.0.0.0	wejkrkje.blogspot.com.ar
 0.0.0.0	ad-m.asia
@@ -2954,6 +2955,7 @@ fe80::1%lo0		localhost
 0.0.0.0	richmedia-cdn.localstars.com
 0.0.0.0	lockerdome.com
 0.0.0.0	cdn2.lockerdome.com
+0.0.0.0	cdn2.lockerdomecdn.com
 0.0.0.0	hosting.lockhosts.com
 0.0.0.0	locnuocro.com
 0.0.0.0	l.longtailvideo.com
@@ -3697,6 +3699,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.ptp22.com
 0.0.0.0	pttsite.com
 0.0.0.0	go.pub2srv.com
+0.0.0.0	main.pubexchange.com
 0.0.0.0	pubmatic.com
 0.0.0.0	ads.pubmatic.com
 0.0.0.0	image2.pubmatic.com
@@ -3790,6 +3793,7 @@ fe80::1%lo0		localhost
 0.0.0.0	geo.api.qualaroo.com
 0.0.0.0	geo.qualaroo.com
 0.0.0.0	siteintercept.qualtrics.com
+0.0.0.0	quanta-wave.com
 0.0.0.0	www.quantcast.com
 0.0.0.0	rules.quantcount.com
 0.0.0.0	quantserve.com
@@ -3828,6 +3832,7 @@ fe80::1%lo0		localhost
 0.0.0.0	rbmijhdvh.com
 0.0.0.0	www.rbmijhdvh.com
 0.0.0.0	rcemsoiyil.com
+0.0.0.0	rddywd.com
 0.0.0.0	rdmntry.com
 0.0.0.0	ssp-2922-imps.rdrcti.com
 0.0.0.0	reacherinst.com
@@ -5839,7 +5844,11 @@ fe80::1%lo0		localhost
 0.0.0.0	wavo.me
 0.0.0.0	zotabox.me
 0.0.0.0	xml.kds.media
+0.0.0.0	mixi.media
+0.0.0.0	static.mixi.media
+0.0.0.0	target.mixi.media
 0.0.0.0	dspfeed.soda.media
+0.0.0.0	stat.media
 0.0.0.0	adultswishvideo.men
 0.0.0.0	partner-net.men
 0.0.0.0	pronlife.men
