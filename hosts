@@ -1449,6 +1449,7 @@ fe80::1%lo0		localhost
 0.0.0.0	http.cdnlayer.com
 0.0.0.0	cdn77.cdnplanet.com
 0.0.0.0	a1.cdnprk.com
+0.0.0.0	b.cdsbnrs.com
 0.0.0.0	probes.cedexis.com
 0.0.0.0	radar.cedexis.com
 0.0.0.0	radartumblr.cedexis.com
@@ -1761,6 +1762,7 @@ fe80::1%lo0		localhost
 0.0.0.0	czilladx.com
 0.0.0.0	serve.czilladx.com
 0.0.0.0	d29gqcij.com
+0.0.0.0	d72gb9oukw3j.com
 0.0.0.0	www.dailomo.com
 0.0.0.0	mc.dailymotion.com
 0.0.0.0	darish-drustents.com
@@ -2489,6 +2491,8 @@ fe80::1%lo0		localhost
 0.0.0.0	cps.huowan.com
 0.0.0.0	hvmimwpe.com
 0.0.0.0	www.hvmimwpe.com
+0.0.0.0	hxnamjcrawpe.com
+0.0.0.0	www.hxnamjcrawpe.com
 0.0.0.0	www.hyperfbtraffic.com
 0.0.0.0	static.hyperfree.com
 0.0.0.0	hyperobot.com
@@ -2747,6 +2751,7 @@ fe80::1%lo0		localhost
 0.0.0.0	jiycfyytg.com
 0.0.0.0	www.jiycfyytg.com
 0.0.0.0	t.jjack56.com
+0.0.0.0	www.jkjkeithc.com
 0.0.0.0	jnnjnuyiic.com
 0.0.0.0	www.jnnjnuyiic.com
 0.0.0.0	static.jobthread.com
@@ -3007,6 +3012,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pixel.madadsmedia.com
 0.0.0.0	www.madcpms.com
 0.0.0.0	sync.madnetx.com
+0.0.0.0	madspmz.com
 0.0.0.0	maebtjn.com
 0.0.0.0	www.maebtjn.com
 0.0.0.0	facebook.mafiawars.com
@@ -3038,6 +3044,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.mb01.com
 0.0.0.0	secure.mbcontact.com
 0.0.0.0	www.mcafeesecure.com
+0.0.0.0	mcdlks.com
 0.0.0.0	mctqz.com
 0.0.0.0	t.mdn2015x1.com
 0.0.0.0	t.mdn2015x2.com
@@ -3080,8 +3087,10 @@ fe80::1%lo0		localhost
 0.0.0.0	mellowads.com
 0.0.0.0	banners.mellowads.com
 0.0.0.0	memesvault.com
+0.0.0.0	meowpushnot.com
 0.0.0.0	messardu.com
 0.0.0.0	static.meteorsolutions.com
+0.0.0.0	metosk.com
 0.0.0.0	metro-retour-no.com
 0.0.0.0	stats.mezzobit.com
 0.0.0.0	mgcash.com
@@ -3333,6 +3342,7 @@ fe80::1%lo0		localhost
 0.0.0.0	hcg-ultra.cbsnews.archives.bcac.nsbcb.com
 0.0.0.0	n33.nsmartad.com
 0.0.0.0	n76.nsmartad.com
+0.0.0.0	ntvsw.com
 0.0.0.0	ad.nu99.com
 0.0.0.0	nutlekuainya.com
 0.0.0.0	www.nutlekuainya.com
@@ -6055,6 +6065,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.chitika.net
 0.0.0.0	mm.chitika.net
 0.0.0.0	scripts.chitika.net
+0.0.0.0	ciksolre.net
 0.0.0.0	register.cinematrix.net
 0.0.0.0	cache-02.cleanprint.net
 0.0.0.0	click-cpa.net
@@ -6785,6 +6796,7 @@ fe80::1%lo0		localhost
 0.0.0.0	1zlyetcck7klyuy9.pro
 0.0.0.0	abrts.pro
 0.0.0.0	a4p.adpartner.pro
+0.0.0.0	afshanthough.pro
 0.0.0.0	ainess.pro
 0.0.0.0	asdfg.pro
 0.0.0.0	canonch.pro
