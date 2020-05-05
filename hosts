@@ -188,6 +188,8 @@ fe80::1%lo0		localhost
 0.0.0.0	optimizeadvert.biz
 0.0.0.0	poplink-f.probo.biz
 0.0.0.0	ro2.biz
+0.0.0.0	shoppinglifestyle.biz
+0.0.0.0	1.shoppinglifestyle.biz
 0.0.0.0	js.spacenine.biz
 0.0.0.0	surveywidget.biz
 0.0.0.0	trackpath.biz
@@ -217,6 +219,8 @@ fe80::1%lo0		localhost
 0.0.0.0	code1.2bj.cc
 0.0.0.0	tu9.3wk.cc
 0.0.0.0	www.ad2.cc
+0.0.0.0	adopdmp.adop.cc
+0.0.0.0	data.adop.cc
 0.0.0.0	fast-malware-scan.co.cc
 0.0.0.0	rellieanams.co.cc
 0.0.0.0	unijfkajh554.co.cc
@@ -921,6 +925,7 @@ fe80::1%lo0		localhost
 0.0.0.0	arena.altitude-arena.com
 0.0.0.0	cdn.altitude-arena.com
 0.0.0.0	vpc.altitude-arena.com
+0.0.0.0	alwsbnvialll.com
 0.0.0.0	alxsite.com
 0.0.0.0	ads.amakings.com
 0.0.0.0	adtools2.amakings.com
@@ -994,6 +999,10 @@ fe80::1%lo0		localhost
 0.0.0.0	site.answers.com
 0.0.0.0	www.answers.com
 0.0.0.0	gateway.answerscloud.com
+0.0.0.0	antiadblocksystems.com
+0.0.0.0	www.antiadblocksystems.com
+0.0.0.0	antirgiocub.com
+0.0.0.0	www.antirgiocub.com
 0.0.0.0	antivirus-scanner.com
 0.0.0.0	www.antivirus-scanner.com
 0.0.0.0	cdn5.anyclip.com
@@ -1036,7 +1045,9 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.apture.com
 0.0.0.0	l.apture.com
 0.0.0.0	www.apture.com
+0.0.0.0	ads.aralego.com
 0.0.0.0	hb.aralego.com
+0.0.0.0	sync.aralego.com
 0.0.0.0	www.arcadeweb.com
 0.0.0.0	ardmall.com
 0.0.0.0	areasnap.com
@@ -1396,6 +1407,7 @@ fe80::1%lo0		localhost
 0.0.0.0	adfile.caixin.com
 0.0.0.0	secure.calcch.com
 0.0.0.0	callmd5map.com
+0.0.0.0	www.caloriemania.com
 0.0.0.0	cdnads.cam4.com
 0.0.0.0	one.cam4ads.com
 0.0.0.0	camkiiis.com
@@ -1859,6 +1871,8 @@ fe80::1%lo0		localhost
 0.0.0.0	dollarade.com
 0.0.0.0	dolphinprofit.com
 0.0.0.0	domainmanager.com
+0.0.0.0	dombnrs.com
+0.0.0.0	b.dombnrs.com
 0.0.0.0	domdex.com
 0.0.0.0	f.domdex.com
 0.0.0.0	123.dominoad.com
@@ -2237,6 +2251,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ln.gamesrevenue.com
 0.0.0.0	t.gameyule.com
 0.0.0.0	free.gamingwonderland.com
+0.0.0.0	tag.gammaplatform.com
 0.0.0.0	my.gamtrck.com
 0.0.0.0	gamutely.com
 0.0.0.0	gate-ru.com
@@ -3131,6 +3146,7 @@ fe80::1%lo0		localhost
 0.0.0.0	chat3.mioot.com
 0.0.0.0	misslk.com
 0.0.0.0	b.misslk.com
+0.0.0.0	misspkl.com
 0.0.0.0	api.mixpanel.com
 0.0.0.0	mkzllhqhsgq.com
 0.0.0.0	www.mkzllhqhsgq.com
@@ -3978,6 +3994,7 @@ fe80::1%lo0		localhost
 0.0.0.0	rtunions.com
 0.0.0.0	rtunoin.com
 0.0.0.0	api.rtvrapi.com
+0.0.0.0	rtyznd.com
 0.0.0.0	edge.ru4.com
 0.0.0.0	d.xp1.ru4.com
 0.0.0.0	m.xp1.ru4.com
@@ -4565,6 +4582,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.transifex.com
 0.0.0.0	s1.translation-services-usa.com
 0.0.0.0	www.translation-services-usa.com
+0.0.0.0	www.travelmiso.com
 0.0.0.0	ad.travelocity.com
 0.0.0.0	dm.travelocity.com
 0.0.0.0	ettoday.travelrich.com
@@ -5875,6 +5893,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mixi.media
 0.0.0.0	static.mixi.media
 0.0.0.0	target.mixi.media
+0.0.0.0	floater.playstream.media
 0.0.0.0	dspfeed.soda.media
 0.0.0.0	stat.media
 0.0.0.0	adultswishvideo.men
@@ -6709,6 +6728,7 @@ fe80::1%lo0		localhost
 0.0.0.0	redwind.online
 0.0.0.0	servicepilot.online
 0.0.0.0	secure.systempush.online
+0.0.0.0	videox.online
 0.0.0.0	cdn1.winr.online
 0.0.0.0	engine.4chan-ads.org
 0.0.0.0	static.4chan-ads.org
@@ -7000,6 +7020,7 @@ fe80::1%lo0		localhost
 0.0.0.0	alicyclic1.site
 0.0.0.0	bcvcrdr1.site
 0.0.0.0	big-wave.site
+0.0.0.0	chairwaydenew.site
 0.0.0.0	v.checkinglinks.site
 0.0.0.0	courselfnorter.site
 0.0.0.0	filadmir.site
@@ -7007,6 +7028,7 @@ fe80::1%lo0		localhost
 0.0.0.0	imagespicy.site
 0.0.0.0	serving.imagespicy.site
 0.0.0.0	direct.redtrafficname.site
+0.0.0.0	symphoneupcom.site
 0.0.0.0	t.voltrk.site
 0.0.0.0	winsecurity.site
 0.0.0.0	toplist.sk
@@ -7145,6 +7167,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pub.sitetag.us
 0.0.0.0	track.sitetag.us
 0.0.0.0	mediab.uy
+0.0.0.0	log.trendingnow.video
 0.0.0.0	pixel.watch
 0.0.0.0	c2aquarelle.website
 0.0.0.0	c3archival.website
