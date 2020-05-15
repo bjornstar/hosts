@@ -1132,6 +1132,10 @@ fe80::1%lo0		localhost
 0.0.0.0	adson.awempire.com
 0.0.0.0	promo.awempire.com
 0.0.0.0	static.awempire.com
+0.0.0.0	galleryn0.awemwh.com
+0.0.0.0	galleryn1.awemwh.com
+0.0.0.0	galleryn2.awemwh.com
+0.0.0.0	galleryn3.awemwh.com
 0.0.0.0	awentw.com
 0.0.0.0	pt-static1.awestat.com
 0.0.0.0	www.awin1.com
@@ -1749,6 +1753,7 @@ fe80::1%lo0		localhost
 0.0.0.0	script.crazyegg.com
 0.0.0.0	ads.creafi-online-media.com
 0.0.0.0	ads.creative-serving.com
+0.0.0.0	crentgate.com
 0.0.0.0	criteo.com
 0.0.0.0	dis.as.criteo.com
 0.0.0.0	cas.jp.as.criteo.com
@@ -2511,6 +2516,7 @@ fe80::1%lo0		localhost
 0.0.0.0	vars.hotjar.com
 0.0.0.0	img.hotwords.com
 0.0.0.0	stats.hprofits.com
+0.0.0.0	hrahdmon.com
 0.0.0.0	t.hrtye.com
 0.0.0.0	js.hs-scripts.com
 0.0.0.0	sender.hstpnetwork.com
@@ -2804,6 +2810,10 @@ fe80::1%lo0		localhost
 0.0.0.0	jsmjmp.com
 0.0.0.0	jsmptjmp.com
 0.0.0.0	pt-static1.jsmstat.com
+0.0.0.0	pt-static2.jsmstat.com
+0.0.0.0	pt-static3.jsmstat.com
+0.0.0.0	pt-static4.jsmstat.com
+0.0.0.0	pt-static5.jsmstat.com
 0.0.0.0	static1.jsmstatic.com
 0.0.0.0	static2.jsmstatic.com
 0.0.0.0	static3.jsmstatic.com
@@ -2967,6 +2977,7 @@ fe80::1%lo0		localhost
 0.0.0.0	creatives.livejasmin.com
 0.0.0.0	static.creatives.livejasmin.com
 0.0.0.0	crpt.livejasmin.com
+0.0.0.0	crt.livejasmin.com
 0.0.0.0	live-cams-1.livejasmin.com
 0.0.0.0	www.livejasmin.com
 0.0.0.0	lively-strields.com
@@ -3388,6 +3399,7 @@ fe80::1%lo0		localhost
 0.0.0.0	hcg-ultra.cbsnews.archives.bcac.nsbcb.com
 0.0.0.0	n33.nsmartad.com
 0.0.0.0	n76.nsmartad.com
+0.0.0.0	www.ntdvjlvau.com
 0.0.0.0	ntvsw.com
 0.0.0.0	ad.nu99.com
 0.0.0.0	nutlekuainya.com
@@ -3456,6 +3468,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads.onemodelplace.com
 0.0.0.0	cdn.onesignal.com
 0.0.0.0	www.onestopdownloads.com
+0.0.0.0	cdn-apac.onetrust.com
 0.0.0.0	geolocation.onetrust.com
 0.0.0.0	go.oneund.com
 0.0.0.0	www.online-casinos-today.com
@@ -3752,6 +3765,7 @@ fe80::1%lo0		localhost
 0.0.0.0	core.propelplus.com
 0.0.0.0	track.propelplus.com
 0.0.0.0	propranok.com
+0.0.0.0	api-protected.protoawegw.com
 0.0.0.0	image.providesupport.com
 0.0.0.0	messenger.providesupport.com
 0.0.0.0	www.providesupport.com
