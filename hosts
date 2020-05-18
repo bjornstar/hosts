@@ -2100,6 +2100,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fadsips.com
 0.0.0.0	fadsoks.com
 0.0.0.0	www.fallingfalcon.com
+0.0.0.0	services.fandom.com
 0.0.0.0	welcome.faptitans.com
 0.0.0.0	cdn.welcome.faptitans.com
 0.0.0.0	stc.fx.fastcontentdelivery.com
@@ -4635,6 +4636,7 @@ fe80::1%lo0		localhost
 0.0.0.0	in.treasuredata.com
 0.0.0.0	tredirect.com
 0.0.0.0	c.trello.com
+0.0.0.0	ads.tremorhub.com
 0.0.0.0	partners.tremorhub.com
 0.0.0.0	cdna.tremormedia.com
 0.0.0.0	objects.tremormedia.com
@@ -4983,6 +4985,8 @@ fe80::1%lo0		localhost
 0.0.0.0	geoiplookup.wikia.com
 0.0.0.0	images.wikia.com
 0.0.0.0	liftium.wikia.com
+0.0.0.0	origin-images.wikia.com
+0.0.0.0	services.wikia.com
 0.0.0.0	a.wikia-beacon.com
 0.0.0.0	beacon.wikia-services.com
 0.0.0.0	www.wikplayer.com
