@@ -64,6 +64,12 @@ fe80::1%lo0		localhost
 #0.0.0.0	edge.api.brightcove.com
 # https://github.com/bjornstar/hosts/issues/12
 #0.0.0.0	fast.wistia.com
+# https://github.com/bjornstar/hosts/issues/14
+#0.0.0.0	livestream.com
+# https://github.com/bjornstar/hosts/issues/15
+#0.0.0.0	yastatic.net
+# Used by Microsoft Edge news feed
+#0.0.0.0	img-s-msn-com.akamaized.net
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -2595,6 +2601,7 @@ fe80::1%lo0		localhost
 0.0.0.0	lp.imesh.com
 0.0.0.0	support.imesh.com
 0.0.0.0	www.imesh.com
+0.0.0.0	img.img-taboola.com
 0.0.0.0	www.img.img39.com
 0.0.0.0	js.adm.img53.com
 0.0.0.0	flash.img74.com
@@ -2991,7 +2998,6 @@ fe80::1%lo0		localhost
 0.0.0.0	t4.liverail.com
 0.0.0.0	vox-static.liverail.com
 0.0.0.0	livestatisc.com
-0.0.0.0	livestream.com
 0.0.0.0	analytics.livestream.com
 0.0.0.0	content.liveuniverse.com
 0.0.0.0	admediacdn.liveuniversenetwork.com
@@ -3252,11 +3258,13 @@ fe80::1%lo0		localhost
 0.0.0.0	analytics.msn.com
 0.0.0.0	c.msn.com
 0.0.0.0	flex.msn.com
+0.0.0.0	otf.msn.com
 0.0.0.0	0.r.msn.com
 0.0.0.0	2545465.r.msn.com
 0.0.0.0	rad.msn.com
 0.0.0.0	fd.rad.msn.com
 0.0.0.0	sam.msn.com
+0.0.0.0	srtb.msn.com
 0.0.0.0	udc.msn.com
 0.0.0.0	c.msparktrk.com
 0.0.0.0	api.mspoke.com
@@ -3525,10 +3533,12 @@ fe80::1%lo0		localhost
 0.0.0.0	www.orgvevacxlinrr.com
 0.0.0.0	ossdqciz.com
 0.0.0.0	www.ossdqciz.com
+0.0.0.0	outbrain.com
 0.0.0.0	amplify.outbrain.com
 0.0.0.0	amplifypixel.outbrain.com
 0.0.0.0	mcdp-sadc1.outbrain.com
 0.0.0.0	odb.outbrain.com
+0.0.0.0	stas.outbrain.com
 0.0.0.0	tr.outbrain.com
 0.0.0.0	widgets.outbrain.com
 0.0.0.0	images.outbrainimg.com
@@ -4429,10 +4439,13 @@ fe80::1%lo0		localhost
 0.0.0.0	szlkqxlkcz.com
 0.0.0.0	t3q7af0z.com
 0.0.0.0	js.ta80.com
+0.0.0.0	taboola.com
+0.0.0.0	api.taboola.com
 0.0.0.0	api-s2s.taboola.com
 0.0.0.0	cdn.taboola.com
 0.0.0.0	images.taboola.com
 0.0.0.0	netstorage.taboola.com
+0.0.0.0	sg-trc-events.taboola.com
 0.0.0.0	trc.taboola.com
 0.0.0.0	vidstat.taboola.com
 0.0.0.0	cdn.taboolasyndication.com
@@ -5247,7 +5260,10 @@ fe80::1%lo0		localhost
 0.0.0.0	xp2.zedo.com
 0.0.0.0	yads.zedo.com
 0.0.0.0	zedplays.com
+0.0.0.0	zemanta.com
+0.0.0.0	b1-sadc1.zemanta.com
 0.0.0.0	b1sync.zemanta.com
+0.0.0.0	b1t-sadc1.zemanta.com
 0.0.0.0	img.zemanta.com
 0.0.0.0	static.zemanta.com
 0.0.0.0	t.zemanta.com
@@ -6091,7 +6107,6 @@ fe80::1%lo0		localhost
 0.0.0.0	amp.akamaized.net
 0.0.0.0	cdn-adef.akamaized.net
 0.0.0.0	cdn-aimi.akamaized.net
-0.0.0.0	img-s-msn-com.akamaized.net
 0.0.0.0	alcobro.net
 0.0.0.0	bmp.ali213.net
 0.0.0.0	www.all-pages.net
@@ -6387,6 +6402,7 @@ fe80::1%lo0		localhost
 0.0.0.0	imgaaa.net
 0.0.0.0	imgddd.net
 0.0.0.0	imgeee.net
+0.0.0.0	zemanta.imgix.net
 0.0.0.0	impressionsme.net
 0.0.0.0	impressionwidget.net
 0.0.0.0	innovyx.net
@@ -6726,7 +6742,6 @@ fe80::1%lo0		localhost
 0.0.0.0	adserver.xpanama.net
 0.0.0.0	track.xuite.net
 0.0.0.0	share.yandex.net
-0.0.0.0	yastatic.net
 0.0.0.0	www.yceml.net
 0.0.0.0	ad.yieldlab.net
 0.0.0.0	ci.beap.ad.yieldmanager.net
