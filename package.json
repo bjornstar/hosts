@@ -1,6 +1,6 @@
 {
   "name": "@bjornstar/hosts",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "My hosts file, filled with advertisers and other purveyors of worthless content.",
   "main": "index.js",
   "scripts": {
@@ -20,9 +20,9 @@
   },
   "homepage": "https://github.com/bjornstar/hosts#readme",
   "devDependencies": {
-    "eslint": "^6.8.0"
+    "eslint": "^7.0.0"
   },
   "dependencies": {
-    "is-wsl": "^2.1.1"
+    "is-wsl": "^2.2.0"
   }
 }
