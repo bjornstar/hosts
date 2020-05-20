@@ -70,6 +70,8 @@ fe80::1%lo0		localhost
 #0.0.0.0	yastatic.net
 # Used by Microsoft Edge news feed
 #0.0.0.0	img-s-msn-com.akamaized.net
+# https://github.com/bjornstar/hosts/issues/16
+#0.0.0.0	reg34.smp.ne.jp
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -363,6 +365,7 @@ fe80::1%lo0		localhost
 0.0.0.0	analytics.mailmunch.co
 0.0.0.0	forms.mailmunch.co
 0.0.0.0	api2.mobverify.co
+0.0.0.0	aka.ms-ads.co
 0.0.0.0	p220333.mycdn.co
 0.0.0.0	www.niajmtjqexq.co
 0.0.0.0	ouslayer.co
@@ -5841,7 +5844,6 @@ fe80::1%lo0		localhost
 0.0.0.0	evup.cybertrust.ne.jp
 0.0.0.0	trusted-web-seal.cybertrust.ne.jp
 0.0.0.0	x5.goo.ne.jp
-0.0.0.0	reg34.smp.ne.jp
 0.0.0.0	vcentry2.valuecommerce.ne.jp
 0.0.0.0	js.ptengine.jp
 0.0.0.0	js.rtoaster.jp
