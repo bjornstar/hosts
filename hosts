@@ -466,6 +466,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mmscode1.3bu.com
 0.0.0.0	3cnce854.com
 0.0.0.0	r1.3crowd.com
+0.0.0.0	dmpsync.3lift.com
 0.0.0.0	eb2.3lift.com
 0.0.0.0	ib.3lift.com
 0.0.0.0	tlx.3lift.com
@@ -3037,6 +3038,7 @@ fe80::1%lo0		localhost
 0.0.0.0	live-cams-1.livejasmin.com
 0.0.0.0	www.livejasmin.com
 0.0.0.0	lively-strields.com
+0.0.0.0	static-assets.dev.fs.liveperson.com
 0.0.0.0	ad3.liverail.com
 0.0.0.0	ad4.liverail.com
 0.0.0.0	adse-2.liverail.com
@@ -4431,6 +4433,7 @@ fe80::1%lo0		localhost
 0.0.0.0	srvpub.com
 0.0.0.0	api.stack-sonar.com
 0.0.0.0	www.stack-sonar.com
+0.0.0.0	sync.srv.stackadapt.com
 0.0.0.0	widgets.stackcommerce.com
 0.0.0.0	ads.stackoverflow.com
 0.0.0.0	clc.stackoverflow.com
@@ -4491,6 +4494,7 @@ fe80::1%lo0		localhost
 0.0.0.0	supprene.com
 0.0.0.0	supremeadsonline.com
 0.0.0.0	static.supuv2.com
+0.0.0.0	px.surveywall-api.survata.com
 0.0.0.0	5j7zz.reward-zone.surveryquicker.com
 0.0.0.0	www.surveyspaid.com
 0.0.0.0	www.suxiu121.com
@@ -6332,6 +6336,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fast.dm.demdex.net
 0.0.0.0	dpm.demdex.net
 0.0.0.0	error.demdex.net
+0.0.0.0	mscom.demdex.net
 0.0.0.0	mtvn.demdex.net
 0.0.0.0	fast.mtvn.demdex.net
 0.0.0.0	wellsfargobankna.demdex.net
@@ -6414,6 +6419,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ovms.enswer.net
 0.0.0.0	ad.ettoday.net
 0.0.0.0	ox.eurogamer.net
+0.0.0.0	ats.everesttech.net
 0.0.0.0	cm.everesttech.net
 0.0.0.0	pixel.everesttech.net
 0.0.0.0	sync-tm.everesttech.net
@@ -6525,7 +6531,10 @@ fe80::1%lo0		localhost
 0.0.0.0	linkshrink.net
 0.0.0.0	blogroll.livedoor.net
 0.0.0.0	server.iad.liveperson.net
+0.0.0.0	lptag.liveperson.net
+0.0.0.0	publisher.liveperson.net
 0.0.0.0	sales.liveperson.net
+0.0.0.0	va.v.liveperson.net
 0.0.0.0	ad.lkqd.net
 0.0.0.0	cs.lkqd.net
 0.0.0.0	ssp.lkqd.net
@@ -6535,6 +6544,8 @@ fe80::1%lo0		localhost
 0.0.0.0	tealium.hs.llnwd.net
 0.0.0.0	taunk.vo.llnwd.net
 0.0.0.0	ytaahg.vo.llnwd.net
+0.0.0.0	accdn.lpsnmedia.net
+0.0.0.0	lpcdn.lpsnmedia.net
 0.0.0.0	jp-axia-fluct.m0mentum.net
 0.0.0.0	api.m30w.net
 0.0.0.0	munchkin.marketo.net
