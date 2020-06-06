@@ -71,6 +71,8 @@ fe80::1%lo0		localhost
 #0.0.0.0	img-s-msn-com.akamaized.net
 # https://github.com/bjornstar/hosts/issues/16
 #0.0.0.0	reg34.smp.ne.jp
+# https://github.com/bjornstar/hosts/issues/17
+# 0.0.0.0	a-0001.a-msedge.net
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -1394,6 +1396,8 @@ fe80::1%lo0		localhost
 0.0.0.0	p.brilig.com
 0.0.0.0	api.briteverify.com
 0.0.0.0	bpi.briteverify.com
+0.0.0.0	ad.broadstreetads.com
+0.0.0.0	cdn.broadstreetads.com
 0.0.0.0	bromson.com
 0.0.0.0	browsergames2018.com
 0.0.0.0	browsergames2019.com
@@ -1490,6 +1494,7 @@ fe80::1%lo0		localhost
 0.0.0.0	flv.sales.cbs.com
 0.0.0.0	cbsfcpciitwcky.com
 0.0.0.0	www.cbsfcpciitwcky.com
+0.0.0.0	at.cbsi.com
 0.0.0.0	dw.cbsi.com
 0.0.0.0	i.i.cbsi.com
 0.0.0.0	production-cmp.isgprivacy.cbsi.com
@@ -1866,6 +1871,7 @@ fe80::1%lo0		localhost
 0.0.0.0	leads.demandbase.com
 0.0.0.0	scripts.demandbase.com
 0.0.0.0	tag.demandbase.com
+0.0.0.0	dentacoins.com
 0.0.0.0	c.robo.departapp.com
 0.0.0.0	tracker.departapp.com
 0.0.0.0	c.deployads.com
@@ -1956,6 +1962,7 @@ fe80::1%lo0		localhost
 0.0.0.0	downloatransfer.com
 0.0.0.0	cm.dpclk.com
 0.0.0.0	drdoms.com
+0.0.0.0	dream1well.com
 0.0.0.0	dreamtryst.com
 0.0.0.0	ads.drf-global.com
 0.0.0.0	customer.api.drift.com
@@ -3145,6 +3152,7 @@ fe80::1%lo0		localhost
 0.0.0.0	imgg.marketgid.com
 0.0.0.0	www.marketgid.com
 0.0.0.0	app-ab05.marketo.com
+0.0.0.0	app-ab25.marketo.com
 0.0.0.0	app-sj05.marketo.com
 0.0.0.0	mashlogic.com
 0.0.0.0	tc.mashlogic.com
@@ -4361,6 +4369,10 @@ fe80::1%lo0		localhost
 0.0.0.0	www3.smartadserver.com
 0.0.0.0	www9.smartadserver.com
 0.0.0.0	smartcj.com
+0.0.0.0	server.smartsupp.com
+0.0.0.0	widget-v1.smartsuppcdn.com
+0.0.0.0	bootstrap.smartsuppchat.com
+0.0.0.0	www.smartsuppchat.com
 0.0.0.0	d.smopy.com
 0.0.0.0	ad.smowtion.com
 0.0.0.0	ads.smowtion.com
@@ -6158,7 +6170,6 @@ fe80::1%lo0		localhost
 0.0.0.0	4-you.net
 0.0.0.0	www.5221.net
 0.0.0.0	image.52bt.net
-0.0.0.0	a-0001.a-msedge.net
 0.0.0.0	www.a135.net
 0.0.0.0	js.a3p4.net
 0.0.0.0	px.a8.net
