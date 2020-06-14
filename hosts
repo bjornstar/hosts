@@ -73,6 +73,8 @@ fe80::1%lo0		localhost
 #0.0.0.0	reg34.smp.ne.jp
 # https://github.com/bjornstar/hosts/issues/17
 # 0.0.0.0	a-0001.a-msedge.net
+# Washington Post Ad Block Detector
+#0.0.0.0	d2ty8gaf6rmowa.cloudfront.net
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -554,6 +556,7 @@ fe80::1%lo0		localhost
 0.0.0.0	dcinfos.abtasty.com
 0.0.0.0	try.abtasty.com
 0.0.0.0	reg.accelacomm.com
+0.0.0.0	acdcdn.com
 0.0.0.0	acidpigs.com
 0.0.0.0	acknowing.com
 0.0.0.0	aclickads.com
@@ -1081,6 +1084,7 @@ fe80::1%lo0		localhost
 0.0.0.0	crwscdn.appspot.com
 0.0.0.0	crwscdn9.appspot.com
 0.0.0.0	ima3vpaid.appspot.com
+0.0.0.0	socio-1267.appspot.com
 0.0.0.0	cdn.apture.com
 0.0.0.0	l.apture.com
 0.0.0.0	www.apture.com
@@ -1241,6 +1245,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.benaughty.com
 0.0.0.0	best2019-games-web1.com
 0.0.0.0	bestadbid.com
+0.0.0.0	www.bestdisplayformats.com
 0.0.0.0	www.bestgamerz.com
 0.0.0.0	besthitsnow.com
 0.0.0.0	www.besthitsnow.com
@@ -1751,6 +1756,8 @@ fe80::1%lo0		localhost
 0.0.0.0	media.contextweb.com
 0.0.0.0	tag.contextweb.com
 0.0.0.0	continuityaffiliates.com
+0.0.0.0	app.convertkit.com
+0.0.0.0	f.convertkit.com
 0.0.0.0	livepass.conviva.com
 0.0.0.0	livepassd2.conviva.com
 0.0.0.0	livepassdl.conviva.com
@@ -2291,6 +2298,7 @@ fe80::1%lo0		localhost
 0.0.0.0	assets.freshdesk.com
 0.0.0.0	freshlinkx.com
 0.0.0.0	cdn.freshmarketer.com
+0.0.0.0	src.freshmarketer.com
 0.0.0.0	www.freshwap.com
 0.0.0.0	friendfinder.com
 0.0.0.0	banners.friendfinder.com
@@ -2831,6 +2839,8 @@ fe80::1%lo0		localhost
 0.0.0.0	clicks.istripper.com
 0.0.0.0	statica.istripper.com
 0.0.0.0	www.istripper.com
+0.0.0.0	iteratehq.com
+0.0.0.0	platform.iteratehq.com
 0.0.0.0	bs.itopnetworks.com
 0.0.0.0	d.itopnetworks.com
 0.0.0.0	s.itopnetworks.com
@@ -3542,8 +3552,10 @@ fe80::1%lo0		localhost
 0.0.0.0	www.omniture.com
 0.0.0.0	www.on2url.com
 0.0.0.0	go.onclasrv.com
+0.0.0.0	onclickgenius.com
 0.0.0.0	www.onclickmax.com
 0.0.0.0	onclickmega.com
+0.0.0.0	onclickperformance.com
 0.0.0.0	www.onclickprediction.com
 0.0.0.0	onclicksuper.com
 0.0.0.0	onclicktop.com
@@ -3776,6 +3788,7 @@ fe80::1%lo0		localhost
 0.0.0.0	speed.pointroll.com
 0.0.0.0	www.pokerstars.com
 0.0.0.0	meraxes-cdn.polarmobile.com
+0.0.0.0	polldaddy.com
 0.0.0.0	i.polldaddy.com
 0.0.0.0	static.polldaddy.com
 0.0.0.0	pop-rev.com
@@ -3920,6 +3933,8 @@ fe80::1%lo0		localhost
 0.0.0.0	pl3860429.puserving.com
 0.0.0.0	pushame.com
 0.0.0.0	pushance.com
+0.0.0.0	api.pushbullet.com
+0.0.0.0	widget.pushbullet.com
 0.0.0.0	pushcrew.com
 0.0.0.0	cdn.pushcrew.com
 0.0.0.0	pushlat.com
@@ -4322,6 +4337,7 @@ fe80::1%lo0		localhost
 0.0.0.0	smetrics.shinseibank.com
 0.0.0.0	www.shooshmedia.com
 0.0.0.0	shop-secure68.com
+0.0.0.0	tracking.shopback.com
 0.0.0.0	sdks.shopifycdn.com
 0.0.0.0	monorail-edge.shopifysvc.com
 0.0.0.0	adserve.shopzilla.com
@@ -5066,11 +5082,13 @@ fe80::1%lo0		localhost
 0.0.0.0	wahoha.com
 0.0.0.0	walternsa.com
 0.0.0.0	warthunder.com
+0.0.0.0	smetrics.washingtonpost.com
 0.0.0.0	ads.wayofthejedi.com
 0.0.0.0	www.wdcxuezpxivqgmecukeirnsyhjpjoqdqfdtchquwyqatlwxtgq.com
 0.0.0.0	www.wearefreeuynik.com
 0.0.0.0	ads.webcamclub.com
 0.0.0.0	photos.webcamclub.com
+0.0.0.0	scripts.webcontentassessor.com
 0.0.0.0	www.webglearth.com
 0.0.0.0	ads.webmd.com
 0.0.0.0	as.webmd.com
@@ -5357,6 +5375,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.z5x.com
 0.0.0.0	mb.zam.com
 0.0.0.0	ad.zanox.com
+0.0.0.0	cdn.zarget.com
 0.0.0.0	ct1.zashiki.com
 0.0.0.0	zbcsmoopwqyze.com
 0.0.0.0	zbecpoboc.com
@@ -5866,6 +5885,7 @@ fe80::1%lo0		localhost
 0.0.0.0	static.userback.io
 0.0.0.0	horusii.vemba.io
 0.0.0.0	videos-by.vemba.io
+0.0.0.0	propensity.perso.washpost.io
 0.0.0.0	ww38.webtesting.io
 0.0.0.0	wurfl.io
 0.0.0.0	e2e-static.zdcommerce.io
@@ -6059,6 +6079,7 @@ fe80::1%lo0		localhost
 0.0.0.0	best8097.funteam100.live
 0.0.0.0	gocreamery.live
 0.0.0.0	www.lawlegal.live
+0.0.0.0	cdn.movie-pass.live
 0.0.0.0	bnc.lt
 0.0.0.0	gorodofanosa.ltd
 0.0.0.0	show.adclick.lv
@@ -6312,8 +6333,10 @@ fe80::1%lo0		localhost
 0.0.0.0	www.clickvalidator.net
 0.0.0.0	d10lv7w3g0jvk9.cloudfront.net
 0.0.0.0	d12bvws1ezu8u1.cloudfront.net
+0.0.0.0	d1d3jupgwm7m5r.cloudfront.net
 0.0.0.0	d1dli2tyorled9.cloudfront.net
 0.0.0.0	d1ewpr7kbabyrj.cloudfront.net
+0.0.0.0	d1get58iwmjrxx.cloudfront.net
 0.0.0.0	d1mob6w0cdx3a7.cloudfront.net
 0.0.0.0	d1nmxiiewlx627.cloudfront.net
 0.0.0.0	d1p7elpjrt6qav.cloudfront.net
@@ -6339,6 +6362,7 @@ fe80::1%lo0		localhost
 0.0.0.0	d3tuf5kphoharw.cloudfront.net
 0.0.0.0	d5nxst8fruw4z.cloudfront.net
 0.0.0.0	d7x5nblzs94me.cloudfront.net
+0.0.0.0	d8rk54i4mohrb.cloudfront.net
 0.0.0.0	dbcdqp72lzmvj.cloudfront.net
 0.0.0.0	dbn3wu0k6poiv.cloudfront.net
 0.0.0.0	dc5k8fg5ioc8s.cloudfront.net
@@ -6686,6 +6710,7 @@ fe80::1%lo0		localhost
 0.0.0.0	aa.online-metrix.net
 0.0.0.0	at1.opentracker.net
 0.0.0.0	server1.opentracker.net
+0.0.0.0	openx.net
 0.0.0.0	adnimation-d.openx.net
 0.0.0.0	apester-d.openx.net
 0.0.0.0	bid.openx.net
@@ -6700,6 +6725,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pixfuture2-d.openx.net
 0.0.0.0	propermedia-d.openx.net
 0.0.0.0	r.openx.net
+0.0.0.0	rocketnews24-d.openx.net
 0.0.0.0	rtb.openx.net
 0.0.0.0	sea-u.openx.net
 0.0.0.0	sekindo-d.openx.net
@@ -7017,6 +7043,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mycountdown.org
 0.0.0.0	networkingdoneright.org
 0.0.0.0	ads.opensubtitles.org
+0.0.0.0	ads1.opensubtitles.org
 0.0.0.0	ads2.opensubtitles.org
 0.0.0.0	c1.openx.org
 0.0.0.0	c3.openx.org
@@ -7044,6 +7071,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.uploadpix.org
 0.0.0.0	ad.vuiads.org
 0.0.0.0	meta.wikimedia.org
+0.0.0.0	instant.page
 0.0.0.0	vts.dfgut.party
 0.0.0.0	i2s.nvjr.party
 0.0.0.0	synad2.nuffnang.com.ph
@@ -7474,6 +7502,7 @@ fe80::1%lo0		localhost
 0.0.0.0	s2yw1z41.xyz
 0.0.0.0	serori.xyz
 0.0.0.0	titotito.xyz
+0.0.0.0	cdn.topperformance.xyz
 0.0.0.0	www.traffic25.xyz
 0.0.0.0	tripedrated.xyz
 0.0.0.0	rveaupa.vstqpyne.xyz
