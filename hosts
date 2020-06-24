@@ -75,6 +75,8 @@ fe80::1%lo0		localhost
 # 0.0.0.0	a-0001.a-msedge.net
 # Washington Post Ad Block Detector
 #0.0.0.0	d2ty8gaf6rmowa.cloudfront.net
+# https://github.com/bjornstar/hosts/issues/18
+#0.0.0.0	api.pushbullet.com
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -3951,7 +3953,6 @@ fe80::1%lo0		localhost
 0.0.0.0	pl3860429.puserving.com
 0.0.0.0	pushame.com
 0.0.0.0	pushance.com
-0.0.0.0	api.pushbullet.com
 0.0.0.0	widget.pushbullet.com
 0.0.0.0	pushcrew.com
 0.0.0.0	cdn.pushcrew.com
