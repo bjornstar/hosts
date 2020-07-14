@@ -1782,6 +1782,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.cooladata.com
 0.0.0.0	coolandevencooler.com
 0.0.0.0	banners.coolmirage.com
+0.0.0.0	openrtb.cootlogix.com
 0.0.0.0	affiliates.copeac.com
 0.0.0.0	iocdn.coremetrics.com
 0.0.0.0	libs.coremetrics.com
@@ -1868,6 +1869,7 @@ fe80::1%lo0		localhost
 0.0.0.0	d29gqcij.com
 0.0.0.0	d72gb9oukw3j.com
 0.0.0.0	www.dailomo.com
+0.0.0.0	dmxleo.dailymotion.com
 0.0.0.0	mc.dailymotion.com
 0.0.0.0	darish-drustents.com
 0.0.0.0	media.data-slimspots.com
@@ -1955,6 +1957,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.dlyads.com
 0.0.0.0	ad.dmm.com
 0.0.0.0	extended.dmtracker.com
+0.0.0.0	public-prod-dspcookiematching.dmxleo.com
 0.0.0.0	dnetwork-media.com
 0.0.0.0	www.dntx.com
 0.0.0.0	ads.doclix.com
@@ -3194,6 +3197,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.makemoneyww.com
 0.0.0.0	manychat.com
 0.0.0.0	widget.manychat.com
+0.0.0.0	bc.marfeelcache.com
 0.0.0.0	marichrtr1.com
 0.0.0.0	marketgid.com
 0.0.0.0	cm.marketgid.com
@@ -3602,6 +3606,7 @@ fe80::1%lo0		localhost
 0.0.0.0	rl.nl.onegot.com
 0.0.0.0	onemactrckr.com
 0.0.0.0	ads.onemodelplace.com
+0.0.0.0	onesignal.com
 0.0.0.0	cdn.onesignal.com
 0.0.0.0	www.onestopdownloads.com
 0.0.0.0	cdn-apac.onetrust.com
@@ -3862,6 +3867,7 @@ fe80::1%lo0		localhost
 0.0.0.0	porntubemate.com
 0.0.0.0	metrics.post-gazette.com
 0.0.0.0	oascentral.post-gazette.com
+0.0.0.0	widget.postquare.com
 0.0.0.0	a.postrelease.com
 0.0.0.0	jadserve.postrelease.com
 0.0.0.0	projects.posttv.com
@@ -4208,6 +4214,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fastlane-adv.rubiconproject.com
 0.0.0.0	optimized-by.rubiconproject.com
 0.0.0.0	pixel.rubiconproject.com
+0.0.0.0	pixel-us-east.rubiconproject.com
 0.0.0.0	prebid-server.rubiconproject.com
 0.0.0.0	secure-assets.rubiconproject.com
 0.0.0.0	tap-cdn.rubiconproject.com
@@ -4488,6 +4495,9 @@ fe80::1%lo0		localhost
 0.0.0.0	promoted.soundcloud.com
 0.0.0.0	rts.sparkstudios.com
 0.0.0.0	jb.speakertext.com
+0.0.0.0	cdn.speakol.com
+0.0.0.0	rd.speakol.com
+0.0.0.0	recommendation.speakol.com
 0.0.0.0	specificmedia.com
 0.0.0.0	cdn2.specificmedia.com
 0.0.0.0	cdn.spectrumcustomizer.com
@@ -5034,6 +5044,10 @@ fe80::1%lo0		localhost
 0.0.0.0	br.vghd.com
 0.0.0.0	vhldwuv6om.com
 0.0.0.0	viatepigan.com
+0.0.0.0	bis.vidazoo.com
+0.0.0.0	inventory.vidazoo.com
+0.0.0.0	static.vidazoo.com
+0.0.0.0	wserver.vidazoo.com
 0.0.0.0	www.vidcpm.com
 0.0.0.0	pp.vidcr.com
 0.0.0.0	sda.vidcr.com
@@ -5908,6 +5922,7 @@ fe80::1%lo0		localhost
 0.0.0.0	r.logrocket.io
 0.0.0.0	api.lytics.io
 0.0.0.0	c.lytics.io
+0.0.0.0	live.mrf.io
 0.0.0.0	myidm.io
 0.0.0.0	io.narrative.io
 0.0.0.0	cdn.ndg.io
@@ -5919,6 +5934,7 @@ fe80::1%lo0		localhost
 0.0.0.0	bids.proper.io
 0.0.0.0	global.proper.io
 0.0.0.0	ad.pxlad.io
+0.0.0.0	api.pxlad.io
 0.0.0.0	bidder.rtk.io
 0.0.0.0	thor.rtk.io
 0.0.0.0	api.segment.io
@@ -6144,6 +6160,7 @@ fe80::1%lo0		localhost
 0.0.0.0	300x250.exad.me
 0.0.0.0	728x90.exad.me
 0.0.0.0	acdn01.findtonight.me
+0.0.0.0	csync.loopme.me
 0.0.0.0	mediafeed.me
 0.0.0.0	i.mediafeed.me
 0.0.0.0	just.mediafeed.me
@@ -6471,6 +6488,7 @@ fe80::1%lo0		localhost
 0.0.0.0	static.digidip.net
 0.0.0.0	medialb.digiteka.net
 0.0.0.0	tofu.dmcdn.net
+0.0.0.0	vendorlist.dmcdn.net
 0.0.0.0	doubleclick.net
 0.0.0.0	ad.doubleclick.net
 0.0.0.0	ad-apac.doubleclick.net
