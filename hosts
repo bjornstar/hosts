@@ -800,6 +800,7 @@ fe80::1%lo0		localhost
 0.0.0.0	adsrvn.com
 0.0.0.0	vip.adstatic.com
 0.0.0.0	adsterra.com
+0.0.0.0	sync.adstir.com
 0.0.0.0	cdn.adstract.com
 0.0.0.0	vast.adsubon.com
 0.0.0.0	www.adsue.com
@@ -1277,6 +1278,7 @@ fe80::1%lo0		localhost
 0.0.0.0	record.partners.betus.com
 0.0.0.0	ioms.bfmio.com
 0.0.0.0	reachms.bfmio.com
+0.0.0.0	sync.bfmio.com
 0.0.0.0	bhmqoolzgxnp.com
 0.0.0.0	www.bhmqoolzgxnp.com
 0.0.0.0	platform.bidgear.com
@@ -1703,6 +1705,8 @@ fe80::1%lo0		localhost
 0.0.0.0	zs13.cnzz.com
 0.0.0.0	zs8.cnzz.com
 0.0.0.0	code4us.com
+0.0.0.0	cdn.codeblackbelt.com
+0.0.0.0	www.codeblackbelt.com
 0.0.0.0	b.codeonclick.com
 0.0.0.0	c.codeonclick.com
 0.0.0.0	codytzi.com
@@ -3983,6 +3987,7 @@ fe80::1%lo0		localhost
 0.0.0.0	js-beta.pushmonetization.com
 0.0.0.0	pushno.com
 0.0.0.0	pushokey.com
+0.0.0.0	cdn.pushowl.com
 0.0.0.0	ads.pushplay.com
 0.0.0.0	pushwhy.com
 0.0.0.0	pussl48.com
@@ -4229,6 +4234,10 @@ fe80::1%lo0		localhost
 0.0.0.0	pa.rxthdr.com
 0.0.0.0	ryllae.com
 0.0.0.0	s-hentai.com
+0.0.0.0	connect-metrics-collector.s-onetag.com
+0.0.0.0	get.s-onetag.com
+0.0.0.0	signal-beacon.s-onetag.com
+0.0.0.0	signal-metrics-collector-beta.s-onetag.com
 0.0.0.0	s1-adfly.com
 0.0.0.0	pixel.s3xified.com
 0.0.0.0	discount.safe-swaps.com
@@ -6300,6 +6309,7 @@ fe80::1%lo0		localhost
 0.0.0.0	imp.admarketplace.net
 0.0.0.0	bridge.lga1.admarketplace.net
 0.0.0.0	bridge.sf.admarketplace.net
+0.0.0.0	inv-nets.admixer.net
 0.0.0.0	ad.adnetwork.net
 0.0.0.0	ad2.adnetwork.net
 0.0.0.0	server1.adpolestar.net
@@ -6356,6 +6366,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.bannerconnect.net
 0.0.0.0	bannerperformance.net
 0.0.0.0	foxnews-news.baynote.net
+0.0.0.0	grid.bidswitch.net
 0.0.0.0	x.bidswitch.net
 0.0.0.0	blatsnarf.net
 0.0.0.0	js1.bloggerads.net
@@ -7508,6 +7519,7 @@ fe80::1%lo0		localhost
 0.0.0.0	c.traffic-media.co.uk
 0.0.0.0	jsc.traffic-media.co.uk
 0.0.0.0	servicer.traffic-media.co.uk
+0.0.0.0	search-api.fie.future.net.uk
 0.0.0.0	whos.amung.us
 0.0.0.0	widgets.amung.us
 0.0.0.0	www.avbo.us
