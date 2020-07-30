@@ -97,6 +97,7 @@ fe80::1%lo0		localhost
 0.0.0.0	d.href.asia
 0.0.0.0	bshare.optimix.asia
 0.0.0.0	bx.optimix.asia
+0.0.0.0	worldofwarships.asia
 0.0.0.0	goreal.at
 0.0.0.0	waust.at
 0.0.0.0	js.sportsbetaffiliates.com.au
@@ -859,6 +860,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.advconversion.com
 0.0.0.0	ads.adverline.com
 0.0.0.0	www.adversalservers.com
+0.0.0.0	ylx-i.advertica-cdn2.com
 0.0.0.0	exityield.advertise.com
 0.0.0.0	network.advertise.com
 0.0.0.0	ab.advertiserurl.com
@@ -2063,6 +2065,7 @@ fe80::1%lo0		localhost
 0.0.0.0	egoporn.com
 0.0.0.0	eh8jq4cmq8j9g5.com
 0.0.0.0	ehu96t2p.com
+0.0.0.0	eikegolehem.com
 0.0.0.0	www.ejaculationbycommand.com
 0.0.0.0	haitao.eliuhui.com
 0.0.0.0	elkbahtax.com
@@ -2492,6 +2495,8 @@ fe80::1%lo0		localhost
 0.0.0.0	partner.googleadservices.com
 0.0.0.0	www.googleadservices.com
 0.0.0.0	blogergadgets.googlecode.com
+0.0.0.0	googleoptimize.com
+0.0.0.0	www.googleoptimize.com
 0.0.0.0	rizqi.moehamed.googlepages.com
 0.0.0.0	ade.googlesyndication.com
 0.0.0.0	pagead2.googlesyndication.com
@@ -2511,6 +2516,7 @@ fe80::1%lo0		localhost
 0.0.0.0	gozfsvoqn.com
 0.0.0.0	ads.gplusmedia.com
 0.0.0.0	ds.gplusmedia.com
+0.0.0.0	graizoah.com
 0.0.0.0	api.gravity.com
 0.0.0.0	cdn.insights.gravity.com
 0.0.0.0	rma-api.gravity.com
@@ -2563,6 +2569,8 @@ fe80::1%lo0		localhost
 0.0.0.0	hd-mediabox.com
 0.0.0.0	hd100546b.com
 0.0.0.0	www.hdosaoxfcogpl.com
+0.0.0.0	ana.headerlift.com
+0.0.0.0	pub.headerlift.com
 0.0.0.0	www.healthreportz.com
 0.0.0.0	heapanalytics.com
 0.0.0.0	cdn.heapanalytics.com
@@ -2734,6 +2742,7 @@ fe80::1%lo0		localhost
 0.0.0.0	impore.com
 0.0.0.0	gad.impresionesweb.com
 0.0.0.0	impressionaffiliate.com
+0.0.0.0	hb.improvedigital.com
 0.0.0.0	cdn-gl.imrworldwide.com
 0.0.0.0	secure-au.imrworldwide.com
 0.0.0.0	secure-cn.imrworldwide.com
@@ -3302,6 +3311,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mimedia.com
 0.0.0.0	online.mimedia.com
 0.0.0.0	www.mimedia.com
+0.0.0.0	apollo.miniclip.com
 0.0.0.0	mintake.com
 0.0.0.0	chat3.mioot.com
 0.0.0.0	misslk.com
@@ -4882,6 +4892,9 @@ fe80::1%lo0		localhost
 0.0.0.0	rtb-liverail.tubemogul.com
 0.0.0.0	rtd.tubemogul.com
 0.0.0.0	tds.tuberl.com
+0.0.0.0	api.tubia.com
+0.0.0.0	cdn.tubia.com
+0.0.0.0	player.tubia.com
 0.0.0.0	www-s.tucows.com
 0.0.0.0	istat.tudou.com
 0.0.0.0	stat.tudou.com
@@ -4982,6 +4995,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cm4.upclick.com
 0.0.0.0	www.upload2.com
 0.0.0.0	www.uploadstation.com
+0.0.0.0	uprimp.com
 0.0.0.0	www.upsellit.com
 0.0.0.0	uptimecdn.com
 0.0.0.0	ads2.uptobox.com
@@ -5125,6 +5139,7 @@ fe80::1%lo0		localhost
 0.0.0.0	xml.vokut.com
 0.0.0.0	t2bi9.voluumtrk.com
 0.0.0.0	qbho6.voluumtrk2.com
+0.0.0.0	video-static.vooxe.com
 0.0.0.0	vq91811.com
 0.0.0.0	vrewpywootyu.com
 0.0.0.0	www.vrewpywootyu.com
@@ -5921,6 +5936,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.firstimpression.io
 0.0.0.0	ecdn.firstimpression.io
 0.0.0.0	hashflare.io
+0.0.0.0	js.honeybadger.io
 0.0.0.0	icotop.io
 0.0.0.0	api-ping.intercom.io
 0.0.0.0	nexus-websocket-a.intercom.io
@@ -6749,6 +6765,7 @@ fe80::1%lo0		localhost
 0.0.0.0	t.myvisualiq.net
 0.0.0.0	vt.myvisualiq.net
 0.0.0.0	cdn01.mzbcdn.net
+0.0.0.0	namel.net
 0.0.0.0	nefroto.net
 0.0.0.0	js1.nend.net
 0.0.0.0	s2.nend.net
@@ -6916,6 +6933,7 @@ fe80::1%lo0		localhost
 0.0.0.0	press.sslproviders.net
 0.0.0.0	statistik-gallup.net
 0.0.0.0	statsy.net
+0.0.0.0	stewerdu.net
 0.0.0.0	ssp.streamrail.net
 0.0.0.0	cdn.sublimevideo.net
 0.0.0.0	adv.surinter.net
@@ -7045,6 +7063,7 @@ fe80::1%lo0		localhost
 0.0.0.0	c.pub.network
 0.0.0.0	v1rton.news
 0.0.0.0	files.18pluscash.nl
+0.0.0.0	blockchaintop.nl
 0.0.0.0	www.clubsexdating.nl
 0.0.0.0	empowernetwork-info.nl
 0.0.0.0	promotools.islive.nl
@@ -7456,6 +7475,7 @@ fe80::1%lo0		localhost
 0.0.0.0	push-notifications.top
 0.0.0.0	redirect2.top
 0.0.0.0	smrtrdrct.top
+0.0.0.0	adservice.google.com.tr
 0.0.0.0	ads.adap.tv
 0.0.0.0	redir.adap.tv
 0.0.0.0	segments.adap.tv
