@@ -3985,6 +3985,7 @@ fe80::1%lo0		localhost
 0.0.0.0	image2.pubmatic.com
 0.0.0.0	image4.pubmatic.com
 0.0.0.0	showads.pubmatic.com
+0.0.0.0	s.pubmine.com
 0.0.0.0	adserver.pubovore.com
 0.0.0.0	r.adserver.pubovore.com
 0.0.0.0	www.pubovore.com
@@ -6103,6 +6104,7 @@ fe80::1%lo0		localhost
 0.0.0.0	img.ak.impact-ad.jp
 0.0.0.0	as.bb.impact-ad.jp
 0.0.0.0	aw.dw.impact-ad.jp
+0.0.0.0	c.one.impact-ad.jp
 0.0.0.0	y.one.impact-ad.jp
 0.0.0.0	x5.kaginawa.jp
 0.0.0.0	chat.live800.jp
@@ -6430,6 +6432,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ad.bannerconnect.net
 0.0.0.0	bannerperformance.net
 0.0.0.0	foxnews-news.baynote.net
+0.0.0.0	apac-jp-sync.bidswitch.net
 0.0.0.0	grid.bidswitch.net
 0.0.0.0	x.bidswitch.net
 0.0.0.0	blatsnarf.net
@@ -7478,6 +7481,7 @@ fe80::1%lo0		localhost
 0.0.0.0	see-work.space
 0.0.0.0	wwopenclick.space
 0.0.0.0	xxreallyg00dxx.space
+0.0.0.0	bsw.digitru.st
 0.0.0.0	cdn.digitru.st
 0.0.0.0	po.st
 0.0.0.0	i.po.st
@@ -7552,6 +7556,7 @@ fe80::1%lo0		localhost
 0.0.0.0	a.teads.tv
 0.0.0.0	cdn.teads.tv
 0.0.0.0	r.teads.tv
+0.0.0.0	s8t.teads.tv
 0.0.0.0	sync.teads.tv
 0.0.0.0	t.teads.tv
 0.0.0.0	countess.twitch.tv
