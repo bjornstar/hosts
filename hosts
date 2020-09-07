@@ -1181,6 +1181,8 @@ fe80::1%lo0		localhost
 0.0.0.0	auto-insurance-hub.com
 0.0.0.0	auto-insurance-quotes-compare.com
 0.0.0.0	www.auto-ping.com
+0.0.0.0	b2cdn.automatad.com
+0.0.0.0	go.automatad.com
 0.0.0.0	www.avalanchers.com
 0.0.0.0	secure.avangate.com
 0.0.0.0	pc.avnotification.com
@@ -1214,7 +1216,9 @@ fe80::1%lo0		localhost
 0.0.0.0	images-cdn.azoogleads.com
 0.0.0.0	azurcorporation.com
 0.0.0.0	b142d1440666173b0.com
+0.0.0.0	b2c.com
 0.0.0.0	api.b2c.com
+0.0.0.0	api-34-208-119-76.b2c.com
 0.0.0.0	b3z29k1uxb.com
 0.0.0.0	b54m4qbmt0b9.com
 0.0.0.0	promo.badoink.com
@@ -2313,6 +2317,7 @@ fe80::1%lo0		localhost
 0.0.0.0	harmaninternational.secure.force.com
 0.0.0.0	service.force.com
 0.0.0.0	analytics.foresee.com
+0.0.0.0	api.fouanalytics.com
 0.0.0.0	foxarmedia.com
 0.0.0.0	metrics.foxnews.com
 0.0.0.0	foxypp.com
@@ -3621,6 +3626,7 @@ fe80::1%lo0		localhost
 0.0.0.0	olthorol.com
 0.0.0.0	fo-api.omnitagjs.com
 0.0.0.0	fo-ssp-asi01.omnitagjs.com
+0.0.0.0	hb-api.omnitagjs.com
 0.0.0.0	tracking-asi01.omnitagjs.com
 0.0.0.0	www.omniture.com
 0.0.0.0	www.on2url.com
@@ -4492,6 +4498,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cm.smadex.com
 0.0.0.0	smart2cnjuh34jb.com
 0.0.0.0	prg.smartadserver.com
+0.0.0.0	prg8.smartadserver.com
 0.0.0.0	ww38.smartadserver.com
 0.0.0.0	ww57.smartadserver.com
 0.0.0.0	www3.smartadserver.com
