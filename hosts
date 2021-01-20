@@ -1351,6 +1351,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tracking.blamads.com
 0.0.0.0	trk.blamads.com
 0.0.0.0	blankreferrer.com
+0.0.0.0	blastcahs.com
 0.0.0.0	imagecache.blastro.com
 0.0.0.0	blessingpudding.com
 0.0.0.0	cdn.blinkx.com
@@ -1476,6 +1477,8 @@ fe80::1%lo0		localhost
 0.0.0.0	notify.bugsnag.com
 0.0.0.0	sessions.bugsnag.com
 0.0.0.0	track.builderredirect.com
+0.0.0.0	buipovexhav.com
+0.0.0.0	www.buipovexhav.com
 0.0.0.0	metaapi.bulletproofserving.com
 0.0.0.0	ws.bulletproofserving.com
 0.0.0.0	www.bundletagshare.com
@@ -1597,6 +1600,10 @@ fe80::1%lo0		localhost
 0.0.0.0	cts-log.channelintelligence.com
 0.0.0.0	static.chartbeat.com
 0.0.0.0	st.chatango.com
+0.0.0.0	api.chatlio.com
+0.0.0.0	api-cdn.chatlio.com
+0.0.0.0	uploads-cdn.chatlio.com
+0.0.0.0	w.chatlio.com
 0.0.0.0	ep.chatpath.com
 0.0.0.0	secure.chatpath.com
 0.0.0.0	chatroll.com
@@ -1907,6 +1914,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mc.dailymotion.com
 0.0.0.0	darish-drustents.com
 0.0.0.0	media.data-slimspots.com
+0.0.0.0	rum-http-intake.logs.datadoghq.com
 0.0.0.0	dating-snap.com
 0.0.0.0	mb.datingadzone.com
 0.0.0.0	cdn.mb.datingadzone.com
@@ -2635,6 +2643,8 @@ fe80::1%lo0		localhost
 0.0.0.0	heapanalytics.com
 0.0.0.0	cdn.heapanalytics.com
 0.0.0.0	a.heavy-r.com
+0.0.0.0	hedrvszms.com
+0.0.0.0	www.hedrvszms.com
 0.0.0.0	vlog.heraldcorp.com
 0.0.0.0	adw.heraldm.com
 0.0.0.0	cadvv.heraldm.com
@@ -5317,6 +5327,7 @@ fe80::1%lo0		localhost
 0.0.0.0	waypresentsstud.com
 0.0.0.0	www.wdcxuezpxivqgmecukeirnsyhjpjoqdqfdtchquwyqatlwxtgq.com
 0.0.0.0	www.wearefreeuynik.com
+0.0.0.0	weaveradrenaline.com
 0.0.0.0	ads.webcamclub.com
 0.0.0.0	photos.webcamclub.com
 0.0.0.0	scripts.webcontentassessor.com
@@ -5744,6 +5755,7 @@ fe80::1%lo0		localhost
 0.0.0.0	appearedsoci.fun
 0.0.0.0	d.mordi.fun
 0.0.0.0	properatersch.fun
+0.0.0.0	resumersvo.fun
 0.0.0.0	ssionsupre.fun
 0.0.0.0	traintincre.fun
 0.0.0.0	happylife.fyi
@@ -6097,6 +6109,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ethn.io
 0.0.0.0	cdn.firstimpression.io
 0.0.0.0	ecdn.firstimpression.io
+0.0.0.0	getglowbowl.io
 0.0.0.0	hashflare.io
 0.0.0.0	js.honeybadger.io
 0.0.0.0	icotop.io
@@ -6592,6 +6605,7 @@ fe80::1%lo0		localhost
 0.0.0.0	d10lv7w3g0jvk9.cloudfront.net
 0.0.0.0	d12bvws1ezu8u1.cloudfront.net
 0.0.0.0	d13k7prax1yi04.cloudfront.net
+0.0.0.0	d18t35yyry2k49.cloudfront.net
 0.0.0.0	d1d3jupgwm7m5r.cloudfront.net
 0.0.0.0	d1dli2tyorled9.cloudfront.net
 0.0.0.0	d1ewpr7kbabyrj.cloudfront.net
@@ -7680,6 +7694,7 @@ fe80::1%lo0		localhost
 0.0.0.0	regulationprivilegescan.top
 0.0.0.0	smrtrdrct.top
 0.0.0.0	ueaggress.top
+0.0.0.0	yiatelychur.top
 0.0.0.0	adservice.google.com.tr
 0.0.0.0	ads.adap.tv
 0.0.0.0	redir.adap.tv
