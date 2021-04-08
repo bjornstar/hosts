@@ -80,6 +80,13 @@ fe80::1%lo0		localhost
 # Try not blocking yandex
 #0.0.0.0	yandex.ru
 #0.0.0.0	www.yandex.ru
+# https://github.com/bjornstar/hosts/issues/20
+#0.0.0.0	ww2.sinaimg.cn
+#0.0.0.0	wx1.sinaimg.cn
+#0.0.0.0	wx2.sinaimg.cn
+#0.0.0.0	wx3.sinaimg.cn
+#0.0.0.0	wx4.sinaimg.cn
+#0.0.0.0	js.t.sinajs.cn
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -359,13 +366,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.nianluen.cn
 0.0.0.0	p.sharele.cn
 0.0.0.0	i2.sinaimg.cn
-0.0.0.0	ww2.sinaimg.cn
-0.0.0.0	wx1.sinaimg.cn
-0.0.0.0	wx2.sinaimg.cn
-0.0.0.0	wx3.sinaimg.cn
-0.0.0.0	wx4.sinaimg.cn
 0.0.0.0	tjs.sjs.sinajs.cn
-0.0.0.0	js.t.sinajs.cn
 0.0.0.0	uic.sinajs.cn
 0.0.0.0	a.xnimg.cn
 0.0.0.0	jebe.xnimg.cn
