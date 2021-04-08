@@ -359,6 +359,7 @@ fe80::1%lo0		localhost
 0.0.0.0	dcads.sina.com.cn
 0.0.0.0	int.dpool.sina.com.cn
 0.0.0.0	ba.sass.sina.com.cn
+0.0.0.0	sbeacon.sina.com.cn
 0.0.0.0	mapping.yoyi.com.cn
 0.0.0.0	qzonestyle.gtimg.cn
 0.0.0.0	track.haiwai9.cn
@@ -1113,7 +1114,6 @@ fe80::1%lo0		localhost
 0.0.0.0	c.aol.com
 0.0.0.0	o.sa.aol.com
 0.0.0.0	2mdn.aolcdn.com
-0.0.0.0	o.aolcdn.com
 0.0.0.0	s.aolcdn.com
 0.0.0.0	aoredi.com
 0.0.0.0	display.apester.com
@@ -5612,6 +5612,8 @@ fe80::1%lo0		localhost
 0.0.0.0	y6a7tqyr.com
 0.0.0.0	y72yuyr9.com
 0.0.0.0	pixel.yabidos.com
+0.0.0.0	3p-geo.yahoo.com
+0.0.0.0	3p-udc.yahoo.com
 0.0.0.0	ads.yahoo.com
 0.0.0.0	tw2.adserver.yahoo.com
 0.0.0.0	uk.adserver.yahoo.com
@@ -5634,6 +5636,7 @@ fe80::1%lo0		localhost
 0.0.0.0	beap-bc.yahoo.com
 0.0.0.0	csp.yahoo.com
 0.0.0.0	fc.yahoo.com
+0.0.0.0	ganon.yahoo.com
 0.0.0.0	beap.gemini.yahoo.com
 0.0.0.0	tp2.beap.gemini.yahoo.com
 0.0.0.0	n.gemini.yahoo.com
