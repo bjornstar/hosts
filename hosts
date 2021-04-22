@@ -1575,6 +1575,7 @@ fe80::1%lo0		localhost
 0.0.0.0	b.casalemedia.com
 0.0.0.0	c.casalemedia.com
 0.0.0.0	dsum.casalemedia.com
+0.0.0.0	htlb.casalemedia.com
 0.0.0.0	ip.casalemedia.com
 0.0.0.0	js.casalemedia.com
 0.0.0.0	r.casalemedia.com
@@ -2655,6 +2656,8 @@ fe80::1%lo0		localhost
 0.0.0.0	t.grtyo.com
 0.0.0.0	i.api.grvcdn.com
 0.0.0.0	b.grvcdn.com
+0.0.0.0	grvmedia.com
+0.0.0.0	s.grvmedia.com
 0.0.0.0	csi.gstatic.com
 0.0.0.0	gu-api.com
 0.0.0.0	www.gu-ecom.com
@@ -2743,6 +2746,7 @@ fe80::1%lo0		localhost
 0.0.0.0	s4.histats.com
 0.0.0.0	sstatic1.histats.com
 0.0.0.0	loga.hit-parade.com
+0.0.0.0	cmpv2.hitc.com
 0.0.0.0	www.hitcpm.com
 0.0.0.0	www.hitfreegames.com
 0.0.0.0	101756.hittail.com
@@ -4107,6 +4111,7 @@ fe80::1%lo0		localhost
 0.0.0.0	addons.prestashop.com
 0.0.0.0	pricee.com
 0.0.0.0	cdn.printfriendly.com
+0.0.0.0	privacy-mgmt.com
 0.0.0.0	privitize.com
 0.0.0.0	api.privy.com
 0.0.0.0	assets.privy.com
@@ -5845,6 +5850,8 @@ fe80::1%lo0		localhost
 0.0.0.0	adserver.adtech.de
 0.0.0.0	ad.dc2.adtech.de
 0.0.0.0	ads.adtiger.de
+0.0.0.0	audiencemanager.de
+0.0.0.0	ad.audiencemanager.de
 0.0.0.0	www1.belboon.de
 0.0.0.0	rc.rtl.btt.betarget.de
 0.0.0.0	e-wolff-tools.de
@@ -6628,6 +6635,8 @@ fe80::1%lo0		localhost
 0.0.0.0	4-you.net
 0.0.0.0	www.5221.net
 0.0.0.0	image.52bt.net
+0.0.0.0	a-mo.net
+0.0.0.0	prebid.a-mo.net
 0.0.0.0	www.a135.net
 0.0.0.0	js.a3p4.net
 0.0.0.0	px.a8.net
@@ -7279,6 +7288,8 @@ fe80::1%lo0		localhost
 0.0.0.0	soma-assets.smaato.net
 0.0.0.0	c.smartclick.net
 0.0.0.0	solutiontoyourissues.net
+0.0.0.0	sp-prod.net
+0.0.0.0	ccpa.sp-prod.net
 0.0.0.0	specificclick.net
 0.0.0.0	adopt.specificclick.net
 0.0.0.0	afe.specificclick.net
