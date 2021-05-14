@@ -816,6 +816,12 @@ fe80::1%lo0		localhost
 0.0.0.0	n5.adshostnet.com
 0.0.0.0	n55.adshostnet.com
 0.0.0.0	this.content.served.by.adshuffle.com
+0.0.0.0	adskeeper.com
+0.0.0.0	c.adskeeper.com
+0.0.0.0	cm.adskeeper.com
+0.0.0.0	jsc.adskeeper.com
+0.0.0.0	s-img.adskeeper.com
+0.0.0.0	servicer.adskeeper.com
 0.0.0.0	network.adsmarket.com
 0.0.0.0	api.adsnative.com
 0.0.0.0	bevo.adsnative.com
@@ -1030,7 +1036,9 @@ fe80::1%lo0		localhost
 0.0.0.0	www.amateurmatch.com
 0.0.0.0	cb.amazingcounters.com
 0.0.0.0	fls-na.amazon.com
+0.0.0.0	unagi.amazon.com
 0.0.0.0	ws.amazon.com
+0.0.0.0	amazon-adsystem.com
 0.0.0.0	aax.amazon-adsystem.com
 0.0.0.0	aax-fe.amazon-adsystem.com
 0.0.0.0	aax-fe-sin.amazon-adsystem.com
