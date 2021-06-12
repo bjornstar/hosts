@@ -4705,6 +4705,7 @@ fe80::1%lo0		localhost
 0.0.0.0	thor.rtk.io
 0.0.0.0	api.segment.io
 0.0.0.0	cdn.segment.io
+0.0.0.0	sentry.io
 0.0.0.0	analytics.soup.io
 0.0.0.0	stackpile.io
 0.0.0.0	trady.io
