@@ -4443,6 +4443,7 @@ fe80::1%lo0		localhost
 0.0.0.0	b1sync.zemanta.com
 0.0.0.0	b1t-sadc1.zemanta.com
 0.0.0.0	assets.zendesk.com
+0.0.0.0	zensrc.com
 0.0.0.0	mackeeper.zeobit.com
 0.0.0.0	mackeeperapp.zeobit.com
 0.0.0.0	rz.zeobit.com
@@ -5842,6 +5843,7 @@ fe80::1%lo0		localhost
 0.0.0.0	olivedinflats.space
 0.0.0.0	wwopenclick.space
 0.0.0.0	xxreallyg00dxx.space
+0.0.0.0	zen.sr
 0.0.0.0	bsw.digitru.st
 0.0.0.0	cdn.digitru.st
 0.0.0.0	po.st
@@ -6005,6 +6007,3 @@ fe80::1%lo0		localhost
 0.0.0.0	logs.xtremeserve.xyz
 0.0.0.0	trust.zone
 0.0.0.0	affiliate.trust.zone
-
-0.0.0.0	zen.sr
-0.0.0.0	zensrc.com
