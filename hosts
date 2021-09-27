@@ -87,9 +87,15 @@ fe80::1%lo0		localhost
 #0.0.0.0	wx3.sinaimg.cn
 #0.0.0.0	wx4.sinaimg.cn
 #0.0.0.0	js.t.sinajs.cn
+# https://github.com/bjornstar/hosts/issues/22
+#0.0.0.0	ddl.furk.net
+#0.0.0.0	www.furk.net
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
+0.0.0.0	cdn.ftd.agency
+0.0.0.0	f1.cdn.ftd.agency
+0.0.0.0	z.cdn.ftd.agency
 0.0.0.0	powerad.ai
 0.0.0.0	secure.rebel.ai
 0.0.0.0	cdn.shortpixel.ai
@@ -516,6 +522,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tagan.adlightning.com
 0.0.0.0	data23.adlooxtracking.com
 0.0.0.0	data65.adlooxtracking.com
+0.0.0.0	cs.admanmedia.com
 0.0.0.0	usasync01.admantx.com
 0.0.0.0	admaym.com
 0.0.0.0	www.admeta.com
@@ -1454,6 +1461,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads2.contentabc.com
 0.0.0.0	hw-cdn2.contentabc.com
 0.0.0.0	vz-cdn2.contentabc.com
+0.0.0.0	ingestion.contentinsights.com
 0.0.0.0	contextlysitescripts.contextly.com
 0.0.0.0	ads.contextweb.com
 0.0.0.0	bh.contextweb.com
@@ -1535,6 +1543,8 @@ fe80::1%lo0		localhost
 0.0.0.0	cdm.cursecdn.com
 0.0.0.0	media-mercury.cursecdn.com
 0.0.0.0	media-titanium.cursecdn.com
+0.0.0.0	cdn.cxense.com
+0.0.0.0	comcluster.cxense.com
 0.0.0.0	scdn.cxense.com
 0.0.0.0	scomcluster.cxense.com
 0.0.0.0	www.cyzdyiccpwx.com
@@ -2064,6 +2074,7 @@ fe80::1%lo0		localhost
 0.0.0.0	adservice.google.com
 0.0.0.0	linkhelp.clients.google.com
 0.0.0.0	fundingchoices.google.com
+0.0.0.0	fundingchoicesmessages.google.com
 0.0.0.0	id.google.com
 0.0.0.0	mail-ads.google.com
 0.0.0.0	smartlock.google.com
@@ -2224,6 +2235,7 @@ fe80::1%lo0		localhost
 0.0.0.0	iamned.com
 0.0.0.0	www.iamned.com
 0.0.0.0	optout.ib-ibi.com
+0.0.0.0	pxlssl.ibpxl.com
 0.0.0.0	ads.ibtracking.com
 0.0.0.0	1055.ic-live.com
 0.0.0.0	c1055.ic-live.com
@@ -2378,6 +2390,7 @@ fe80::1%lo0		localhost
 0.0.0.0	js.intercomcdn.com
 0.0.0.0	ads.intergi.com
 0.0.0.0	interimmicroscope.com
+0.0.0.0	gdpr.internetbrands.com
 0.0.0.0	hs.interpolls.com
 0.0.0.0	sw.interpolls.com
 0.0.0.0	interstitial-07.com
@@ -2889,6 +2902,9 @@ fe80::1%lo0		localhost
 0.0.0.0	prod-m-node-2112.nexage.com
 0.0.0.0	tw.adx.nextmedia.com
 0.0.0.0	nfkd2ug8d9.com
+0.0.0.0	messenger.ngageics.com
+0.0.0.0	scripting.ngagelive.com
+0.0.0.0	server.ngagelive.com
 0.0.0.0	nhpfvdlbjg.com
 0.0.0.0	www.niceratios.com
 0.0.0.0	vd.nimem.com
@@ -2899,6 +2915,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tracker.nitropay.com
 0.0.0.0	www.njpj.com
 0.0.0.0	uf.noclef.com
+0.0.0.0	www.nolo.com
 0.0.0.0	trustsealinfo.websecurity.norton.com
 0.0.0.0	novadune.com
 0.0.0.0	ze1.november-lax.com
@@ -2978,6 +2995,7 @@ fe80::1%lo0		localhost
 0.0.0.0	onesignal.com
 0.0.0.0	cdn.onesignal.com
 0.0.0.0	www.onestopdownloads.com
+0.0.0.0	onetag-sys.com
 0.0.0.0	cdn-apac.onetrust.com
 0.0.0.0	geolocation.onetrust.com
 0.0.0.0	go.oneund.com
@@ -3347,6 +3365,8 @@ fe80::1%lo0		localhost
 0.0.0.0	4.qqm98.com
 0.0.0.0	qswotrk.com
 0.0.0.0	geo.api.qualaroo.com
+0.0.0.0	cl.qualaroo.com
+0.0.0.0	dntcl.qualaroo.com
 0.0.0.0	geo.qualaroo.com
 0.0.0.0	siteintercept.qualtrics.com
 0.0.0.0	quanta-wave.com
@@ -3433,6 +3453,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ds.reson8.com
 0.0.0.0	retargetcore.com
 0.0.0.0	ad.retargeter.com
+0.0.0.0	app.retargetly.com
 0.0.0.0	affiliates.reunion.com
 0.0.0.0	creative.rev2pub.com
 0.0.0.0	api.revcontent.com
@@ -3509,6 +3530,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fastlane-adv.rubiconproject.com
 0.0.0.0	optimized-by.rubiconproject.com
 0.0.0.0	pixel.rubiconproject.com
+0.0.0.0	pixel-eu.rubiconproject.com
 0.0.0.0	pixel-us-east.rubiconproject.com
 0.0.0.0	prebid-server.rubiconproject.com
 0.0.0.0	secure-assets.rubiconproject.com
@@ -3612,6 +3634,7 @@ fe80::1%lo0		localhost
 0.0.0.0	m.servedby-buysellads.com
 0.0.0.0	servedbyadbutler.com
 0.0.0.0	ads.servenobid.com
+0.0.0.0	public.servenobid.com
 0.0.0.0	e.serverbid.com
 0.0.0.0	sync.serverbid.com
 0.0.0.0	www.servesurveys.com
@@ -3693,6 +3716,7 @@ fe80::1%lo0		localhost
 0.0.0.0	smart2cnjuh34jb.com
 0.0.0.0	prg.smartadserver.com
 0.0.0.0	prg8.smartadserver.com
+0.0.0.0	ssbsync.smartadserver.com
 0.0.0.0	ww38.smartadserver.com
 0.0.0.0	ww57.smartadserver.com
 0.0.0.0	www3.smartadserver.com
@@ -3922,6 +3946,7 @@ fe80::1%lo0		localhost
 0.0.0.0	thebestgame2020.com
 0.0.0.0	thebflix.com
 0.0.0.0	s.thebrighttag.com
+0.0.0.0	theconversation.com
 0.0.0.0	community.thedailyshow.com
 0.0.0.0	thefreecamsecret.com
 0.0.0.0	www.thefreecamsecret.com
@@ -4620,6 +4645,10 @@ fe80::1%lo0		localhost
 0.0.0.0	t.go2.global
 0.0.0.0	clanmentaiwhis.gq
 0.0.0.0	www.amy.gs
+0.0.0.0	a.ad.gt
+0.0.0.0	p.ad.gt
+0.0.0.0	pixels.ad.gt
+0.0.0.0	seg.ad.gt
 0.0.0.0	www.sdad.guru
 0.0.0.0	i.adhere.com.hk
 0.0.0.0	i1.hk
@@ -4780,6 +4809,9 @@ fe80::1%lo0		localhost
 0.0.0.0	s.ntv.io
 0.0.0.0	app.pendo.io
 0.0.0.0	cdn.pendo.io
+0.0.0.0	buy-ap.piano.io
+0.0.0.0	code.piano.io
+0.0.0.0	experience-ap.piano.io
 0.0.0.0	bids.proper.io
 0.0.0.0	global.proper.io
 0.0.0.0	bidder.rtk.io
@@ -4813,6 +4845,7 @@ fe80::1%lo0		localhost
 0.0.0.0	affiliateone.jp
 0.0.0.0	app-adforce.jp
 0.0.0.0	nmwnmewjk.blogspot.jp
+0.0.0.0	aan.amazon.co.jp
 0.0.0.0	fls-fe.amazon.co.jp
 0.0.0.0	rcm-jp.amazon.co.jp
 0.0.0.0	adservice.google.co.jp
@@ -4828,6 +4861,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.logly.co.jp
 0.0.0.0	dsp.logly.co.jp
 0.0.0.0	l.logly.co.jp
+0.0.0.0	lt.logly.co.jp
 0.0.0.0	sync.logly.co.jp
 0.0.0.0	vbc.logly.co.jp
 0.0.0.0	log.affiliate.rakuten.co.jp
@@ -4885,6 +4919,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ld.send.microad.jp
 0.0.0.0	s-cs.send.microad.jp
 0.0.0.0	track.send.microad.jp
+0.0.0.0	b.nakanohito.jp
 0.0.0.0	b03.nakanohito.jp
 0.0.0.0	c.nakanohito.jp
 0.0.0.0	evup.cybertrust.ne.jp
@@ -5294,6 +5329,8 @@ fe80::1%lo0		localhost
 0.0.0.0	jsg.dt07.net
 0.0.0.0	jsn.dt07.net
 0.0.0.0	topblock.dt07.net
+0.0.0.0	be.durationmedia.net
+0.0.0.0	tag.durationmedia.net
 0.0.0.0	link.email.dynect.net
 0.0.0.0	ads.e-planning.net
 0.0.0.0	www.eatmyshorts.net
@@ -5337,8 +5374,6 @@ fe80::1%lo0		localhost
 0.0.0.0	fotsaulr.net
 0.0.0.0	viacomccstrmfs.fplive.net
 0.0.0.0	s1.freehostedscripts.net
-0.0.0.0	ddl.furk.net
-0.0.0.0	www.furk.net
 0.0.0.0	adn.fusionads.net
 0.0.0.0	fwmrm.net
 0.0.0.0	adm.fwmrm.net
@@ -5505,6 +5540,7 @@ fe80::1%lo0		localhost
 0.0.0.0	viumbe-d.openx.net
 0.0.0.0	wikia-d.openx.net
 0.0.0.0	ziffdavis-d.openx.net
+0.0.0.0	secure.widget.cloud.opta.net
 0.0.0.0	owneriq.net
 0.0.0.0	px.owneriq.net
 0.0.0.0	asset.pagefair.net
@@ -5703,6 +5739,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.usenet.nl
 0.0.0.0	wn.nr
 0.0.0.0	nmwnmewjk.blogspot.co.nz
+0.0.0.0	app.wts2.one
 0.0.0.0	ertented.online
 0.0.0.0	get-express-vpn.online
 0.0.0.0	getmepharmacies.online
@@ -5950,6 +5987,8 @@ fe80::1%lo0		localhost
 0.0.0.0	po.st
 0.0.0.0	shorte.st
 0.0.0.0	cdn.shorte.st
+0.0.0.0	ibclick.stream
+0.0.0.0	cdn.ocelot.studio
 0.0.0.0	live.demand.supply
 0.0.0.0	direct.apus.tech
 0.0.0.0	c.ingage.tech
