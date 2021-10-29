@@ -90,6 +90,8 @@ fe80::1%lo0		localhost
 # https://github.com/bjornstar/hosts/issues/22
 #0.0.0.0	ddl.furk.net
 #0.0.0.0	www.furk.net
+# https://github.com/bjornstar/hosts/issues/23
+#0.0.0.0	i2.ytimg.com
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -4503,7 +4505,6 @@ fe80::1%lo0		localhost
 0.0.0.0	youtubei.youtube.com
 0.0.0.0	www.youvidtube.com
 0.0.0.0	yr9n47004g.com
-0.0.0.0	i2.ytimg.com
 0.0.0.0	ytimm.com
 0.0.0.0	b.yu0123456.com
 0.0.0.0	dmx.sync.yume.com
