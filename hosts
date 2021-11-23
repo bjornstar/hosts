@@ -461,6 +461,7 @@ fe80::1%lo0		localhost
 0.0.0.0	adchemy.com
 0.0.0.0	www.addfreestats.com
 0.0.0.0	www7.addfreestats.com
+0.0.0.0	addresseepaper.com
 0.0.0.0	cache.addthis.com
 0.0.0.0	ct1.addthis.com
 0.0.0.0	m.addthis.com
@@ -1575,6 +1576,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.dealcent.com
 0.0.0.0	dealsandjobs.com
 0.0.0.0	www.decenthat.com
+0.0.0.0	defiantinfluencedtrustworthy.com
 0.0.0.0	defpush.com
 0.0.0.0	deloplen.com
 0.0.0.0	deloton.com
@@ -1615,6 +1617,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.dingit.com
 0.0.0.0	diplomaticlastingpert.com
 0.0.0.0	img.directtrack.com
+0.0.0.0	dismantlepenantiterrorist.com
 0.0.0.0	omni.dispatch.com
 0.0.0.0	weeklyads.dispatch.com
 0.0.0.0	www.displaynetworkcontent.com
@@ -1840,6 +1843,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.fallingfalcon.com
 0.0.0.0	falsemulticultural.com
 0.0.0.0	services.fandom.com
+0.0.0.0	a.faphouse.com
 0.0.0.0	welcome.faptitans.com
 0.0.0.0	cdn.welcome.faptitans.com
 0.0.0.0	faracoon.com
@@ -3255,6 +3259,7 @@ fe80::1%lo0		localhost
 0.0.0.0	pricee.com
 0.0.0.0	cdn.printfriendly.com
 0.0.0.0	privacy-mgmt.com
+0.0.0.0	privilegesurround.com
 0.0.0.0	privitize.com
 0.0.0.0	api.privy.com
 0.0.0.0	assets.privy.com
@@ -4438,6 +4443,8 @@ fe80::1%lo0		localhost
 0.0.0.0	xmaswrite.com
 0.0.0.0	banners.xmatch.com
 0.0.0.0	www.xmediaserve.com
+0.0.0.0	xmllover.com
+0.0.0.0	q.xmlrtb.com
 0.0.0.0	xml.xmlwizard.com
 0.0.0.0	img.xnxx.com
 0.0.0.0	xouzmvlt.com
