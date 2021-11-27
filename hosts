@@ -732,6 +732,7 @@ fe80::1%lo0		localhost
 0.0.0.0	a.algovid.com
 0.0.0.0	c.algovid.com
 0.0.0.0	p.algovid.com
+0.0.0.0	track.aliasads.com
 0.0.0.0	style.china.alibaba.com
 0.0.0.0	click.alibaba.com
 0.0.0.0	cmap.alibaba.com
@@ -746,6 +747,7 @@ fe80::1%lo0		localhost
 0.0.0.0	s.click.aliexpress.com
 0.0.0.0	my.aliexpress.com
 0.0.0.0	pcookie.aliexpress.com
+0.0.0.0	aliveachiever.com
 0.0.0.0	tags.aljazeera.com
 0.0.0.0	www.allanalpass.com
 0.0.0.0	cdn.allegedmedia.com
@@ -829,6 +831,7 @@ fe80::1%lo0		localhost
 0.0.0.0	amolatina.anastasiasaffiliate.com
 0.0.0.0	asianbeauties.anastasiasaffiliate.com
 0.0.0.0	ad.angel-live.com
+0.0.0.0	angelflirt.com
 0.0.0.0	go.aniview.com
 0.0.0.0	player.aniview.com
 0.0.0.0	premiumsrv.aniview.com
@@ -1180,6 +1183,9 @@ fe80::1%lo0		localhost
 0.0.0.0	bromson.com
 0.0.0.0	browsergames2018.com
 0.0.0.0	browsergames2019.com
+0.0.0.0	cdn.browsiprod.com
+0.0.0.0	events.browsiprod.com
+0.0.0.0	yield-manager.browsiprod.com
 0.0.0.0	brushdaughter.com
 0.0.0.0	btguard.com
 0.0.0.0	tw.content.btnibbler.com
@@ -1210,6 +1216,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.buzzonclick.com
 0.0.0.0	sports.bwin.com
 0.0.0.0	blog.byethost.com
+0.0.0.0	mon-va.byteoversea.com
+0.0.0.0	verification-va.byteoversea.com
 0.0.0.0	a.c0594.com
 0.0.0.0	c4tracking01.com
 0.0.0.0	www.cachead.com
@@ -1421,6 +1429,7 @@ fe80::1%lo0		localhost
 0.0.0.0	zoa.cointelegraph.com
 0.0.0.0	coinurl.com
 0.0.0.0	www.collective.com
+0.0.0.0	colossusssp.com
 0.0.0.0	adlog.com.com
 0.0.0.0	apex.com.com
 0.0.0.0	dw.com.com
@@ -3237,6 +3246,7 @@ fe80::1%lo0		localhost
 0.0.0.0	postlnk.com
 0.0.0.0	widget.postquare.com
 0.0.0.0	a.postrelease.com
+0.0.0.0	exchange.postrelease.com
 0.0.0.0	jadserve.postrelease.com
 0.0.0.0	projects.posttv.com
 0.0.0.0	www.postup.com
@@ -3538,6 +3548,8 @@ fe80::1%lo0		localhost
 0.0.0.0	rsaltsjt.com
 0.0.0.0	rtbpopd.com
 0.0.0.0	bid-us-e.rtbsrv.com
+0.0.0.0	eu-adsrv.rtbsuperhub.com
+0.0.0.0	sl-adsrv.rtbsuperhub.com
 0.0.0.0	rtbsystem.com
 0.0.0.0	code.rtbsystem.com
 0.0.0.0	switch.rtbsystem.com
@@ -3795,6 +3807,7 @@ fe80::1%lo0		localhost
 0.0.0.0	specificmedia.com
 0.0.0.0	cdn2.specificmedia.com
 0.0.0.0	cdn.spectrumcustomizer.com
+0.0.0.0	cdn.speedcurve.com
 0.0.0.0	creative.speednetwork13.com
 0.0.0.0	s.speednetwork13.com
 0.0.0.0	creative.speednetwork15.com
@@ -4058,6 +4071,7 @@ fe80::1%lo0		localhost
 0.0.0.0	syndication.traffichaus.com
 0.0.0.0	click.trafficholder.com
 0.0.0.0	ads.traffichunt.com
+0.0.0.0	static.trafficjunky.com
 0.0.0.0	trafficmp.com
 0.0.0.0	syndication.trafficreps.com
 0.0.0.0	ad.trafficshop.com
@@ -4675,6 +4689,7 @@ fe80::1%lo0		localhost
 0.0.0.0	cfasync.ga
 0.0.0.0	onerror.ga
 0.0.0.0	zyn.ga
+0.0.0.0	i.clean.gg
 0.0.0.0	dl.reforged.gg
 0.0.0.0	t.go2.global
 0.0.0.0	clanmentaiwhis.gq
@@ -5459,6 +5474,7 @@ fe80::1%lo0		localhost
 0.0.0.0	jewhouca.net
 0.0.0.0	jomtingi.net
 0.0.0.0	crbcdn.jsfiddle.net
+0.0.0.0	bmedia.justservingfiles.net
 0.0.0.0	cf04.kanade-ad.net
 0.0.0.0	apiservices.krxd.net
 0.0.0.0	beacon.krxd.net
