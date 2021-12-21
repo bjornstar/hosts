@@ -1311,6 +1311,7 @@ fe80::1%lo0		localhost
 0.0.0.0	chaturbate.com
 0.0.0.0	chatwebcamgirl.com
 0.0.0.0	curtco.checkm8.com
+0.0.0.0	checkoutenlist.com
 0.0.0.0	yiefp.chfpgcbe.com
 0.0.0.0	chicoryapp.com
 0.0.0.0	prod-cdn.chicoryapp.com
@@ -1493,6 +1494,7 @@ fe80::1%lo0		localhost
 0.0.0.0	livepassdl2.conviva.com
 0.0.0.0	consent.cookiebot.com
 0.0.0.0	cdn.cooladata.com
+0.0.0.0	coolcashstashes.com
 0.0.0.0	banners.coolmirage.com
 0.0.0.0	openrtb.cootlogix.com
 0.0.0.0	affiliates.copeac.com
@@ -1728,6 +1730,7 @@ fe80::1%lo0		localhost
 0.0.0.0	eagerse.com
 0.0.0.0	www.easy-chicks.com
 0.0.0.0	www.easy-paisa.com
+0.0.0.0	easychatform.com
 0.0.0.0	www.easycounter.com
 0.0.0.0	www.easypdfcombine.com
 0.0.0.0	eavesdroppingsickleemotionally.com
@@ -1786,6 +1789,7 @@ fe80::1%lo0		localhost
 0.0.0.0	static.eroadvertising.com
 0.0.0.0	error.com
 0.0.0.0	beacon.errorception.com
+0.0.0.0	geoip.esignonsecure.com
 0.0.0.0	w.estat.com
 0.0.0.0	etahub.com
 0.0.0.0	cacheserve.eurogrand.com
@@ -1973,6 +1977,7 @@ fe80::1%lo0		localhost
 0.0.0.0	m.friendlyduck.com
 0.0.0.0	www.friendlyduck.com
 0.0.0.0	www.friendoc.com
+0.0.0.0	frlysglmt.com
 0.0.0.0	frolicpan.com
 0.0.0.0	frolnk.com
 0.0.0.0	frontierdough.com
@@ -2551,6 +2556,7 @@ fe80::1%lo0		localhost
 0.0.0.0	fdt.kraken.com
 0.0.0.0	analytics.prod1.kraken.com
 0.0.0.0	kt.kt220.com
+0.0.0.0	video.ktkjmp.com
 0.0.0.0	www.ktzhk.com
 0.0.0.0	f.ku63.com
 0.0.0.0	f3.ku63.com
@@ -3722,6 +3728,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www5.shoutmix.com
 0.0.0.0	icon19.showtheolymp.com
 0.0.0.0	shufflewithdrawplanets.com
+0.0.0.0	a.shukriya90.com
 0.0.0.0	sidewayembed.com
 0.0.0.0	cdn.siftscience.com
 0.0.0.0	sillrochester.com
@@ -3881,6 +3888,7 @@ fe80::1%lo0		localhost
 0.0.0.0	stresee.com
 0.0.0.0	stressfulpyjamas.com
 0.0.0.0	q.stripe.com
+0.0.0.0	img.strpst.com
 0.0.0.0	stumbledabetsuburb.com
 0.0.0.0	sturdyinvaluable.com
 0.0.0.0	submissionspurtgleamed.com
@@ -4162,6 +4170,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.tweetup.com
 0.0.0.0	twiant.com
 0.0.0.0	r.twimg.com
+0.0.0.0	cdn.twinrdsrv.com
 0.0.0.0	analytics.twitter.com
 0.0.0.0	link.twrank.com
 0.0.0.0	pub.tx-hit.com
@@ -4470,6 +4479,8 @@ fe80::1%lo0		localhost
 0.0.0.0	ard.xxxblackbook.com
 0.0.0.0	flashbanners.static.ard.xxxblackbook.com
 0.0.0.0	www.xxxblackbook.com
+0.0.0.0	creative.xxxjmp.com
+0.0.0.0	go.xxxjmp.com
 0.0.0.0	www.xxxlnk.com
 0.0.0.0	xxxslutstube.com
 0.0.0.0	xxxwebtraffic.com
@@ -4820,6 +4831,7 @@ fe80::1%lo0		localhost
 0.0.0.0	analytics.candid.io
 0.0.0.0	protected-by.clarium.io
 0.0.0.0	stats.cloudwp.io
+0.0.0.0	origin.coda.io
 0.0.0.0	codefund.io
 0.0.0.0	apps6.cointraffic.io
 0.0.0.0	appsha1.cointraffic.io
