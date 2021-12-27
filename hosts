@@ -92,6 +92,8 @@ fe80::1%lo0		localhost
 #0.0.0.0	www.furk.net
 # https://github.com/bjornstar/hosts/issues/23
 #0.0.0.0	i2.ytimg.com
+# Seems like a useful service
+#0.0.0.0	cdn.transifex.com
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -4092,7 +4094,6 @@ fe80::1%lo0		localhost
 0.0.0.0	lib.trafit.com
 0.0.0.0	trafyield.com
 0.0.0.0	www.traktrafficflow.com
-0.0.0.0	cdn.transifex.com
 0.0.0.0	www.translation-services-usa.com
 0.0.0.0	www.travelmiso.com
 0.0.0.0	ad.travelocity.com
