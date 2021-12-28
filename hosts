@@ -5247,6 +5247,7 @@ fe80::1%lo0		localhost
 0.0.0.0	amm.chitika.net
 0.0.0.0	cdn.chitika.net
 0.0.0.0	scripts.chitika.net
+0.0.0.0	analytics.churnzero.net
 0.0.0.0	ciksolre.net
 0.0.0.0	register.cinematrix.net
 0.0.0.0	cache-02.cleanprint.net
