@@ -1675,6 +1675,7 @@ fe80::1%lo0		localhost
 0.0.0.0	engine.phn.doublepimp.com
 0.0.0.0	cdn.engine.phn.doublepimp.com
 0.0.0.0	rts.doublepimp.com
+0.0.0.0	doublepimpads.com
 0.0.0.0	doublepimpssl.com
 0.0.0.0	cdn.doublepimpssl.com
 0.0.0.0	www.doublepimpssl.com
@@ -2839,6 +2840,7 @@ fe80::1%lo0		localhost
 0.0.0.0	ads.moviease.com
 0.0.0.0	ads.movielush.com
 0.0.0.0	identity.mparticle.com
+0.0.0.0	jssdkcdns.mparticle.com
 0.0.0.0	jssdks.mparticle.com
 0.0.0.0	mr2cnjuh34jb.com
 0.0.0.0	mrotot.com
@@ -4669,6 +4671,7 @@ fe80::1%lo0		localhost
 0.0.0.0	jav.55888.eu
 0.0.0.0	bitstarz1.eu
 0.0.0.0	api.bitstarz1.eu
+0.0.0.0	sdk.fra-01.braze.eu
 0.0.0.0	cloud-miner.eu
 0.0.0.0	eas.apm.emediate.eu
 0.0.0.0	toplist.eu
