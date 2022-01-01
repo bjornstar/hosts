@@ -428,6 +428,8 @@ fe80::1%lo0		localhost
 0.0.0.0	cdn.lift.acquia.com
 0.0.0.0	us-east-1-capture.lift.acquia.com
 0.0.0.0	acrvclk.com
+0.0.0.0	acsbapp.com
+0.0.0.0	cdn.acsbapp.com
 0.0.0.0	acscdn.com
 0.0.0.0	st.acstnst.com
 0.0.0.0	c.actiondesk.com
@@ -1945,6 +1947,8 @@ fe80::1%lo0		localhost
 0.0.0.0	www.fnkyyrgraizy.com
 0.0.0.0	fogayeown.com
 0.0.0.0	folderbunch.com
+0.0.0.0	e.fomo.com
+0.0.0.0	load.fomo.com
 0.0.0.0	foowafoa.com
 0.0.0.0	fast.forbes.com
 0.0.0.0	harmaninternational.secure.force.com
@@ -3015,6 +3019,7 @@ fe80::1%lo0		localhost
 0.0.0.0	olkrzytv.com
 0.0.0.0	www.olkrzytv.com
 0.0.0.0	olthorol.com
+0.0.0.0	a.omappapi.com
 0.0.0.0	fo-api.omnitagjs.com
 0.0.0.0	fo-ssp-asi01.omnitagjs.com
 0.0.0.0	hb-api.omnitagjs.com
@@ -3728,6 +3733,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.shooshmedia.com
 0.0.0.0	tracking.shopback.com
 0.0.0.0	sdks.shopifycdn.com
+0.0.0.0	godog.shopifycloud.com
 0.0.0.0	monorail-edge.shopifysvc.com
 0.0.0.0	adserve.shopzilla.com
 0.0.0.0	shorteh.com
@@ -4029,6 +4035,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tidaltv.com
 0.0.0.0	uav.tidaltv.com
 0.0.0.0	tightsaturdayi.com
+0.0.0.0	analytics.tiktok.com
 0.0.0.0	cdn.tinypass.com
 0.0.0.0	dashboard.tinypass.com
 0.0.0.0	experience.tinypass.com
@@ -4059,6 +4066,7 @@ fe80::1%lo0		localhost
 0.0.0.0	totaldomination.com
 0.0.0.0	totalfreetv.com
 0.0.0.0	www.totalfreetv.com
+0.0.0.0	www.tp88trk.com
 0.0.0.0	trackalyzer.com
 0.0.0.0	t3.trackalyzer.com
 0.0.0.0	t5.trackalyzer.com
@@ -4552,6 +4560,8 @@ fe80::1%lo0		localhost
 0.0.0.0	ymzrrizntbhde.com
 0.0.0.0	www.ymzrrizntbhde.com
 0.0.0.0	analytics.yopify.com
+0.0.0.0	p.yotpo.com
+0.0.0.0	staticw2.yotpo.com
 0.0.0.0	valf.atm.youku.com
 0.0.0.0	go.youlamedia.com
 0.0.0.0	ifa.youpornmate.com
@@ -5829,6 +5839,7 @@ fe80::1%lo0		localhost
 0.0.0.0	adplug.org
 0.0.0.0	data.adsrvr.org
 0.0.0.0	insight.adsrvr.org
+0.0.0.0	js.adsrvr.org
 0.0.0.0	match.adsrvr.org
 0.0.0.0	c.adtrace.org
 0.0.0.0	cdn.adtrace.org
