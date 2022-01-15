@@ -2032,6 +2032,8 @@ fe80::1%lo0		localhost
 0.0.0.0	e.gdbly.com
 0.0.0.0	gdmconvtrck.com
 0.0.0.0	gebadu.com
+0.0.0.0	api.geetest.com
+0.0.0.0	static.geetest.com
 0.0.0.0	gejute.com
 0.0.0.0	ads.genericlink.com
 0.0.0.0	static.genericlink.com
@@ -2427,6 +2429,8 @@ fe80::1%lo0		localhost
 0.0.0.0	static.intercomassets.com
 0.0.0.0	js.intercomcdn.com
 0.0.0.0	ads.intergi.com
+0.0.0.0	cdn.intergi.com
+0.0.0.0	cdn.intergient.com
 0.0.0.0	interimmicroscope.com
 0.0.0.0	gdpr.internetbrands.com
 0.0.0.0	hs.interpolls.com
@@ -2596,6 +2600,7 @@ fe80::1%lo0		localhost
 0.0.0.0	t.lever-analytics.com
 0.0.0.0	ads.lfstmedia.com
 0.0.0.0	cdn.lfstmedia.com
+0.0.0.0	eic-rum.elsa.lgecloudapm.com
 0.0.0.0	b-code.liadm.com
 0.0.0.0	i.liadm.com
 0.0.0.0	libedgolart.com
@@ -3742,6 +3747,7 @@ fe80::1%lo0		localhost
 0.0.0.0	shufflewithdrawplanets.com
 0.0.0.0	a.shukriya90.com
 0.0.0.0	sidewayembed.com
+0.0.0.0	cdn.sift.com
 0.0.0.0	cdn.siftscience.com
 0.0.0.0	sillrochester.com
 0.0.0.0	silversomewhatbudget.com
@@ -4198,6 +4204,8 @@ fe80::1%lo0		localhost
 0.0.0.0	typerock.com
 0.0.0.0	typiccor.com
 0.0.0.0	uadpost.com
+0.0.0.0	assets.ubembed.com
+0.0.0.0	js.ubembed.com
 0.0.0.0	metrics.ubi.com
 0.0.0.0	udarem.com
 0.0.0.0	udatabiz.com
@@ -4519,6 +4527,7 @@ fe80::1%lo0		localhost
 0.0.0.0	row.bc.yahoo.com
 0.0.0.0	us.bc.yahoo.com
 0.0.0.0	beap-bc.yahoo.com
+0.0.0.0	consent.yahoo.com
 0.0.0.0	csp.yahoo.com
 0.0.0.0	fc.yahoo.com
 0.0.0.0	ganon.yahoo.com
@@ -4531,6 +4540,7 @@ fe80::1%lo0		localhost
 0.0.0.0	geo.query.yahoo.com
 0.0.0.0	lh.secure.yahoo.com
 0.0.0.0	c2shb.ssp.yahoo.com
+0.0.0.0	bats.video.yahoo.com
 0.0.0.0	tw.rc.webmaster.yahoo.com
 0.0.0.0	ads.yap.yahoo.com
 0.0.0.0	pr.ybp.yahoo.com
@@ -6078,6 +6088,8 @@ fe80::1%lo0		localhost
 0.0.0.0	c.ingage.tech
 0.0.0.0	t.ingage.tech
 0.0.0.0	uet.ingage.tech
+0.0.0.0	live.primis.tech
+0.0.0.0	video.primis.tech
 0.0.0.0	static.stats.in.th
 0.0.0.0	tracker.stats.in.th
 0.0.0.0	lvs.truehits.in.th
@@ -6123,6 +6135,8 @@ fe80::1%lo0		localhost
 0.0.0.0	surveyonline.top
 0.0.0.0	ueaggress.top
 0.0.0.0	yiatelychur.top
+0.0.0.0	s.console.adtarget.com.tr
+0.0.0.0	sync.console.adtarget.com.tr
 0.0.0.0	adservice.google.com.tr
 0.0.0.0	ads.adap.tv
 0.0.0.0	redir.adap.tv
