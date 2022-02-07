@@ -2358,6 +2358,7 @@ fe80::1%lo0		localhost
 0.0.0.0	inclk.com
 0.0.0.0	t.incomingtracker.com
 0.0.0.0	incompatiblemisterfarmer.com
+0.0.0.0	conv.indeed.com
 0.0.0.0	gdc.indeed.com
 0.0.0.0	js.indexww.com
 0.0.0.0	js-sec.indexww.com
@@ -3483,6 +3484,7 @@ fe80::1%lo0		localhost
 0.0.0.0	xml.realtime-bid.com
 0.0.0.0	web4.realtracker.com
 0.0.0.0	recessary.com
+0.0.0.0	jsv3.recruitics.com
 0.0.0.0	red-direct-n.com
 0.0.0.0	oascentral.red7media.com
 0.0.0.0	noah.reddion.com
