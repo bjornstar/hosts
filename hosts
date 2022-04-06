@@ -94,6 +94,8 @@ fe80::1%lo0		localhost
 #0.0.0.0	i2.ytimg.com
 # Seems like a useful service
 #0.0.0.0	cdn.transifex.com
+# https://github.com/bjornstar/hosts/issues/24
+#0.0.0.0	www.jotform.com
 
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
@@ -812,6 +814,7 @@ fe80::1%lo0		localhost
 0.0.0.0	znaptag-tags-uk.s3.amazonaws.com
 0.0.0.0	zy4-444.s3.amazonaws.com
 0.0.0.0	japan2.ms.windows-driver-42717.win.s3-website-ap-northeast-1.amazonaws.com
+0.0.0.0	papercups.s3.us-east-2.amazonaws.com
 0.0.0.0	i1.ambrybox.com
 0.0.0.0	i2.ambrybox.com
 0.0.0.0	i4.ambrybox.com
@@ -1052,6 +1055,9 @@ fe80::1%lo0		localhost
 0.0.0.0	reachms.bfmio.com
 0.0.0.0	sync.bfmio.com
 0.0.0.0	platform.bidgear.com
+0.0.0.0	bsrv.bidsxchange.com
+0.0.0.0	bsrv-qa.bidsxchange.com
+0.0.0.0	de.bidsxchange.com
 0.0.0.0	go.bidvance.com
 0.0.0.0	secure.bidverdrs.com
 0.0.0.0	bdv.bidvertiser.com
@@ -1582,6 +1588,7 @@ fe80::1%lo0		localhost
 0.0.0.0	darish-drustents.com
 0.0.0.0	media.data-slimspots.com
 0.0.0.0	rum-http-intake.logs.datadoghq.com
+0.0.0.0	adunit.datawrkz.com
 0.0.0.0	dateddeed.com
 0.0.0.0	dating-snap.com
 0.0.0.0	mb.datingadzone.com
@@ -2239,6 +2246,9 @@ fe80::1%lo0		localhost
 0.0.0.0	hjlas.com
 0.0.0.0	www.hkoxlirf.com
 0.0.0.0	hoistchart.com
+0.0.0.0	adcdn.holmesmind.com
+0.0.0.0	c.holmesmind.com
+0.0.0.0	cdn.holmesmind.com
 0.0.0.0	honorableland.com
 0.0.0.0	affiliates.hookup.com
 0.0.0.0	click.hooligapps.com
@@ -2504,7 +2514,6 @@ fe80::1%lo0		localhost
 0.0.0.0	syndication.jobthread.com
 0.0.0.0	dgate.joinsmsn.com
 0.0.0.0	www.jokeroo.com
-0.0.0.0	www.jotform.com
 0.0.0.0	doxsk.jquerylibs.com
 0.0.0.0	jrtux.com
 0.0.0.0	jsmentry.com
@@ -2673,6 +2682,7 @@ fe80::1%lo0		localhost
 0.0.0.0	llahnch259.com
 0.0.0.0	w3n.llbean.com
 0.0.0.0	llq9q2lacr.com
+0.0.0.0	cm.lndata.com
 0.0.0.0	e.lndjj.com
 0.0.0.0	www.loading-delivery1.com
 0.0.0.0	www.loading-delivery2.com
@@ -3169,6 +3179,8 @@ fe80::1%lo0		localhost
 0.0.0.0	buyersguide.pennwell.com
 0.0.0.0	banners.penthouse.com
 0.0.0.0	perceivefilthy.com
+0.0.0.0	perfalytics.com
+0.0.0.0	api.perfalytics.com
 0.0.0.0	cas.avalon.perfdrive.com
 0.0.0.0	cdn.perfdrive.com
 0.0.0.0	tag.perfectaudience.com
@@ -3638,6 +3650,7 @@ fe80::1%lo0		localhost
 0.0.0.0	chat.sakuralive.com
 0.0.0.0	imageup.sakuralive.com
 0.0.0.0	www.sakuralive.com
+0.0.0.0	cdn2.sales-frontier.com
 0.0.0.0	salesforceliveagent.com
 0.0.0.0	c.la4-c1cs-dfw.salesforceliveagent.com
 0.0.0.0	track.salesmai.com
@@ -4907,6 +4920,7 @@ fe80::1%lo0		localhost
 0.0.0.0	assets.lateral.io
 0.0.0.0	cdn.logrocket.io
 0.0.0.0	r.logrocket.io
+0.0.0.0	cdn.lr-ingest.io
 0.0.0.0	api.lytics.io
 0.0.0.0	c.lytics.io
 0.0.0.0	live.mrf.io
@@ -4914,6 +4928,8 @@ fe80::1%lo0		localhost
 0.0.0.0	io.narrative.io
 0.0.0.0	cdn.ndg.io
 0.0.0.0	s.ntv.io
+0.0.0.0	app.papercups.io
+0.0.0.0	chat-widget.papercups.io
 0.0.0.0	app.pendo.io
 0.0.0.0	cdn.pendo.io
 0.0.0.0	buy-ap.piano.io
@@ -6203,6 +6219,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.adskeeper.co.uk
 0.0.0.0	wa.and.co.uk
 0.0.0.0	beead.co.uk
+0.0.0.0	ads.brandadvance.co.uk
 0.0.0.0	ads.carocean.co.uk
 0.0.0.0	bc.dailymail.co.uk
 0.0.0.0	t.dailymail.co.uk
