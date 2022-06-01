@@ -1866,6 +1866,7 @@ fe80::1%lo0		localhost
 0.0.0.0	t1.extreme-dm.com
 0.0.0.0	extreme-ip-lookup.com
 0.0.0.0	extremetracking.com
+0.0.0.0	clkv4.extyoneplus-3.com
 0.0.0.0	clicks.eyereturn.com
 0.0.0.0	cm.eyereturn.com
 0.0.0.0	rcws.eyereturn.com
@@ -1980,6 +1981,11 @@ fe80::1%lo0		localhost
 0.0.0.0	harmaninternational.secure.force.com
 0.0.0.0	service.force.com
 0.0.0.0	analytics.foresee.com
+0.0.0.0	cdn.forter.com
+0.0.0.0	cdn0.forter.com
+0.0.0.0	cdn3.forter.com
+0.0.0.0	cdn4.forter.com
+0.0.0.0	cdn9.forter.com
 0.0.0.0	forzubatr.com
 0.0.0.0	api.fouanalytics.com
 0.0.0.0	metrics.foxnews.com
@@ -3119,6 +3125,7 @@ fe80::1%lo0		localhost
 0.0.0.0	tracking.optimatic.com
 0.0.0.0	vast.optimatic.com
 0.0.0.0	cdn.optimizely.com
+0.0.0.0	cdn-pci.optimizely.com
 0.0.0.0	cdn3.optimizely.com
 0.0.0.0	errors.client.optimizely.com
 0.0.0.0	179110133.log.optimizely.com
@@ -4345,6 +4352,7 @@ fe80::1%lo0		localhost
 0.0.0.0	www.variouscreativeformats.com
 0.0.0.0	vbtrax.com
 0.0.0.0	vc-mvt-pixel-80.vc-networks.com
+0.0.0.0	track.vcdc.com
 0.0.0.0	www.vce007.com
 0.0.0.0	click.vcommission.com
 0.0.0.0	a1.vdna-assets.com
@@ -5913,6 +5921,7 @@ fe80::1%lo0		localhost
 0.0.0.0	mmofreegames.online
 0.0.0.0	redwind.online
 0.0.0.0	videox.online
+0.0.0.0	watchvideo.online
 0.0.0.0	cdn1.winr.online
 0.0.0.0	engine.4chan-ads.org
 0.0.0.0	static.4chan-ads.org
@@ -6322,6 +6331,7 @@ fe80::1%lo0		localhost
 0.0.0.0	iclwy.xyz
 0.0.0.0	go.ippsrvng.xyz
 0.0.0.0	thescript.javfinder.xyz
+0.0.0.0	m7d0al.xyz
 0.0.0.0	myperrfectdate.xyz
 0.0.0.0	serori.xyz
 0.0.0.0	c.sotiger.xyz
