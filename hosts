@@ -97,6 +97,22 @@ fe80::1%lo0		localhost
 # https://github.com/bjornstar/hosts/issues/24
 #0.0.0.0	www.jotform.com
 
+# https://github.com/bjornstar/hosts/issues/25
+#0.0.0.0	sdks.shopifycdn.com
+
+# https://github.com/bjornstar/hosts/issues/27
+#0.0.0.0	player.megaphone.fm
+#0.0.0.0	playlist.megaphone.fm
+
+# https://github.com/bjornstar/hosts/issues/28
+#0.0.0.0	api.ashleymadison.com
+
+# https://github.com/bjornstar/hosts/issues/29
+#0.0.0.0	img.alicdn.com
+
+# https://github.com/bjornstar/hosts/issues/30
+#0.0.0.0	consent.cookiebot.com
+
 0.0.0.0	api.content.ad
 0.0.0.0	yts.ag
 0.0.0.0	cdn.ftd.agency
@@ -753,7 +769,6 @@ fe80::1%lo0		localhost
 0.0.0.0	offer.alibaba.com
 0.0.0.0	pointman.alibaba.com
 0.0.0.0	cbu01.alicdn.com
-0.0.0.0	img.alicdn.com
 0.0.0.0	activities.aliexpress.com
 0.0.0.0	brands.aliexpress.com
 0.0.0.0	s.click.aliexpress.com
@@ -908,7 +923,6 @@ fe80::1%lo0		localhost
 0.0.0.0	asccdn.com
 0.0.0.0	asgclickpop.com
 0.0.0.0	ashcdn.com
-0.0.0.0	api.ashleymadison.com
 0.0.0.0	lander-cdn.ashleymadison.com
 0.0.0.0	www.ashleymadison.com
 0.0.0.0	www.ashleyrnadison.com
@@ -1518,7 +1532,6 @@ fe80::1%lo0		localhost
 0.0.0.0	livepass.conviva.com
 0.0.0.0	livepassdl.conviva.com
 0.0.0.0	livepassdl2.conviva.com
-0.0.0.0	consent.cookiebot.com
 0.0.0.0	cdn.cooladata.com
 0.0.0.0	coolcashstashes.com
 0.0.0.0	banners.coolmirage.com
@@ -3794,7 +3807,6 @@ fe80::1%lo0		localhost
 0.0.0.0	smetrics.shinseibank.com
 0.0.0.0	www.shooshmedia.com
 0.0.0.0	tracking.shopback.com
-0.0.0.0	sdks.shopifycdn.com
 0.0.0.0	godog.shopifycloud.com
 0.0.0.0	monorail-edge.shopifysvc.com
 0.0.0.0	adserve.shopzilla.com
@@ -4773,8 +4785,6 @@ fe80::1%lo0		localhost
 0.0.0.0	i.simpli.fi
 0.0.0.0	um.simpli.fi
 0.0.0.0	assets.callisto.fm
-0.0.0.0	player.megaphone.fm
-0.0.0.0	playlist.megaphone.fm
 0.0.0.0	c.ad6media.fr
 0.0.0.0	rw9bj24c2j.s.ad6media.fr
 0.0.0.0	live.countus.fr
